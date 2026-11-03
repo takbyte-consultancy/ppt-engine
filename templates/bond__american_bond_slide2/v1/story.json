@@ -1,0 +1,18 @@
+{
+  "key": "LOCAL-american_bond_slide_dummy_lux_2",
+  "summary": "",
+  "description": "",
+  "asset_type": "Bond",
+  "acronym": "American_bond_slide2",
+  "datasource_id": "ds_american_bond",
+  "attachments": [
+    {
+      "filename": "american_bond_slide_dummy_lux_2.pptx",
+      "size": 1126603,
+      "created": "",
+      "url": "",
+      "local_path": "/Users/arpittripathi/Documents/Codes/ppt-engine/work/uploads/american_bond_slide_dummy_lux_2.pptx"
+    }
+  ],
+  "raw_fields": {}
+}

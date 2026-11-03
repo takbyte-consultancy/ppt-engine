@@ -1,0 +1,12 @@
+{
+  "placeholders": 2,
+  "removed": [],
+  "diff": {
+    "added": [
+      "$.sources[0]"
+    ],
+    "removed": [],
+    "changed": []
+  },
+  "warnings": []
+}

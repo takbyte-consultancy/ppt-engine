@@ -1,0 +1,28 @@
+{
+  "asset_type": "Equity",
+  "as_of_date": "30 Sep 2026",
+  "header": {"title": "Global Equity Strategy — Portfolio Overview",
+             "subtitle": "Quarterly exhibit for investment committee"},
+  "summary": {"aum_mn": 1250.5, "ytd_return_pct": 8.4, "holdings_count": 62},
+  "top_holdings": [
+    {"name": "Microsoft Corp", "ticker": "MSFT", "weight_pct": 6.2, "return_pct": 11.3, "sector": "Technology"},
+    {"name": "Apple Inc", "ticker": "AAPL", "weight_pct": 5.8, "return_pct": 7.9, "sector": "Technology"},
+    {"name": "Nestle SA", "ticker": "NESN", "weight_pct": 4.1, "return_pct": -1.2, "sector": "Consumer"},
+    {"name": "HDFC Bank", "ticker": "HDFCBANK", "weight_pct": 3.7, "return_pct": 9.6, "sector": "Financials"},
+    {"name": "Novo Nordisk", "ticker": "NOVO-B", "weight_pct": 3.3, "return_pct": 4.4, "sector": "Healthcare"},
+    {"name": "Toyota Motor", "ticker": "7203", "weight_pct": 2.9, "return_pct": 3.1, "sector": "Consumer"}
+  ],
+  "sector_allocation": [
+    {"sector": "Technology", "weight_pct": 31.0},
+    {"sector": "Financials", "weight_pct": 22.5},
+    {"sector": "Healthcare", "weight_pct": 17.0},
+    {"sector": "Consumer", "weight_pct": 18.5},
+    {"sector": "Other", "weight_pct": 11.0}
+  ],
+  "performance": [
+    {"period": "1M", "fund_pct": 1.2, "benchmark_pct": 0.9},
+    {"period": "3M", "fund_pct": 3.8, "benchmark_pct": 3.1},
+    {"period": "YTD", "fund_pct": 8.4, "benchmark_pct": 7.2},
+    {"period": "1Y", "fund_pct": 12.6, "benchmark_pct": 11.0}
+  ]
+}

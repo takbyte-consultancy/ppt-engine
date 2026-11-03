@@ -1,0 +1,105 @@
+{
+  "id": "83a5dd6b1f10",
+  "title": "PPT-AI Pitchbook",
+  "version": 1,
+  "created_at": "2026-11-03T09:13:50+00:00",
+  "status": "completed",
+  "slides": [
+    {
+      "key": "BOND::AMERICAN_BOND_1",
+      "key_hash": "1b89181c707d2706",
+      "fields": {
+        "asset_type": "Bond",
+        "acronym": "American_bond_1"
+      },
+      "uid": "1b89181c707d2706:v1",
+      "version": 1,
+      "location": "exhibits/1b89181c707d2706__bond__american_bond_1/v1",
+      "file_name": "BOND_AMERICAN_BOND_1.pptx",
+      "exhibit_name": "BOND_AMERICAN_BOND_1",
+      "sample_uid": null,
+      "sample_slide": 1
+    },
+    {
+      "key": "BOND::AMERICAN_BOND_SLIDE2",
+      "key_hash": "05fea1c86823030e",
+      "fields": {
+        "asset_type": "Bond",
+        "acronym": "American_bond_slide2"
+      },
+      "uid": "05fea1c86823030e:v1",
+      "version": 1,
+      "location": "exhibits/05fea1c86823030e__bond__american_bond_slide2/v1",
+      "file_name": "BOND_AMERICAN_BOND_SLIDE2.pptx",
+      "exhibit_name": "BOND_AMERICAN_BOND_SLIDE2",
+      "sample_uid": null,
+      "sample_slide": 3
+    },
+    {
+      "key": "BOND::AMERICAN_BOND_SLIDE1",
+      "key_hash": "a64ee15695317def",
+      "fields": {
+        "asset_type": "Bond",
+        "acronym": "American_bond_slide1"
+      },
+      "uid": "a64ee15695317def:v1",
+      "version": 1,
+      "location": "exhibits/a64ee15695317def__bond__american_bond_slide1/v1",
+      "file_name": "BOND_AMERICAN_BOND_SLIDE1.pptx",
+      "exhibit_name": "BOND_AMERICAN_BOND_SLIDE1",
+      "sample_uid": "SAS.D00129762.CGGBLU.EN.FIT.USD.Z",
+      "sample_slide": 4
+    },
+    {
+      "key": "BOND::AMERICAN_BOND_1",
+      "key_hash": "1b89181c707d2706",
+      "fields": {
+        "asset_type": "Bond",
+        "acronym": "American_bond_1"
+      },
+      "uid": "1b89181c707d2706:v1",
+      "version": 1,
+      "location": "exhibits/1b89181c707d2706__bond__american_bond_1/v1",
+      "file_name": "BOND_AMERICAN_BOND_1.pptx",
+      "exhibit_name": "BOND_AMERICAN_BOND_1",
+      "sample_uid": "ESG@CG.4721501_368",
+      "sample_slide": 5
+    }
+  ],
+  "criteria": {
+    "sample_file": "platinum_american_bond_pitchbook_dummy.pptx",
+    "sample_profile": {
+      "slide_count": 7,
+      "width_inches": 11.0,
+      "height_inches": 8.5
+    }
+  },
+  "feedback": [
+    {
+      "scope": "component",
+      "slide_number": 1,
+      "component": "Title 2 · shape 3 · Investment results",
+      "source": {
+        "key": "BOND::AMERICAN_BOND_1",
+        "key_hash": "1b89181c707d2706",
+        "fields": {
+          "asset_type": "Bond",
+          "acronym": "American_bond_1"
+        },
+        "uid": "1b89181c707d2706:v1",
+        "version": 1,
+        "location": "exhibits/1b89181c707d2706__bond__american_bond_1/v1",
+        "file_name": "BOND_AMERICAN_BOND_1.pptx",
+        "exhibit_name": "BOND_AMERICAN_BOND_1",
+        "sample_uid": null,
+        "sample_slide": 1
+      },
+      "shape_id": 3,
+      "replacement_text": "Investment Result",
+      "comment": "Text Change",
+      "id": "FB-001",
+      "status": "resolved",
+      "applied": true
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "callouts": [],
+  "callout_connector_ids": [],
+  "locked_runs": [],
+  "fully_locked_shape_ids": [],
+  "partially_locked_shape_ids": [],
+  "locked_cells": {},
+  "theme_colors": {
+    "dk1": "000000",
+    "lt1": "FFFFFF",
+    "dk2": "005F9E",
+    "lt2": "D5D0CA",
+    "accent1": "005F9E",
+    "accent2": "009CDC",
+    "accent3": "00AEA9",
+    "accent4": "762157",
+    "accent5": "554742",
+    "accent6": "A39E99",
+    "hlink": "009CDC",
+    "folHlink": "7BD0E2"
+  },
+  "decisions": []
+}

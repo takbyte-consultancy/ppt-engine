@@ -1,0 +1,1744 @@
+{
+  "schema_version": 1,
+  "slide": {
+    "width_emu": 12192000,
+    "height_emu": 6858000,
+    "layout": "Title Only",
+    "master": ""
+  },
+  "theme_colors": {
+    "dk1": "000000",
+    "lt1": "FFFFFF",
+    "dk2": "005F9E",
+    "lt2": "D5D0CA",
+    "accent1": "005F9E",
+    "accent2": "009CDC",
+    "accent3": "00AEA9",
+    "accent4": "762157",
+    "accent5": "554742",
+    "accent6": "A39E99",
+    "hlink": "009CDC",
+    "folHlink": "7BD0E2"
+  },
+  "shapes": [
+    {
+      "shape_id": 2,
+      "name": "Table 1",
+      "shape_type": "TABLE",
+      "auto_shape_type": null,
+      "z_order": 0,
+      "locator": {
+        "shape_id": 2,
+        "name": "Table 1",
+        "z_order": 0,
+        "placeholder_idx": null,
+        "placeholder_type": null,
+        "xpath": "/p:sld/p:cSld/p:spTree/p:graphicFrame"
+      },
+      "geometry_emu": {
+        "left": 12296498,
+        "top": 261534,
+        "width": 2151248,
+        "height": 586215,
+        "rotation": 0.0
+      },
+      "geometry_in": {
+        "left": 13.448,
+        "top": 0.286,
+        "width": 2.353,
+        "height": 0.641
+      },
+      "fill": null,
+      "line": null,
+      "kind": "table",
+      "table": {
+        "n_rows": 3,
+        "n_cols": 4,
+        "column_widths": [
+          537812,
+          537812,
+          537812,
+          537812
+        ],
+        "row_heights": [
+          179270,
+          179270,
+          242047
+        ],
+        "flags": {
+          "firstRow": "1",
+          "bandRow": "1"
+        },
+        "cells": [
+          {
+            "r": 0,
+            "c": 0,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": "FF0000",
+            "margins": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "vertical_anchor": "MIDDLE",
+            "borders": {
+              "lnL": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "38100",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "CENTER",
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": null,
+                "bullet": null,
+                "margin_left": null,
+                "indent": null,
+                "end_para_size": "700",
+                "runs": [
+                  {
+                    "text": "DRAFT",
+                    "font": {
+                      "name": "+mn-lt",
+                      "size_pt": 10.0,
+                      "bold": true,
+                      "italic": null,
+                      "underline": null,
+                      "color": "FFFFFF",
+                      "color_theme": "BACKGROUND_1"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "r": 0,
+            "c": 1,
+            "merge_origin": true,
+            "spanned": false,
+            "span": [
+              1,
+              3
+            ],
+            "fill": "FF0000",
+            "margins": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "vertical_anchor": "MIDDLE",
+            "borders": {
+              "lnL": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "CENTER",
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": null,
+                "bullet": null,
+                "margin_left": null,
+                "indent": null,
+                "end_para_size": "500",
+                "runs": [
+                  {
+                    "text": "SPTSIK on 26.10.23 at 10:16 AM",
+                    "font": {
+                      "name": "+mn-lt",
+                      "size_pt": 5.0,
+                      "bold": false,
+                      "italic": null,
+                      "underline": null,
+                      "color": "FFFFFF",
+                      "color_theme": "BACKGROUND_1"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "r": 0,
+            "c": 2,
+            "merge_origin": false,
+            "spanned": true,
+            "span": null,
+            "fill": "FF0000",
+            "margins": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "vertical_anchor": "MIDDLE",
+            "borders": {
+              "lnL": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "38100",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "CENTER",
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": null,
+                "bullet": null,
+                "margin_left": null,
+                "indent": null,
+                "end_para_size": "800",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 0,
+            "c": 3,
+            "merge_origin": false,
+            "spanned": true,
+            "span": null,
+            "fill": "FF0000",
+            "margins": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "vertical_anchor": "MIDDLE",
+            "borders": {
+              "lnL": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "38100",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "CENTER",
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": null,
+                "bullet": null,
+                "margin_left": null,
+                "indent": null,
+                "end_para_size": "800",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 1,
+            "c": 0,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": "FF0000",
+            "margins": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "vertical_anchor": "MIDDLE",
+            "borders": {
+              "lnL": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": "6350",
+                "color": "FFCCCC",
+                "none": false
+              },
+              "lnT": {
+                "w": "38100",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "CENTER",
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": null,
+                "bullet": null,
+                "margin_left": null,
+                "indent": null,
+                "end_para_size": null,
+                "runs": [
+                  {
+                    "text": "SPT QA",
+                    "font": {
+                      "name": "+mn-lt",
+                      "size_pt": 7.0,
+                      "bold": false,
+                      "italic": null,
+                      "underline": null,
+                      "color": "FFFFFF",
+                      "color_theme": "BACKGROUND_1"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "r": 1,
+            "c": 1,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": "FF0000",
+            "margins": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "vertical_anchor": "MIDDLE",
+            "borders": {
+              "lnL": {
+                "w": "6350",
+                "color": "FFCCCC",
+                "none": false
+              },
+              "lnR": {
+                "w": "6350",
+                "color": "FFCCCC",
+                "none": false
+              },
+              "lnT": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "CENTER",
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": null,
+                "bullet": null,
+                "margin_left": null,
+                "indent": null,
+                "end_para_size": null,
+                "runs": [
+                  {
+                    "text": "CG QA",
+                    "font": {
+                      "name": "+mn-lt",
+                      "size_pt": 7.0,
+                      "bold": false,
+                      "italic": null,
+                      "underline": null,
+                      "color": "FFFFFF",
+                      "color_theme": "BACKGROUND_1"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "r": 1,
+            "c": 2,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": "FF0000",
+            "margins": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "vertical_anchor": "MIDDLE",
+            "borders": {
+              "lnL": {
+                "w": "6350",
+                "color": "FFCCCC",
+                "none": false
+              },
+              "lnR": {
+                "w": "6350",
+                "color": "FFCCCC",
+                "none": false
+              },
+              "lnT": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "CENTER",
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": null,
+                "bullet": null,
+                "margin_left": null,
+                "indent": null,
+                "end_para_size": null,
+                "runs": [
+                  {
+                    "text": "DATA QA",
+                    "font": {
+                      "name": "+mn-lt",
+                      "size_pt": 7.0,
+                      "bold": false,
+                      "italic": null,
+                      "underline": null,
+                      "color": "FFFFFF",
+                      "color_theme": "BACKGROUND_1"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "r": 1,
+            "c": 3,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": "FF0000",
+            "margins": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "vertical_anchor": "MIDDLE",
+            "borders": {
+              "lnL": {
+                "w": "6350",
+                "color": "FFCCCC",
+                "none": false
+              },
+              "lnR": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "CENTER",
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": null,
+                "bullet": null,
+                "margin_left": null,
+                "indent": null,
+                "end_para_size": null,
+                "runs": [
+                  {
+                    "text": "CE REVIEW",
+                    "font": {
+                      "name": "+mn-lt",
+                      "size_pt": 7.0,
+                      "bold": false,
+                      "italic": null,
+                      "underline": null,
+                      "color": "FFFFFF",
+                      "color_theme": "BACKGROUND_1"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "r": 2,
+            "c": 0,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": "FF0000",
+            "margins": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "vertical_anchor": "MIDDLE",
+            "borders": {
+              "lnL": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": "6350",
+                "color": "FFCCCC",
+                "none": false
+              },
+              "lnT": {
+                "w": "38100",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "CENTER",
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": null,
+                "bullet": null,
+                "margin_left": null,
+                "indent": null,
+                "end_para_size": "500",
+                "runs": [
+                  {
+                    "text": "SPTCHC on 26.10.23 at 12:08 PM",
+                    "font": {
+                      "name": "+mn-lt",
+                      "size_pt": 5.0,
+                      "bold": null,
+                      "italic": null,
+                      "underline": null,
+                      "color": "FFFFFF",
+                      "color_theme": "BACKGROUND_1"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "r": 2,
+            "c": 1,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": "FF0000",
+            "margins": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "vertical_anchor": "MIDDLE",
+            "borders": {
+              "lnL": {
+                "w": "6350",
+                "color": "FFCCCC",
+                "none": false
+              },
+              "lnR": {
+                "w": "6350",
+                "color": "FFCCCC",
+                "none": false
+              },
+              "lnT": {
+                "w": "38100",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "CENTER",
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": null,
+                "bullet": null,
+                "margin_left": null,
+                "indent": null,
+                "end_para_size": null,
+                "runs": [
+                  {
+                    "text": "DISB on 26.10.23 at 8:59 AM",
+                    "font": {
+                      "name": "+mn-lt",
+                      "size_pt": 5.0,
+                      "bold": null,
+                      "italic": null,
+                      "underline": null,
+                      "color": "FFFFFF",
+                      "color_theme": "BACKGROUND_1"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "r": 2,
+            "c": 2,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": "FF0000",
+            "margins": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "vertical_anchor": "MIDDLE",
+            "borders": {
+              "lnL": {
+                "w": "6350",
+                "color": "FFCCCC",
+                "none": false
+              },
+              "lnR": {
+                "w": "6350",
+                "color": "FFCCCC",
+                "none": false
+              },
+              "lnT": {
+                "w": "38100",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "CENTER",
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": null,
+                "bullet": null,
+                "margin_left": null,
+                "indent": null,
+                "end_para_size": "500",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 2,
+            "c": 3,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": "FF0000",
+            "margins": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "vertical_anchor": "MIDDLE",
+            "borders": {
+              "lnL": {
+                "w": "6350",
+                "color": "FFCCCC",
+                "none": false
+              },
+              "lnR": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "38100",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "CENTER",
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": null,
+                "bullet": null,
+                "margin_left": null,
+                "indent": null,
+                "end_para_size": "500",
+                "runs": []
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "shape_id": 25,
+      "name": "object 11",
+      "shape_type": "FREEFORM",
+      "auto_shape_type": null,
+      "z_order": 1,
+      "locator": {
+        "shape_id": 25,
+        "name": "object 11",
+        "z_order": 1,
+        "placeholder_idx": null,
+        "placeholder_type": null,
+        "xpath": "/p:sld/p:cSld/p:spTree/p:sp[1]"
+      },
+      "geometry_emu": {
+        "left": 3901090,
+        "top": 6297163,
+        "width": 507259,
+        "height": 0,
+        "rotation": 0.0
+      },
+      "geometry_in": {
+        "left": 4.266,
+        "top": 6.887,
+        "width": 0.555,
+        "height": 0.0
+      },
+      "fill": null,
+      "line": {
+        "color": "FEFEFE",
+        "width": 3175
+      },
+      "kind": "text",
+      "text_frame": {
+        "word_wrap": true,
+        "auto_size": null,
+        "vertical_anchor": null,
+        "margins": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "paragraphs": [
+        {
+          "level": 0,
+          "alignment": null,
+          "space_before_pt": null,
+          "space_after_pt": null,
+          "line_spacing": null,
+          "bullet": null,
+          "margin_left": null,
+          "indent": null,
+          "end_para_size": "1129",
+          "runs": []
+        }
+      ]
+    },
+    {
+      "shape_id": 26,
+      "name": "Title 35",
+      "shape_type": "PLACEHOLDER",
+      "auto_shape_type": null,
+      "z_order": 2,
+      "locator": {
+        "shape_id": 26,
+        "name": "Title 35",
+        "z_order": 2,
+        "placeholder_idx": 0,
+        "placeholder_type": "TITLE",
+        "xpath": "/p:sld/p:cSld/p:spTree/p:sp[2]"
+      },
+      "geometry_emu": {
+        "left": 1986543,
+        "top": 739869,
+        "width": 8223575,
+        "height": 311395,
+        "rotation": 0.0
+      },
+      "geometry_in": {
+        "left": 2.173,
+        "top": 0.809,
+        "width": 8.993,
+        "height": 0.341
+      },
+      "fill": null,
+      "line": {
+        "color": null,
+        "width": 0
+      },
+      "kind": "text",
+      "text_frame": {
+        "word_wrap": true,
+        "auto_size": "SHAPE_TO_FIT_TEXT",
+        "vertical_anchor": "TOP",
+        "margins": [
+          0,
+          0,
+          0,
+          23903
+        ]
+      },
+      "paragraphs": [
+        {
+          "level": 0,
+          "alignment": null,
+          "space_before_pt": null,
+          "space_after_pt": null,
+          "line_spacing": null,
+          "bullet": null,
+          "margin_left": null,
+          "indent": null,
+          "end_para_size": "2324",
+          "runs": [
+            {
+              "text": "{{A}} Global Bond Fund (LUX)",
+              "font": {
+                "name": "AvenirNext LT Com Regular",
+                "size_pt": null,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000",
+                "color_theme": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "shape_id": 27,
+      "name": "TextBox 26",
+      "shape_type": "TEXT_BOX",
+      "auto_shape_type": null,
+      "z_order": 3,
+      "locator": {
+        "shape_id": 27,
+        "name": "TextBox 26",
+        "z_order": 3,
+        "placeholder_idx": null,
+        "placeholder_type": null,
+        "xpath": "/p:sld/p:cSld/p:spTree/p:sp[3]"
+      },
+      "geometry_emu": {
+        "left": 1986543,
+        "top": 1159673,
+        "width": 8223575,
+        "height": 180114,
+        "rotation": 0.0
+      },
+      "geometry_in": {
+        "left": 2.173,
+        "top": 1.268,
+        "width": 8.993,
+        "height": 0.197
+      },
+      "fill": null,
+      "line": {
+        "color": null,
+        "width": 0
+      },
+      "kind": "text",
+      "text_frame": {
+        "word_wrap": true,
+        "auto_size": "SHAPE_TO_FIT_TEXT",
+        "vertical_anchor": "TOP",
+        "margins": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "paragraphs": [
+        {
+          "level": 0,
+          "alignment": null,
+          "space_before_pt": null,
+          "space_after_pt": null,
+          "line_spacing": 1.05,
+          "bullet": null,
+          "margin_left": null,
+          "indent": null,
+          "end_para_size": null,
+          "runs": [
+            {
+              "text": "Attribution overview for 12 months to 30 September 2026 in USD Terms",
+              "font": {
+                "name": "AvenirNext LT Com Regular",
+                "size_pt": 11.62,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "005F9E",
+                "color_theme": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "shape_id": 28,
+      "name": "Filepath",
+      "shape_type": "TEXT_BOX",
+      "auto_shape_type": null,
+      "z_order": 4,
+      "locator": {
+        "shape_id": 28,
+        "name": "Filepath",
+        "z_order": 4,
+        "placeholder_idx": null,
+        "placeholder_type": null,
+        "xpath": "/p:sld/p:cSld/p:spTree/p:sp[4]"
+      },
+      "geometry_emu": {
+        "left": 7590078,
+        "top": 6126218,
+        "width": 2390574,
+        "height": 170228,
+        "rotation": 0.0
+      },
+      "geometry_in": {
+        "left": 8.301,
+        "top": 6.7,
+        "width": 2.614,
+        "height": 0.186
+      },
+      "fill": "FFFFFF",
+      "line": {
+        "color": null,
+        "width": 38100
+      },
+      "kind": "text",
+      "text_frame": {
+        "word_wrap": true,
+        "auto_size": "NONE",
+        "vertical_anchor": "BOTTOM",
+        "margins": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "paragraphs": [
+        {
+          "level": 0,
+          "alignment": "RIGHT",
+          "space_before_pt": null,
+          "space_after_pt": null,
+          "line_spacing": null,
+          "bullet": null,
+          "margin_left": null,
+          "indent": null,
+          "end_para_size": null,
+          "runs": [
+            {
+              "text": "GB.3612714_324",
+              "font": {
+                "name": "AvenirNext LT Com Regular",
+                "size_pt": 4.98,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "666666",
+                "color_theme": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "shape_id": 29,
+      "name": "object 3",
+      "shape_type": "TEXT_BOX",
+      "auto_shape_type": null,
+      "z_order": 5,
+      "locator": {
+        "shape_id": 29,
+        "name": "object 3",
+        "z_order": 5,
+        "placeholder_idx": null,
+        "placeholder_type": null,
+        "xpath": "/p:sld/p:cSld/p:spTree/p:sp[5]"
+      },
+      "geometry_emu": {
+        "left": 1986543,
+        "top": 5351770,
+        "width": 1914547,
+        "height": 766364,
+        "rotation": 0.0
+      },
+      "geometry_in": {
+        "left": 2.173,
+        "top": 5.853,
+        "width": 2.094,
+        "height": 0.838
+      },
+      "fill": null,
+      "line": {
+        "color": null,
+        "width": 0
+      },
+      "kind": "text",
+      "text_frame": {
+        "word_wrap": true,
+        "auto_size": "SHAPE_TO_FIT_TEXT",
+        "vertical_anchor": "BOTTOM",
+        "margins": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "paragraphs": [
+        {
+          "level": 0,
+          "alignment": null,
+          "space_before_pt": null,
+          "space_after_pt": null,
+          "line_spacing": null,
+          "bullet": null,
+          "margin_left": "17934",
+          "indent": null,
+          "end_para_size": null,
+          "runs": [
+            {
+              "text": "The information in relation to the index is provided for context and illustration only. The fund is actively managed. It is not managed in reference to a benchmark.",
+              "font": {
+                "name": "AvenirNext LT Com Regular",
+                "size_pt": 8.3,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": null,
+                "color_theme": null
+              }
+            }
+          ]
+        },
+        {
+          "level": 0,
+          "alignment": null,
+          "space_before_pt": null,
+          "space_after_pt": null,
+          "line_spacing": null,
+          "bullet": null,
+          "margin_left": "17934",
+          "indent": null,
+          "end_para_size": "664",
+          "runs": [
+            {
+              "text": "Past results are not a guarantee of future results. ",
+              "font": {
+                "name": "AvenirNext LT Com Regular",
+                "size_pt": 8.3,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": null,
+                "color_theme": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "shape_id": 30,
+      "name": "object 3",
+      "shape_type": "TEXT_BOX",
+      "auto_shape_type": null,
+      "z_order": 6,
+      "locator": {
+        "shape_id": 30,
+        "name": "object 3",
+        "z_order": 6,
+        "placeholder_idx": null,
+        "placeholder_type": null,
+        "xpath": "/p:sld/p:cSld/p:spTree/p:sp[6]"
+      },
+      "geometry_emu": {
+        "left": 4086991,
+        "top": 5619338,
+        "width": 6124423,
+        "height": 511037,
+        "rotation": 0.0
+      },
+      "geometry_in": {
+        "left": 4.47,
+        "top": 6.145,
+        "width": 6.698,
+        "height": 0.559
+      },
+      "fill": null,
+      "line": {
+        "color": null,
+        "width": 0
+      },
+      "kind": "text",
+      "text_frame": {
+        "word_wrap": true,
+        "auto_size": "SHAPE_TO_FIT_TEXT",
+        "vertical_anchor": "BOTTOM",
+        "margins": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "paragraphs": [
+        {
+          "level": 0,
+          "alignment": null,
+          "space_before_pt": null,
+          "space_after_pt": null,
+          "line_spacing": null,
+          "bullet": null,
+          "margin_left": "17934",
+          "indent": null,
+          "end_para_size": "664",
+          "runs": [
+            {
+              "text": "Returns are in USD. Attribution data, including the portfolio returns contained within the report, are gross of management fees and are based on the base currency. Excess returns are calculated arithmetically and may give rise to slight differences across currencies.",
+              "font": {
+                "name": "AvenirNext LT Com Regular",
+                "size_pt": 6.64,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": null,
+                "color_theme": null
+              }
+            },
+            {
+              "text": " Attribution analysis is built bottom-up based on the underlying calculation methodology of the tool. As a result, the top-level return figure shown may differ slightly from officially published performance data.",
+              "font": {
+                "name": "AvenirNext LT Com Regular",
+                "size_pt": 6.64,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": null,
+                "color_theme": null
+              }
+            }
+          ]
+        },
+        {
+          "level": 0,
+          "alignment": null,
+          "space_before_pt": null,
+          "space_after_pt": null,
+          "line_spacing": null,
+          "bullet": null,
+          "margin_left": "13834",
+          "indent": null,
+          "end_para_size": "664",
+          "runs": [
+            {
+              "text": "Index: Bloomberg Global Aggregate Index ",
+              "font": {
+                "name": "AvenirNext LT Com Regular",
+                "size_pt": 6.64,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": null,
+                "color_theme": null
+              }
+            },
+            {
+              "text": "using",
+              "font": {
+                "name": "AvenirNext LT Com Regular",
+                "size_pt": 6.64,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": null,
+                "color_theme": null
+              }
+            },
+            {
+              "text": " BlackRock",
+              "font": {
+                "name": "AvenirNext LT Com Regular",
+                "size_pt": 6.64,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": null,
+                "color_theme": null
+              }
+            },
+            {
+              "text": " Aladdin ",
+              "font": {
+                "name": "AvenirNext LT Com Regular",
+                "size_pt": 6.64,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": null,
+                "color_theme": null
+              }
+            },
+            {
+              "text": "analytics. ",
+              "font": {
+                "name": "AvenirNext LT Com Regular",
+                "size_pt": 6.64,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": null,
+                "color_theme": null
+              }
+            },
+            {
+              "text": "Data ",
+              "font": {
+                "name": "AvenirNext LT Com Regular",
+                "size_pt": 6.64,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": null,
+                "color_theme": null
+              }
+            },
+            {
+              "text": "for ",
+              "font": {
+                "name": "AvenirNext LT Com Regular",
+                "size_pt": 6.64,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": null,
+                "color_theme": null
+              }
+            },
+            {
+              "text": "the ",
+              "font": {
+                "name": "AvenirNext LT Com Regular",
+                "size_pt": 6.64,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": null,
+                "color_theme": null
+              }
+            },
+            {
+              "text": "portfolio ",
+              "font": {
+                "name": "AvenirNext LT Com Regular",
+                "size_pt": 6.64,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": null,
+                "color_theme": null
+              }
+            },
+            {
+              "text": "and index ",
+              "font": {
+                "name": "AvenirNext LT Com Regular",
+                "size_pt": 6.64,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": null,
+                "color_theme": null
+              }
+            },
+            {
+              "text": "use",
+              "font": {
+                "name": "AvenirNext LT Com Regular",
+                "size_pt": 6.64,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": null,
+                "color_theme": null
+              }
+            },
+            {
+              "text": " BlackRock",
+              "font": {
+                "name": "AvenirNext LT Com Regular",
+                "size_pt": 6.64,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": null,
+                "color_theme": null
+              }
+            },
+            {
+              "text": " ",
+              "font": {
+                "name": "AvenirNext LT Com Regular",
+                "size_pt": 6.64,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": null,
+                "color_theme": null
+              }
+            },
+            {
+              "text": "Aladdin ",
+              "font": {
+                "name": "AvenirNext LT Com Regular",
+                "size_pt": 6.64,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": null,
+                "color_theme": null
+              }
+            },
+            {
+              "text": "analytics ",
+              "font": {
+                "name": "AvenirNext LT Com Regular",
+                "size_pt": 6.64,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": null,
+                "color_theme": null
+              }
+            },
+            {
+              "text": "engine ",
+              "font": {
+                "name": "AvenirNext LT Com Regular",
+                "size_pt": 6.64,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": null,
+                "color_theme": null
+              }
+            },
+            {
+              "text": "calculation",
+              "font": {
+                "name": "AvenirNext LT Com Regular",
+                "size_pt": 6.64,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": null,
+                "color_theme": null
+              }
+            },
+            {
+              "text": " ",
+              "font": {
+                "name": "AvenirNext LT Com Regular",
+                "size_pt": 6.64,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": null,
+                "color_theme": null
+              }
+            },
+            {
+              "text": "assumptions.",
+              "font": {
+                "name": "AvenirNext LT Com Regular",
+                "size_pt": 6.64,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": null,
+                "color_theme": null
+              }
+            },
+            {
+              "text": " ",
+              "font": {
+                "name": "AvenirNext LT Com Regular",
+                "size_pt": 6.64,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": null,
+                "color_theme": null
+              }
+            },
+            {
+              "text": "Sources: ",
+              "font": {
+                "name": "AvenirNext LT Com Regular",
+                "size_pt": 6.64,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": null,
+                "color_theme": null
+              }
+            },
+            {
+              "text": "{{A}}",
+              "font": {
+                "name": "AvenirNext LT Com Regular",
+                "size_pt": 6.64,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": null,
+                "color_theme": null
+              }
+            },
+            {
+              "text": ", ",
+              "font": {
+                "name": "AvenirNext LT Com Regular",
+                "size_pt": 6.64,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": null,
+                "color_theme": null
+              }
+            },
+            {
+              "text": "Bloomberg ",
+              "font": {
+                "name": "AvenirNext LT Com Regular",
+                "size_pt": 6.64,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": null,
+                "color_theme": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "shape_id": 59,
+      "name": "Slide Number Placeholder 113",
+      "shape_type": "TEXT_BOX",
+      "auto_shape_type": null,
+      "z_order": 7,
+      "locator": {
+        "shape_id": 59,
+        "name": "Slide Number Placeholder 113",
+        "z_order": 7,
+        "placeholder_idx": null,
+        "placeholder_type": null,
+        "xpath": "/p:sld/p:cSld/p:spTree/p:sp[7]"
+      },
+      "geometry_emu": {
+        "left": 9861887,
+        "top": 6167413,
+        "width": 417158,
+        "height": 179030,
+        "rotation": 0.0
+      },
+      "geometry_in": {
+        "left": 10.785,
+        "top": 6.745,
+        "width": 0.456,
+        "height": 0.196
+      },
+      "fill": null,
+      "line": {
+        "color": null,
+        "width": 0
+      },
+      "kind": "text",
+      "text_frame": {
+        "word_wrap": null,
+        "auto_size": null,
+        "vertical_anchor": null,
+        "margins": [
+          91440,
+          45720,
+          91440,
+          45720
+        ]
+      },
+      "paragraphs": [
+        {
+          "level": 0,
+          "alignment": "RIGHT",
+          "space_before_pt": null,
+          "space_after_pt": null,
+          "line_spacing": null,
+          "bullet": null,
+          "margin_left": null,
+          "indent": null,
+          "end_para_size": "580",
+          "runs": []
+        }
+      ]
+    },
+    {
+      "shape_id": 24,
+      "name": "Picture 23",
+      "shape_type": "PICTURE",
+      "auto_shape_type": "RECTANGLE",
+      "z_order": 8,
+      "locator": {
+        "shape_id": 24,
+        "name": "Picture 23",
+        "z_order": 8,
+        "placeholder_idx": null,
+        "placeholder_type": null,
+        "xpath": "/p:sld/p:cSld/p:spTree/p:pic[1]"
+      },
+      "geometry_emu": {
+        "left": 1986543,
+        "top": 1636095,
+        "width": 1941106,
+        "height": 2284326,
+        "rotation": 0.0
+      },
+      "geometry_in": {
+        "left": 2.173,
+        "top": 1.789,
+        "width": 2.123,
+        "height": 2.498
+      },
+      "fill": null,
+      "line": {
+        "color": null,
+        "width": 0
+      },
+      "kind": "picture",
+      "image": {
+        "sha1": "d9d2e12ccae7ca0638b24db71f8b3a7288e4a562",
+        "ext": "wmf",
+        "crop": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "shape_id": 35,
+      "name": "Picture 34",
+      "shape_type": "PICTURE",
+      "auto_shape_type": "RECTANGLE",
+      "z_order": 9,
+      "locator": {
+        "shape_id": 35,
+        "name": "Picture 34",
+        "z_order": 9,
+        "placeholder_idx": null,
+        "placeholder_type": null,
+        "xpath": "/p:sld/p:cSld/p:spTree/p:pic[2]"
+      },
+      "geometry_emu": {
+        "left": 4086991,
+        "top": 1636095,
+        "width": 6123127,
+        "height": 2223613,
+        "rotation": 0.0
+      },
+      "geometry_in": {
+        "left": 4.47,
+        "top": 1.789,
+        "width": 6.696,
+        "height": 2.432
+      },
+      "fill": null,
+      "line": {
+        "color": null,
+        "width": 0
+      },
+      "kind": "picture",
+      "image": {
+        "sha1": "966778834e8cb003bb438f347f0df0eaa064ed61",
+        "ext": "wmf",
+        "crop": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "shape_id": 37,
+      "name": "Picture 36",
+      "shape_type": "PICTURE",
+      "auto_shape_type": "RECTANGLE",
+      "z_order": 10,
+      "locator": {
+        "shape_id": 37,
+        "name": "Picture 36",
+        "z_order": 10,
+        "placeholder_idx": null,
+        "placeholder_type": null,
+        "xpath": "/p:sld/p:cSld/p:spTree/p:pic[3]"
+      },
+      "geometry_emu": {
+        "left": 4086992,
+        "top": 3906086,
+        "width": 6118465,
+        "height": 1654429,
+        "rotation": 0.0
+      },
+      "geometry_in": {
+        "left": 4.47,
+        "top": 4.272,
+        "width": 6.691,
+        "height": 1.809
+      },
+      "fill": null,
+      "line": {
+        "color": null,
+        "width": 0
+      },
+      "kind": "picture",
+      "image": {
+        "sha1": "bdceb2476264c8aea98aea96767d0d86f53c6589",
+        "ext": "wmf",
+        "crop": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    }
+  ]
+}

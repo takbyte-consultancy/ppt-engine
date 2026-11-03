@@ -1,0 +1,11 @@
+{
+  "slide_title": "{{$.slide_title}}",
+  "composite_name" : "{{composite_name}}",
+  "fee_disclosure.A" : "{{fee_disclosure.gross_returns}}",
+  "fee_disclosure.B" : "{{fee_disclosure.net_returns}}",
+  "fee_disclosure.C" : "{{fee_disclosure.additional_information}}",
+  "investment_performance.reporting_period" : "{{investment_performance.reporting_period}}",
+  "period1" : "{{investment_performance.cumulative_total_returns.Periods[0]}}",
+  "peiord2" : "{{investment_performance.cumulative_total_returns.Periods[1]}}",
+  "period3" : "{{investment_performance.cumulative_total_returns.Periods[2]}}"
+}

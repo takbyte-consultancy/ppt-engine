@@ -1,0 +1,19 @@
+{
+  "fund_name": "ABC Fund",
+  "as_of_date": "30 Jun 2026",
+  "kpi_text": "+8.4% YTD",
+  "returns": {
+    "periods": [
+      "3M",
+      "1Y"
+    ],
+    "fund": {
+      "3M": 1.2,
+      "1Y": 8.4
+    },
+    "benchmark": {
+      "3M": 1.0,
+      "1Y": 7.1
+    }
+  }
+}

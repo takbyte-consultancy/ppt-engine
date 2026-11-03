@@ -1,0 +1,15 @@
+{
+  "placeholders": 2,
+  "removed": [
+    "TextBox 75 (id 76)",
+    "TextBox 21 (id 22)"
+  ],
+  "diff": {
+    "added": [
+      "$.sources[0]"
+    ],
+    "removed": [],
+    "changed": []
+  },
+  "warnings": []
+}

@@ -1,0 +1,5104 @@
+{
+  "schema_version": 1,
+  "slide": {
+    "width_emu": 12192000,
+    "height_emu": 6858000,
+    "layout": "Title Only",
+    "master": ""
+  },
+  "theme_colors": {
+    "dk1": "000000",
+    "lt1": "FFFFFF",
+    "dk2": "005F9E",
+    "lt2": "D5D0CA",
+    "accent1": "005F9E",
+    "accent2": "009CDC",
+    "accent3": "00AEA9",
+    "accent4": "762157",
+    "accent5": "554742",
+    "accent6": "A39E99",
+    "hlink": "009CDC",
+    "folHlink": "7BD0E2"
+  },
+  "shapes": [
+    {
+      "shape_id": 236,
+      "name": "Table 483",
+      "shape_type": "TABLE",
+      "auto_shape_type": null,
+      "z_order": 0,
+      "locator": {
+        "shape_id": 236,
+        "name": "Table 483",
+        "z_order": 0,
+        "placeholder_idx": null,
+        "placeholder_type": null,
+        "xpath": "/p:sld/p:cSld/p:spTree/p:graphicFrame[1]"
+      },
+      "geometry_emu": {
+        "left": 1987133,
+        "top": 1679575,
+        "width": 4974761,
+        "height": 2916033,
+        "rotation": 0.0
+      },
+      "geometry_in": {
+        "left": 2.173,
+        "top": 1.837,
+        "width": 5.44,
+        "height": 3.189
+      },
+      "fill": null,
+      "line": null,
+      "kind": "table",
+      "table": {
+        "n_rows": 8,
+        "n_cols": 2,
+        "column_widths": [
+          283845,
+          4690916
+        ],
+        "row_heights": [
+          283845,
+          482836,
+          283845,
+          482836,
+          280797,
+          485704,
+          280797,
+          331054
+        ],
+        "flags": {
+          "bandRow": "1"
+        },
+        "cells": [
+          {
+            "r": 0,
+            "c": 0,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": "PICTURE",
+            "margins": [
+              75891,
+              0,
+              0,
+              44817
+            ],
+            "vertical_anchor": null,
+            "borders": {
+              "lnL": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": null,
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": null,
+                "bullet": null,
+                "margin_left": null,
+                "indent": null,
+                "end_para_size": "1300",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 0,
+            "c": 1,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": "BACKGROUND",
+            "margins": [
+              75891,
+              0,
+              0,
+              44817
+            ],
+            "vertical_anchor": null,
+            "borders": {
+              "lnL": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": null,
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": null,
+                "bullet": null,
+                "margin_left": null,
+                "indent": null,
+                "end_para_size": "1300",
+                "runs": [
+                  {
+                    "text": "Capturing the best ideas in a single portfolio",
+                    "font": {
+                      "name": null,
+                      "size_pt": 13.0,
+                      "bold": true,
+                      "italic": null,
+                      "underline": null,
+                      "color": "005F9E",
+                      "color_theme": "ACCENT_1"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "r": 1,
+            "c": 0,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": "BACKGROUND",
+            "margins": [
+              75891,
+              0,
+              0,
+              179270
+            ],
+            "vertical_anchor": null,
+            "borders": {
+              "lnL": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": null,
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": null,
+                "bullet": null,
+                "margin_left": null,
+                "indent": null,
+                "end_para_size": "1000",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 1,
+            "c": 1,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": "BACKGROUND",
+            "margins": [
+              75891,
+              0,
+              0,
+              179270
+            ],
+            "vertical_anchor": null,
+            "borders": {
+              "lnL": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "LEFT",
+                "space_before_pt": 0.0,
+                "space_after_pt": 0.0,
+                "line_spacing": 1.0,
+                "bullet": "none",
+                "margin_left": "0",
+                "indent": "0",
+                "end_para_size": "1000",
+                "runs": [
+                  {
+                    "text": "A globally diversified portfolio of our best fixed income ideas, which we believe could prove itself in different market environments.",
+                    "font": {
+                      "name": null,
+                      "size_pt": 10.0,
+                      "bold": null,
+                      "italic": null,
+                      "underline": null,
+                      "color": "000000",
+                      "color_theme": "TEXT_1"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "r": 2,
+            "c": 0,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": "PICTURE",
+            "margins": [
+              75891,
+              0,
+              0,
+              44817
+            ],
+            "vertical_anchor": null,
+            "borders": {
+              "lnL": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": null,
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": null,
+                "bullet": null,
+                "margin_left": null,
+                "indent": null,
+                "end_para_size": "1300",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 2,
+            "c": 1,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": "BACKGROUND",
+            "margins": [
+              75891,
+              0,
+              0,
+              44817
+            ],
+            "vertical_anchor": null,
+            "borders": {
+              "lnL": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "LEFT",
+                "space_before_pt": 0.0,
+                "space_after_pt": 0.0,
+                "line_spacing": 1.0,
+                "bullet": "none",
+                "margin_left": "0",
+                "indent": "0",
+                "end_para_size": "1300",
+                "runs": [
+                  {
+                    "text": "Global investment ideas",
+                    "font": {
+                      "name": null,
+                      "size_pt": 13.0,
+                      "bold": true,
+                      "italic": null,
+                      "underline": null,
+                      "color": "005F9E",
+                      "color_theme": "ACCENT_1"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "r": 3,
+            "c": 0,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": "BACKGROUND",
+            "margins": [
+              75891,
+              0,
+              0,
+              179270
+            ],
+            "vertical_anchor": null,
+            "borders": {
+              "lnL": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": null,
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": null,
+                "bullet": null,
+                "margin_left": null,
+                "indent": null,
+                "end_para_size": "1000",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 3,
+            "c": 1,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": "BACKGROUND",
+            "margins": [
+              75891,
+              0,
+              0,
+              179270
+            ],
+            "vertical_anchor": null,
+            "borders": {
+              "lnL": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "LEFT",
+                "space_before_pt": 0.0,
+                "space_after_pt": 0.0,
+                "line_spacing": 1.0,
+                "bullet": "none",
+                "margin_left": "0",
+                "indent": "0",
+                "end_para_size": "1000",
+                "runs": [
+                  {
+                    "text": "A dedicated team of more than 50 analysts providing in-depth coverage of the global fixed income investment universe.",
+                    "font": {
+                      "name": null,
+                      "size_pt": 10.0,
+                      "bold": null,
+                      "italic": null,
+                      "underline": null,
+                      "color": "000000",
+                      "color_theme": "TEXT_1"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "r": 4,
+            "c": 0,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": "PICTURE",
+            "margins": [
+              75891,
+              0,
+              0,
+              44817
+            ],
+            "vertical_anchor": null,
+            "borders": {
+              "lnL": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": null,
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": null,
+                "bullet": null,
+                "margin_left": null,
+                "indent": null,
+                "end_para_size": "1300",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 4,
+            "c": 1,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": "BACKGROUND",
+            "margins": [
+              75891,
+              0,
+              0,
+              44817
+            ],
+            "vertical_anchor": null,
+            "borders": {
+              "lnL": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "LEFT",
+                "space_before_pt": 0.0,
+                "space_after_pt": 0.0,
+                "line_spacing": 1.0,
+                "bullet": "none",
+                "margin_left": "0",
+                "indent": "0",
+                "end_para_size": "1300",
+                "runs": [
+                  {
+                    "text": "Integrated global network",
+                    "font": {
+                      "name": null,
+                      "size_pt": 13.0,
+                      "bold": true,
+                      "italic": null,
+                      "underline": null,
+                      "color": "005F9E",
+                      "color_theme": "ACCENT_1"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "r": 5,
+            "c": 0,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": "BACKGROUND",
+            "margins": [
+              75891,
+              0,
+              0,
+              179270
+            ],
+            "vertical_anchor": null,
+            "borders": {
+              "lnL": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": null,
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": null,
+                "bullet": null,
+                "margin_left": null,
+                "indent": null,
+                "end_para_size": "1000",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 5,
+            "c": 1,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": "BACKGROUND",
+            "margins": [
+              75891,
+              0,
+              0,
+              182139
+            ],
+            "vertical_anchor": null,
+            "borders": {
+              "lnL": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "LEFT",
+                "space_before_pt": 0.0,
+                "space_after_pt": 0.0,
+                "line_spacing": 1.0,
+                "bullet": "none",
+                "margin_left": "0",
+                "indent": "0",
+                "end_para_size": "1000",
+                "runs": [
+                  {
+                    "text": "Fixed income and equity teams collaborate for greater access to companies and multiple perspectives.",
+                    "font": {
+                      "name": null,
+                      "size_pt": 10.0,
+                      "bold": null,
+                      "italic": null,
+                      "underline": null,
+                      "color": "000000",
+                      "color_theme": "TEXT_1"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "r": 6,
+            "c": 0,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": "PICTURE",
+            "margins": [
+              75891,
+              0,
+              0,
+              44817
+            ],
+            "vertical_anchor": null,
+            "borders": {
+              "lnL": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": null,
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": null,
+                "bullet": null,
+                "margin_left": null,
+                "indent": null,
+                "end_para_size": "1300",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 6,
+            "c": 1,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": "BACKGROUND",
+            "margins": [
+              75891,
+              0,
+              0,
+              44817
+            ],
+            "vertical_anchor": null,
+            "borders": {
+              "lnL": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "LEFT",
+                "space_before_pt": 0.0,
+                "space_after_pt": 0.0,
+                "line_spacing": 1.0,
+                "bullet": "none",
+                "margin_left": "0",
+                "indent": "0",
+                "end_para_size": "1300",
+                "runs": [
+                  {
+                    "text": "Explicit ESG characteristics",
+                    "font": {
+                      "name": null,
+                      "size_pt": 13.0,
+                      "bold": true,
+                      "italic": null,
+                      "underline": null,
+                      "color": "005F9E",
+                      "color_theme": "ACCENT_1"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "r": 7,
+            "c": 0,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": "BACKGROUND",
+            "margins": [
+              75891,
+              0,
+              0,
+              179270
+            ],
+            "vertical_anchor": null,
+            "borders": {
+              "lnL": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": null,
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": null,
+                "bullet": null,
+                "margin_left": null,
+                "indent": null,
+                "end_para_size": "1000",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 7,
+            "c": 1,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": "BACKGROUND",
+            "margins": [
+              75891,
+              0,
+              0,
+              179270
+            ],
+            "vertical_anchor": null,
+            "borders": {
+              "lnL": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "LEFT",
+                "space_before_pt": 0.0,
+                "space_after_pt": 0.0,
+                "line_spacing": 1.0,
+                "bullet": "none",
+                "margin_left": "0",
+                "indent": "0",
+                "end_para_size": "1000",
+                "runs": [
+                  {
+                    "text": "Applies ESG and norms-based screens\u00b2.",
+                    "font": {
+                      "name": null,
+                      "size_pt": 10.0,
+                      "bold": null,
+                      "italic": null,
+                      "underline": null,
+                      "color": "000000",
+                      "color_theme": "TEXT_1"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "shape_id": 4,
+      "name": "Title 3",
+      "shape_type": "PLACEHOLDER",
+      "auto_shape_type": null,
+      "z_order": 1,
+      "locator": {
+        "shape_id": 4,
+        "name": "Title 3",
+        "z_order": 1,
+        "placeholder_idx": 0,
+        "placeholder_type": "TITLE",
+        "xpath": "/p:sld/p:cSld/p:spTree/p:sp[1]"
+      },
+      "geometry_emu": {
+        "left": 1986543,
+        "top": 739868,
+        "width": 8223575,
+        "height": 311433,
+        "rotation": 0.0
+      },
+      "geometry_in": {
+        "left": 2.173,
+        "top": 0.809,
+        "width": 8.993,
+        "height": 0.341
+      },
+      "fill": null,
+      "line": {
+        "color": null,
+        "width": 0
+      },
+      "kind": "text",
+      "text_frame": {
+        "word_wrap": true,
+        "auto_size": "SHAPE_TO_FIT_TEXT",
+        "vertical_anchor": "TOP",
+        "margins": [
+          0,
+          0,
+          0,
+          23903
+        ]
+      },
+      "paragraphs": [
+        {
+          "level": 0,
+          "alignment": null,
+          "space_before_pt": null,
+          "space_after_pt": null,
+          "line_spacing": null,
+          "bullet": null,
+          "margin_left": null,
+          "indent": null,
+          "end_para_size": null,
+          "runs": [
+            {
+              "text": "{{A}} Global Bond Fund (LUX)",
+              "font": {
+                "name": "AvenirNext LT Com Regular",
+                "size_pt": null,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000",
+                "color_theme": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "shape_id": 3,
+      "name": "Slide Number Placeholder 2",
+      "shape_type": "PLACEHOLDER",
+      "auto_shape_type": "RECTANGLE",
+      "z_order": 2,
+      "locator": {
+        "shape_id": 3,
+        "name": "Slide Number Placeholder 2",
+        "z_order": 2,
+        "placeholder_idx": 10,
+        "placeholder_type": "SLIDE_NUMBER",
+        "xpath": "/p:sld/p:cSld/p:spTree/p:sp[2]"
+      },
+      "geometry_emu": {
+        "left": null,
+        "top": null,
+        "width": null,
+        "height": null,
+        "rotation": 0.0
+      },
+      "geometry_in": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 0.0,
+        "height": 0.0
+      },
+      "fill": null,
+      "line": {
+        "color": null,
+        "width": 0
+      },
+      "kind": "text",
+      "text_frame": {
+        "word_wrap": null,
+        "auto_size": null,
+        "vertical_anchor": null,
+        "margins": [
+          91440,
+          45720,
+          91440,
+          45720
+        ]
+      },
+      "paragraphs": [
+        {
+          "level": 0,
+          "alignment": "RIGHT",
+          "space_before_pt": null,
+          "space_after_pt": null,
+          "line_spacing": null,
+          "bullet": null,
+          "margin_left": null,
+          "indent": null,
+          "end_para_size": "581",
+          "runs": []
+        }
+      ]
+    },
+    {
+      "shape_id": 5,
+      "name": "TextBox 4",
+      "shape_type": "TEXT_BOX",
+      "auto_shape_type": null,
+      "z_order": 3,
+      "locator": {
+        "shape_id": 5,
+        "name": "TextBox 4",
+        "z_order": 3,
+        "placeholder_idx": null,
+        "placeholder_type": null,
+        "xpath": "/p:sld/p:cSld/p:spTree/p:sp[3]"
+      },
+      "geometry_emu": {
+        "left": 1986543,
+        "top": 1159673,
+        "width": 8223575,
+        "height": 180114,
+        "rotation": 0.0
+      },
+      "geometry_in": {
+        "left": 2.173,
+        "top": 1.268,
+        "width": 8.993,
+        "height": 0.197
+      },
+      "fill": null,
+      "line": {
+        "color": null,
+        "width": 0
+      },
+      "kind": "text",
+      "text_frame": {
+        "word_wrap": true,
+        "auto_size": "SHAPE_TO_FIT_TEXT",
+        "vertical_anchor": "TOP",
+        "margins": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "paragraphs": [
+        {
+          "level": 0,
+          "alignment": null,
+          "space_before_pt": null,
+          "space_after_pt": null,
+          "line_spacing": 1.05,
+          "bullet": null,
+          "margin_left": null,
+          "indent": null,
+          "end_para_size": "1162",
+          "runs": [
+            {
+              "text": "Bridging global fixed income markets with high-quality bonds",
+              "font": {
+                "name": "AvenirNext LT Com Regular",
+                "size_pt": 11.62,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "005F9E",
+                "color_theme": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "shape_id": 234,
+      "name": "Table 233",
+      "shape_type": "TABLE",
+      "auto_shape_type": null,
+      "z_order": 4,
+      "locator": {
+        "shape_id": 234,
+        "name": "Table 233",
+        "z_order": 4,
+        "placeholder_idx": null,
+        "placeholder_type": null,
+        "xpath": "/p:sld/p:cSld/p:spTree/p:graphicFrame[2]"
+      },
+      "geometry_emu": {
+        "left": 12258491,
+        "top": 297352,
+        "width": 844425,
+        "height": 356351,
+        "rotation": 0.0
+      },
+      "geometry_in": {
+        "left": 13.406,
+        "top": 0.325,
+        "width": 0.923,
+        "height": 0.39
+      },
+      "fill": null,
+      "line": null,
+      "kind": "table",
+      "table": {
+        "n_rows": 1,
+        "n_cols": 1,
+        "column_widths": [
+          844425
+        ],
+        "row_heights": [
+          356351
+        ],
+        "flags": {
+          "firstRow": "1",
+          "bandRow": "1"
+        },
+        "cells": [
+          {
+            "r": 0,
+            "c": 0,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": "7BD0E2",
+            "margins": [
+              89636,
+              89636,
+              89636,
+              89636
+            ],
+            "vertical_anchor": null,
+            "borders": {
+              "lnL": {
+                "w": "38100",
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": "38100",
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "38100",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "38100",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "CENTER",
+                "space_before_pt": 0.0,
+                "space_after_pt": 0.0,
+                "line_spacing": 1.0,
+                "bullet": "none",
+                "margin_left": "0",
+                "indent": "0",
+                "end_para_size": "1100",
+                "runs": [
+                  {
+                    "text": "FIT Fund",
+                    "font": {
+                      "name": null,
+                      "size_pt": 11.0,
+                      "bold": true,
+                      "italic": false,
+                      "underline": null,
+                      "color": "FFFFFF",
+                      "color_theme": "BACKGROUND_1"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "shape_id": 2126,
+      "name": "Table 22111111111",
+      "shape_type": "TABLE",
+      "auto_shape_type": null,
+      "z_order": 5,
+      "locator": {
+        "shape_id": 2126,
+        "name": "Table 22111111111",
+        "z_order": 5,
+        "placeholder_idx": null,
+        "placeholder_type": null,
+        "xpath": "/p:sld/p:cSld/p:spTree/p:graphicFrame[3]"
+      },
+      "geometry_emu": {
+        "left": 7217615,
+        "top": 1679576,
+        "width": 2993015,
+        "height": 2921308,
+        "rotation": 0.0
+      },
+      "geometry_in": {
+        "left": 7.893,
+        "top": 1.837,
+        "width": 3.273,
+        "height": 3.195
+      },
+      "fill": null,
+      "line": null,
+      "kind": "table",
+      "table": {
+        "n_rows": 8,
+        "n_cols": 10,
+        "column_widths": [
+          340236,
+          56706,
+          628491,
+          25400,
+          148853,
+          148853,
+          99236,
+          438232,
+          256418,
+          850590
+        ],
+        "row_heights": [
+          283845,
+          1005747,
+          253967,
+          253967,
+          253967,
+          149392,
+          358541,
+          358541
+        ],
+        "flags": {
+          "firstRow": "1",
+          "bandRow": "1"
+        },
+        "cells": [
+          {
+            "r": 0,
+            "c": 0,
+            "merge_origin": true,
+            "spanned": false,
+            "span": [
+              1,
+              10
+            ],
+            "fill": "BACKGROUND",
+            "margins": [
+              0,
+              0,
+              0,
+              44817
+            ],
+            "vertical_anchor": null,
+            "borders": {
+              "lnL": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 1,
+                "alignment": "LEFT",
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": 1.1,
+                "bullet": "none",
+                "margin_left": "1587",
+                "indent": "0",
+                "end_para_size": null,
+                "runs": [
+                  {
+                    "text": "Investment objective",
+                    "font": {
+                      "name": "AvenirNext LT Com Regular",
+                      "size_pt": 13.0,
+                      "bold": true,
+                      "italic": false,
+                      "underline": false,
+                      "color": "7D726D",
+                      "color_theme": null
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "r": 0,
+            "c": 1,
+            "merge_origin": false,
+            "spanned": true,
+            "span": null,
+            "fill": null,
+            "margins": [
+              91440,
+              45720,
+              91440,
+              45720
+            ],
+            "vertical_anchor": null,
+            "borders": {
+              "lnL": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": null,
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": null,
+                "bullet": null,
+                "margin_left": null,
+                "indent": null,
+                "end_para_size": null,
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 0,
+            "c": 2,
+            "merge_origin": false,
+            "spanned": true,
+            "span": null,
+            "fill": null,
+            "margins": [
+              91440,
+              45720,
+              91440,
+              45720
+            ],
+            "vertical_anchor": null,
+            "borders": {},
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": null,
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": null,
+                "bullet": null,
+                "margin_left": null,
+                "indent": null,
+                "end_para_size": null,
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 0,
+            "c": 3,
+            "merge_origin": false,
+            "spanned": true,
+            "span": null,
+            "fill": null,
+            "margins": [
+              91440,
+              45720,
+              91440,
+              45720
+            ],
+            "vertical_anchor": null,
+            "borders": {
+              "lnL": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": null,
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": null,
+                "bullet": null,
+                "margin_left": null,
+                "indent": null,
+                "end_para_size": null,
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 0,
+            "c": 4,
+            "merge_origin": false,
+            "spanned": true,
+            "span": null,
+            "fill": null,
+            "margins": [
+              91440,
+              45720,
+              91440,
+              45720
+            ],
+            "vertical_anchor": null,
+            "borders": {},
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": null,
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": null,
+                "bullet": null,
+                "margin_left": null,
+                "indent": null,
+                "end_para_size": null,
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 0,
+            "c": 5,
+            "merge_origin": false,
+            "spanned": true,
+            "span": null,
+            "fill": null,
+            "margins": [
+              91440,
+              45720,
+              91440,
+              45720
+            ],
+            "vertical_anchor": null,
+            "borders": {},
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": null,
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": null,
+                "bullet": null,
+                "margin_left": null,
+                "indent": null,
+                "end_para_size": null,
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 0,
+            "c": 6,
+            "merge_origin": false,
+            "spanned": true,
+            "span": null,
+            "fill": "BACKGROUND",
+            "margins": [
+              0,
+              0,
+              0,
+              72000
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "6350",
+                "color": "A39E99",
+                "none": false
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 1,
+                "alignment": "RIGHT",
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": 1.0,
+                "bullet": "none",
+                "margin_left": "1587",
+                "indent": "0",
+                "end_para_size": "1200",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 0,
+            "c": 7,
+            "merge_origin": false,
+            "spanned": true,
+            "span": null,
+            "fill": null,
+            "margins": [
+              91440,
+              45720,
+              91440,
+              45720
+            ],
+            "vertical_anchor": null,
+            "borders": {},
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": null,
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": null,
+                "bullet": null,
+                "margin_left": null,
+                "indent": null,
+                "end_para_size": null,
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 0,
+            "c": 8,
+            "merge_origin": false,
+            "spanned": true,
+            "span": null,
+            "fill": null,
+            "margins": [
+              91440,
+              45720,
+              91440,
+              45720
+            ],
+            "vertical_anchor": null,
+            "borders": {
+              "lnL": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": null,
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": null,
+                "bullet": null,
+                "margin_left": null,
+                "indent": null,
+                "end_para_size": null,
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 0,
+            "c": 9,
+            "merge_origin": false,
+            "spanned": true,
+            "span": null,
+            "fill": "BACKGROUND",
+            "margins": [
+              0,
+              0,
+              0,
+              72000
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "6350",
+                "color": "A39E99",
+                "none": false
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 1,
+                "alignment": "RIGHT",
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": 1.0,
+                "bullet": "none",
+                "margin_left": "1587",
+                "indent": "0",
+                "end_para_size": "1200",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 1,
+            "c": 0,
+            "merge_origin": true,
+            "spanned": false,
+            "span": [
+              1,
+              10
+            ],
+            "fill": "BACKGROUND",
+            "margins": [
+              0,
+              0,
+              0,
+              179270
+            ],
+            "vertical_anchor": null,
+            "borders": {
+              "lnL": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 1,
+                "alignment": "LEFT",
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": 1.1,
+                "bullet": "none",
+                "margin_left": "1587",
+                "indent": "0",
+                "end_para_size": "1000",
+                "runs": [
+                  {
+                    "text": "The fund seeks to provide, over the long term, a high level of total return consistent with prudent investment management by investing globally in investment grade bonds of governmental, supranational and corporate issuers as well as other fixed-income\u00a0securities.",
+                    "font": {
+                      "name": "AvenirNext LT Com Regular",
+                      "size_pt": 10.0,
+                      "bold": false,
+                      "italic": false,
+                      "underline": false,
+                      "color": "000000",
+                      "color_theme": "TEXT_1"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "r": 1,
+            "c": 1,
+            "merge_origin": false,
+            "spanned": true,
+            "span": null,
+            "fill": null,
+            "margins": [
+              91440,
+              45720,
+              91440,
+              45720
+            ],
+            "vertical_anchor": null,
+            "borders": {
+              "lnL": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": null,
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": null,
+                "bullet": null,
+                "margin_left": null,
+                "indent": null,
+                "end_para_size": null,
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 1,
+            "c": 2,
+            "merge_origin": false,
+            "spanned": true,
+            "span": null,
+            "fill": null,
+            "margins": [
+              91440,
+              45720,
+              91440,
+              45720
+            ],
+            "vertical_anchor": null,
+            "borders": {},
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": null,
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": null,
+                "bullet": null,
+                "margin_left": null,
+                "indent": null,
+                "end_para_size": null,
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 1,
+            "c": 3,
+            "merge_origin": false,
+            "spanned": true,
+            "span": null,
+            "fill": null,
+            "margins": [
+              91440,
+              45720,
+              91440,
+              45720
+            ],
+            "vertical_anchor": null,
+            "borders": {
+              "lnL": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": null,
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": null,
+                "bullet": null,
+                "margin_left": null,
+                "indent": null,
+                "end_para_size": null,
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 1,
+            "c": 4,
+            "merge_origin": false,
+            "spanned": true,
+            "span": null,
+            "fill": null,
+            "margins": [
+              91440,
+              45720,
+              91440,
+              45720
+            ],
+            "vertical_anchor": null,
+            "borders": {},
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": null,
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": null,
+                "bullet": null,
+                "margin_left": null,
+                "indent": null,
+                "end_para_size": null,
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 1,
+            "c": 5,
+            "merge_origin": false,
+            "spanned": true,
+            "span": null,
+            "fill": null,
+            "margins": [
+              91440,
+              45720,
+              91440,
+              45720
+            ],
+            "vertical_anchor": null,
+            "borders": {},
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": null,
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": null,
+                "bullet": null,
+                "margin_left": null,
+                "indent": null,
+                "end_para_size": null,
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 1,
+            "c": 6,
+            "merge_origin": false,
+            "spanned": true,
+            "span": null,
+            "fill": "BACKGROUND",
+            "margins": [
+              0,
+              0,
+              0,
+              72000
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "6350",
+                "color": "A39E99",
+                "none": false
+              },
+              "lnB": {
+                "w": "6350",
+                "color": "A39E99",
+                "none": false
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 1,
+                "alignment": "RIGHT",
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": 1.0,
+                "bullet": "none",
+                "margin_left": "1587",
+                "indent": "0",
+                "end_para_size": "1200",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 1,
+            "c": 7,
+            "merge_origin": false,
+            "spanned": true,
+            "span": null,
+            "fill": null,
+            "margins": [
+              91440,
+              45720,
+              91440,
+              45720
+            ],
+            "vertical_anchor": null,
+            "borders": {},
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": null,
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": null,
+                "bullet": null,
+                "margin_left": null,
+                "indent": null,
+                "end_para_size": null,
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 1,
+            "c": 8,
+            "merge_origin": false,
+            "spanned": true,
+            "span": null,
+            "fill": null,
+            "margins": [
+              91440,
+              45720,
+              91440,
+              45720
+            ],
+            "vertical_anchor": null,
+            "borders": {
+              "lnL": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": null,
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": null,
+                "bullet": null,
+                "margin_left": null,
+                "indent": null,
+                "end_para_size": null,
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 1,
+            "c": 9,
+            "merge_origin": false,
+            "spanned": true,
+            "span": null,
+            "fill": "BACKGROUND",
+            "margins": [
+              0,
+              0,
+              0,
+              72000
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "6350",
+                "color": "A39E99",
+                "none": false
+              },
+              "lnB": {
+                "w": "6350",
+                "color": "A39E99",
+                "none": false
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 1,
+                "alignment": "RIGHT",
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": 1.0,
+                "bullet": "none",
+                "margin_left": "1587",
+                "indent": "0",
+                "end_para_size": "1200",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 2,
+            "c": 0,
+            "merge_origin": true,
+            "spanned": false,
+            "span": [
+              1,
+              7
+            ],
+            "fill": "BACKGROUND",
+            "margins": [
+              0,
+              0,
+              0,
+              59756
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "6350",
+                "color": "A39E99",
+                "none": false
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 1,
+                "alignment": "LEFT",
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": 1.0,
+                "bullet": "none",
+                "margin_left": "1587",
+                "indent": "0",
+                "end_para_size": "1000",
+                "runs": [
+                  {
+                    "text": "Key",
+                    "font": {
+                      "name": "AvenirNext LT Com Regular",
+                      "size_pt": 10.0,
+                      "bold": true,
+                      "italic": false,
+                      "underline": null,
+                      "color": "7D726D",
+                      "color_theme": null
+                    }
+                  },
+                  {
+                    "text": " ",
+                    "font": {
+                      "name": "AvenirNext LT Com Regular",
+                      "size_pt": 10.0,
+                      "bold": true,
+                      "italic": false,
+                      "underline": null,
+                      "color": "7D726D",
+                      "color_theme": null
+                    }
+                  },
+                  {
+                    "text": "facts",
+                    "font": {
+                      "name": "AvenirNext LT Com Regular",
+                      "size_pt": 10.0,
+                      "bold": true,
+                      "italic": false,
+                      "underline": null,
+                      "color": "7D726D",
+                      "color_theme": null
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "r": 2,
+            "c": 1,
+            "merge_origin": false,
+            "spanned": true,
+            "span": null,
+            "fill": null,
+            "margins": [
+              91440,
+              45720,
+              91440,
+              45720
+            ],
+            "vertical_anchor": null,
+            "borders": {
+              "lnL": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": null,
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": null,
+                "bullet": null,
+                "margin_left": null,
+                "indent": null,
+                "end_para_size": null,
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 2,
+            "c": 2,
+            "merge_origin": false,
+            "spanned": true,
+            "span": null,
+            "fill": null,
+            "margins": [
+              91440,
+              45720,
+              91440,
+              45720
+            ],
+            "vertical_anchor": null,
+            "borders": {},
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": null,
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": null,
+                "bullet": null,
+                "margin_left": null,
+                "indent": null,
+                "end_para_size": null,
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 2,
+            "c": 3,
+            "merge_origin": false,
+            "spanned": true,
+            "span": null,
+            "fill": null,
+            "margins": [
+              91440,
+              45720,
+              91440,
+              45720
+            ],
+            "vertical_anchor": null,
+            "borders": {
+              "lnL": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": null,
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": null,
+                "bullet": null,
+                "margin_left": null,
+                "indent": null,
+                "end_para_size": null,
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 2,
+            "c": 4,
+            "merge_origin": false,
+            "spanned": true,
+            "span": null,
+            "fill": null,
+            "margins": [
+              91440,
+              45720,
+              91440,
+              45720
+            ],
+            "vertical_anchor": null,
+            "borders": {},
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": null,
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": null,
+                "bullet": null,
+                "margin_left": null,
+                "indent": null,
+                "end_para_size": null,
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 2,
+            "c": 5,
+            "merge_origin": false,
+            "spanned": true,
+            "span": null,
+            "fill": null,
+            "margins": [
+              91440,
+              45720,
+              91440,
+              45720
+            ],
+            "vertical_anchor": null,
+            "borders": {},
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": null,
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": null,
+                "bullet": null,
+                "margin_left": null,
+                "indent": null,
+                "end_para_size": null,
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 2,
+            "c": 6,
+            "merge_origin": false,
+            "spanned": true,
+            "span": null,
+            "fill": "BACKGROUND",
+            "margins": [
+              0,
+              0,
+              0,
+              72000
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "6350",
+                "color": "A39E99",
+                "none": false
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 1,
+                "alignment": "RIGHT",
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": 1.0,
+                "bullet": "none",
+                "margin_left": "1587",
+                "indent": "0",
+                "end_para_size": "1200",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 2,
+            "c": 7,
+            "merge_origin": true,
+            "spanned": false,
+            "span": [
+              1,
+              2
+            ],
+            "fill": "BACKGROUND",
+            "margins": [
+              0,
+              0,
+              0,
+              59756
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "6350",
+                "color": "A39E99",
+                "none": false
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 1,
+                "alignment": "RIGHT",
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": 1.0,
+                "bullet": "none",
+                "margin_left": "1587",
+                "indent": "0",
+                "end_para_size": "1000",
+                "runs": [
+                  {
+                    "text": "Strategy\u00b9  ",
+                    "font": {
+                      "name": "AvenirNext LT Com Regular",
+                      "size_pt": 10.0,
+                      "bold": true,
+                      "italic": null,
+                      "underline": null,
+                      "color": "7D726D",
+                      "color_theme": null
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "r": 2,
+            "c": 8,
+            "merge_origin": false,
+            "spanned": true,
+            "span": null,
+            "fill": null,
+            "margins": [
+              91440,
+              45720,
+              91440,
+              45720
+            ],
+            "vertical_anchor": null,
+            "borders": {
+              "lnL": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": null,
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": null,
+                "bullet": null,
+                "margin_left": null,
+                "indent": null,
+                "end_para_size": null,
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 2,
+            "c": 9,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": "BACKGROUND",
+            "margins": [
+              0,
+              0,
+              0,
+              59756
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "6350",
+                "color": "A39E99",
+                "none": false
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 1,
+                "alignment": "RIGHT",
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": 1.0,
+                "bullet": "none",
+                "margin_left": "1587",
+                "indent": "0",
+                "end_para_size": "1000",
+                "runs": [
+                  {
+                    "text": "Fund",
+                    "font": {
+                      "name": "AvenirNext LT Com Regular",
+                      "size_pt": 10.0,
+                      "bold": true,
+                      "italic": null,
+                      "underline": null,
+                      "color": "7D726D",
+                      "color_theme": null
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "r": 3,
+            "c": 0,
+            "merge_origin": true,
+            "spanned": false,
+            "span": [
+              1,
+              6
+            ],
+            "fill": "BACKGROUND",
+            "margins": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "vertical_anchor": "MIDDLE",
+            "borders": {
+              "lnL": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "6350",
+                "color": "A39E99",
+                "none": false
+              },
+              "lnB": {
+                "w": "6350",
+                "color": "A39E99",
+                "none": false
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "LEFT",
+                "space_before_pt": 0.0,
+                "space_after_pt": 0.0,
+                "line_spacing": 0.9,
+                "bullet": "none",
+                "margin_left": "0",
+                "indent": "0",
+                "end_para_size": null,
+                "runs": [
+                  {
+                    "text": "Launch date",
+                    "font": {
+                      "name": "AvenirNext LT Com Regular",
+                      "size_pt": 10.0,
+                      "bold": false,
+                      "italic": false,
+                      "underline": null,
+                      "color": "000000",
+                      "color_theme": "TEXT_1"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "r": 3,
+            "c": 1,
+            "merge_origin": false,
+            "spanned": true,
+            "span": null,
+            "fill": null,
+            "margins": [
+              91440,
+              45720,
+              91440,
+              45720
+            ],
+            "vertical_anchor": null,
+            "borders": {
+              "lnL": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": null,
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": null,
+                "bullet": null,
+                "margin_left": null,
+                "indent": null,
+                "end_para_size": null,
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 3,
+            "c": 2,
+            "merge_origin": false,
+            "spanned": true,
+            "span": null,
+            "fill": null,
+            "margins": [
+              91440,
+              45720,
+              91440,
+              45720
+            ],
+            "vertical_anchor": null,
+            "borders": {},
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": null,
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": null,
+                "bullet": null,
+                "margin_left": null,
+                "indent": null,
+                "end_para_size": null,
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 3,
+            "c": 3,
+            "merge_origin": false,
+            "spanned": true,
+            "span": null,
+            "fill": null,
+            "margins": [
+              91440,
+              45720,
+              91440,
+              45720
+            ],
+            "vertical_anchor": null,
+            "borders": {
+              "lnL": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": null,
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": null,
+                "bullet": null,
+                "margin_left": null,
+                "indent": null,
+                "end_para_size": null,
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 3,
+            "c": 4,
+            "merge_origin": false,
+            "spanned": true,
+            "span": null,
+            "fill": null,
+            "margins": [
+              91440,
+              45720,
+              91440,
+              45720
+            ],
+            "vertical_anchor": null,
+            "borders": {},
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": null,
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": null,
+                "bullet": null,
+                "margin_left": null,
+                "indent": null,
+                "end_para_size": null,
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 3,
+            "c": 5,
+            "merge_origin": false,
+            "spanned": true,
+            "span": null,
+            "fill": null,
+            "margins": [
+              91440,
+              45720,
+              91440,
+              45720
+            ],
+            "vertical_anchor": null,
+            "borders": {},
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": null,
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": null,
+                "bullet": null,
+                "margin_left": null,
+                "indent": null,
+                "end_para_size": null,
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 3,
+            "c": 6,
+            "merge_origin": true,
+            "spanned": false,
+            "span": [
+              1,
+              3
+            ],
+            "fill": "BACKGROUND",
+            "margins": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "vertical_anchor": "MIDDLE",
+            "borders": {
+              "lnL": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "6350",
+                "color": "A39E99",
+                "none": false
+              },
+              "lnB": {
+                "w": "6350",
+                "color": "A39E99",
+                "none": false
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "RIGHT",
+                "space_before_pt": 0.0,
+                "space_after_pt": 0.0,
+                "line_spacing": 0.9,
+                "bullet": "none",
+                "margin_left": "0",
+                "indent": "0",
+                "end_para_size": "1000",
+                "runs": [
+                  {
+                    "text": "Dec 2001",
+                    "font": {
+                      "name": "AvenirNext LT Com Regular",
+                      "size_pt": 10.0,
+                      "bold": false,
+                      "italic": false,
+                      "underline": null,
+                      "color": "000000",
+                      "color_theme": "TEXT_1"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "r": 3,
+            "c": 7,
+            "merge_origin": false,
+            "spanned": true,
+            "span": null,
+            "fill": null,
+            "margins": [
+              91440,
+              45720,
+              91440,
+              45720
+            ],
+            "vertical_anchor": null,
+            "borders": {},
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": null,
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": null,
+                "bullet": null,
+                "margin_left": null,
+                "indent": null,
+                "end_para_size": null,
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 3,
+            "c": 8,
+            "merge_origin": false,
+            "spanned": true,
+            "span": null,
+            "fill": null,
+            "margins": [
+              91440,
+              45720,
+              91440,
+              45720
+            ],
+            "vertical_anchor": null,
+            "borders": {
+              "lnL": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": null,
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": null,
+                "bullet": null,
+                "margin_left": null,
+                "indent": null,
+                "end_para_size": null,
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 3,
+            "c": 9,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": "BACKGROUND",
+            "margins": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "vertical_anchor": "MIDDLE",
+            "borders": {
+              "lnL": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "6350",
+                "color": "A39E99",
+                "none": false
+              },
+              "lnB": {
+                "w": "6350",
+                "color": "A39E99",
+                "none": false
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "RIGHT",
+                "space_before_pt": 0.0,
+                "space_after_pt": 0.0,
+                "line_spacing": 0.9,
+                "bullet": "none",
+                "margin_left": "0",
+                "indent": "0",
+                "end_para_size": "1000",
+                "runs": [
+                  {
+                    "text": "Apr 1998",
+                    "font": {
+                      "name": "AvenirNext LT Com Regular",
+                      "size_pt": 10.0,
+                      "bold": null,
+                      "italic": null,
+                      "underline": null,
+                      "color": "000000",
+                      "color_theme": "TEXT_1"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "r": 4,
+            "c": 0,
+            "merge_origin": true,
+            "spanned": false,
+            "span": [
+              1,
+              4
+            ],
+            "fill": "BACKGROUND",
+            "margins": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "vertical_anchor": "MIDDLE",
+            "borders": {
+              "lnL": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "6350",
+                "color": "A39E99",
+                "none": false
+              },
+              "lnB": {
+                "w": "6350",
+                "color": "A39E99",
+                "none": false
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "LEFT",
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": null,
+                "bullet": null,
+                "margin_left": null,
+                "indent": null,
+                "end_para_size": "1000",
+                "runs": [
+                  {
+                    "text": "Size",
+                    "font": {
+                      "name": "AvenirNext LT Com Regular",
+                      "size_pt": 10.0,
+                      "bold": false,
+                      "italic": false,
+                      "underline": null,
+                      "color": "000000",
+                      "color_theme": "TEXT_1"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "r": 4,
+            "c": 1,
+            "merge_origin": false,
+            "spanned": true,
+            "span": null,
+            "fill": null,
+            "margins": [
+              91440,
+              45720,
+              91440,
+              45720
+            ],
+            "vertical_anchor": null,
+            "borders": {
+              "lnL": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": null,
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": null,
+                "bullet": null,
+                "margin_left": null,
+                "indent": null,
+                "end_para_size": null,
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 4,
+            "c": 2,
+            "merge_origin": false,
+            "spanned": true,
+            "span": null,
+            "fill": null,
+            "margins": [
+              91440,
+              45720,
+              91440,
+              45720
+            ],
+            "vertical_anchor": null,
+            "borders": {},
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": null,
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": null,
+                "bullet": null,
+                "margin_left": null,
+                "indent": null,
+                "end_para_size": null,
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 4,
+            "c": 3,
+            "merge_origin": false,
+            "spanned": true,
+            "span": null,
+            "fill": null,
+            "margins": [
+              91440,
+              45720,
+              91440,
+              45720
+            ],
+            "vertical_anchor": null,
+            "borders": {},
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": null,
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": null,
+                "bullet": null,
+                "margin_left": null,
+                "indent": null,
+                "end_para_size": null,
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 4,
+            "c": 4,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": "BACKGROUND",
+            "margins": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "vertical_anchor": "MIDDLE",
+            "borders": {
+              "lnT": {
+                "w": "6350",
+                "color": "A39E99",
+                "none": false
+              },
+              "lnB": {
+                "w": "6350",
+                "color": "A39E99",
+                "none": false
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "RIGHT",
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": null,
+                "bullet": null,
+                "margin_left": null,
+                "indent": null,
+                "end_para_size": "1000",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 4,
+            "c": 5,
+            "merge_origin": true,
+            "spanned": false,
+            "span": [
+              1,
+              4
+            ],
+            "fill": "BACKGROUND",
+            "margins": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "vertical_anchor": "MIDDLE",
+            "borders": {
+              "lnR": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "6350",
+                "color": "A39E99",
+                "none": false
+              },
+              "lnB": {
+                "w": "6350",
+                "color": "A39E99",
+                "none": false
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "RIGHT",
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": null,
+                "bullet": null,
+                "margin_left": null,
+                "indent": null,
+                "end_para_size": "1000",
+                "runs": [
+                  {
+                    "text": "US$ 840 m",
+                    "font": {
+                      "name": "AvenirNext LT Com Regular",
+                      "size_pt": 10.0,
+                      "bold": null,
+                      "italic": null,
+                      "underline": null,
+                      "color": "000000",
+                      "color_theme": "TEXT_1"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "r": 4,
+            "c": 6,
+            "merge_origin": false,
+            "spanned": true,
+            "span": null,
+            "fill": "BACKGROUND",
+            "margins": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "vertical_anchor": "MIDDLE",
+            "borders": {
+              "lnL": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "6350",
+                "color": "A39E99",
+                "none": false
+              },
+              "lnB": {
+                "w": "6350",
+                "color": "A39E99",
+                "none": false
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "RIGHT",
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": null,
+                "bullet": null,
+                "margin_left": null,
+                "indent": null,
+                "end_para_size": "1200",
+                "runs": [
+                  {
+                    "text": "US$ ",
+                    "font": {
+                      "name": "AvenirNext LT Com Regular",
+                      "size_pt": 12.0,
+                      "bold": null,
+                      "italic": null,
+                      "underline": null,
+                      "color": "000000",
+                      "color_theme": "TEXT_1"
+                    }
+                  },
+                  {
+                    "text": "XXX.Xbn",
+                    "font": {
+                      "name": "AvenirNext LT Com Regular",
+                      "size_pt": 12.0,
+                      "bold": null,
+                      "italic": null,
+                      "underline": null,
+                      "color": "000000",
+                      "color_theme": "TEXT_1"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "r": 4,
+            "c": 7,
+            "merge_origin": false,
+            "spanned": true,
+            "span": null,
+            "fill": null,
+            "margins": [
+              91440,
+              45720,
+              91440,
+              45720
+            ],
+            "vertical_anchor": null,
+            "borders": {},
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": null,
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": null,
+                "bullet": null,
+                "margin_left": null,
+                "indent": null,
+                "end_para_size": null,
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 4,
+            "c": 8,
+            "merge_origin": false,
+            "spanned": true,
+            "span": null,
+            "fill": null,
+            "margins": [
+              91440,
+              45720,
+              91440,
+              45720
+            ],
+            "vertical_anchor": null,
+            "borders": {
+              "lnL": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": null,
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": null,
+                "bullet": null,
+                "margin_left": null,
+                "indent": null,
+                "end_para_size": null,
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 4,
+            "c": 9,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": "BACKGROUND",
+            "margins": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "vertical_anchor": "MIDDLE",
+            "borders": {
+              "lnL": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "6350",
+                "color": "A39E99",
+                "none": false
+              },
+              "lnB": {
+                "w": "6350",
+                "color": "A39E99",
+                "none": false
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "RIGHT",
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": null,
+                "bullet": null,
+                "margin_left": null,
+                "indent": null,
+                "end_para_size": "1000",
+                "runs": [
+                  {
+                    "text": "US$ 833 m",
+                    "font": {
+                      "name": "AvenirNext LT Com Regular",
+                      "size_pt": 10.0,
+                      "bold": false,
+                      "italic": false,
+                      "underline": null,
+                      "color": "000000",
+                      "color_theme": "TEXT_1"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "r": 5,
+            "c": 0,
+            "merge_origin": true,
+            "spanned": false,
+            "span": [
+              1,
+              9
+            ],
+            "fill": "BACKGROUND",
+            "margins": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "vertical_anchor": "MIDDLE",
+            "borders": {
+              "lnL": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "6350",
+                "color": "A39E99",
+                "none": false
+              },
+              "lnB": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "LEFT",
+                "space_before_pt": 0.0,
+                "space_after_pt": 0.0,
+                "line_spacing": 0.9,
+                "bullet": "none",
+                "margin_left": "0",
+                "indent": "0",
+                "end_para_size": "1000",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 5,
+            "c": 1,
+            "merge_origin": false,
+            "spanned": true,
+            "span": null,
+            "fill": null,
+            "margins": [
+              91440,
+              45720,
+              91440,
+              45720
+            ],
+            "vertical_anchor": null,
+            "borders": {
+              "lnL": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": null,
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": null,
+                "bullet": null,
+                "margin_left": null,
+                "indent": null,
+                "end_para_size": null,
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 5,
+            "c": 2,
+            "merge_origin": false,
+            "spanned": true,
+            "span": null,
+            "fill": null,
+            "margins": [
+              91440,
+              45720,
+              91440,
+              45720
+            ],
+            "vertical_anchor": null,
+            "borders": {},
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": null,
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": null,
+                "bullet": null,
+                "margin_left": null,
+                "indent": null,
+                "end_para_size": null,
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 5,
+            "c": 3,
+            "merge_origin": false,
+            "spanned": true,
+            "span": null,
+            "fill": null,
+            "margins": [
+              91440,
+              45720,
+              91440,
+              45720
+            ],
+            "vertical_anchor": null,
+            "borders": {
+              "lnL": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": null,
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": null,
+                "bullet": null,
+                "margin_left": null,
+                "indent": null,
+                "end_para_size": null,
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 5,
+            "c": 4,
+            "merge_origin": false,
+            "spanned": true,
+            "span": null,
+            "fill": null,
+            "margins": [
+              91440,
+              45720,
+              91440,
+              45720
+            ],
+            "vertical_anchor": null,
+            "borders": {},
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": null,
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": null,
+                "bullet": null,
+                "margin_left": null,
+                "indent": null,
+                "end_para_size": null,
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 5,
+            "c": 5,
+            "merge_origin": false,
+            "spanned": true,
+            "span": null,
+            "fill": null,
+            "margins": [
+              91440,
+              45720,
+              91440,
+              45720
+            ],
+            "vertical_anchor": null,
+            "borders": {},
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": null,
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": null,
+                "bullet": null,
+                "margin_left": null,
+                "indent": null,
+                "end_para_size": null,
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 5,
+            "c": 6,
+            "merge_origin": false,
+            "spanned": true,
+            "span": null,
+            "fill": null,
+            "margins": [
+              91440,
+              45720,
+              91440,
+              45720
+            ],
+            "vertical_anchor": null,
+            "borders": {
+              "lnL": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "6350",
+                "color": "scheme:bg1",
+                "none": false
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": null,
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": null,
+                "bullet": null,
+                "margin_left": null,
+                "indent": null,
+                "end_para_size": null,
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 5,
+            "c": 7,
+            "merge_origin": false,
+            "spanned": true,
+            "span": null,
+            "fill": null,
+            "margins": [
+              91440,
+              45720,
+              91440,
+              45720
+            ],
+            "vertical_anchor": null,
+            "borders": {},
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": null,
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": null,
+                "bullet": null,
+                "margin_left": null,
+                "indent": null,
+                "end_para_size": null,
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 5,
+            "c": 8,
+            "merge_origin": false,
+            "spanned": true,
+            "span": null,
+            "fill": null,
+            "margins": [
+              91440,
+              45720,
+              91440,
+              45720
+            ],
+            "vertical_anchor": null,
+            "borders": {
+              "lnL": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": null,
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": null,
+                "bullet": null,
+                "margin_left": null,
+                "indent": null,
+                "end_para_size": null,
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 5,
+            "c": 9,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": "BACKGROUND",
+            "margins": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "vertical_anchor": "MIDDLE",
+            "borders": {
+              "lnL": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "6350",
+                "color": "A39E99",
+                "none": false
+              },
+              "lnB": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "RIGHT",
+                "space_before_pt": 0.0,
+                "space_after_pt": 0.0,
+                "line_spacing": 0.9,
+                "bullet": "none",
+                "margin_left": "0",
+                "indent": "0",
+                "end_para_size": "1000",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 6,
+            "c": 0,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": "PICTURE",
+            "margins": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "vertical_anchor": "MIDDLE",
+            "borders": {
+              "lnL": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "CENTER",
+                "space_before_pt": 0.0,
+                "space_after_pt": 0.0,
+                "line_spacing": 0.9,
+                "bullet": "none",
+                "margin_left": "0",
+                "indent": "0",
+                "end_para_size": "1000",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 6,
+            "c": 1,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": "BACKGROUND",
+            "margins": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "vertical_anchor": "MIDDLE",
+            "borders": {
+              "lnL": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "CENTER",
+                "space_before_pt": 0.0,
+                "space_after_pt": 0.0,
+                "line_spacing": 0.9,
+                "bullet": "none",
+                "margin_left": "0",
+                "indent": "0",
+                "end_para_size": "1000",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 6,
+            "c": 2,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": "PICTURE",
+            "margins": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "vertical_anchor": "MIDDLE",
+            "borders": {
+              "lnL": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "CENTER",
+                "space_before_pt": 0.0,
+                "space_after_pt": 0.0,
+                "line_spacing": 0.9,
+                "bullet": "none",
+                "margin_left": "0",
+                "indent": "0",
+                "end_para_size": "1000",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 6,
+            "c": 3,
+            "merge_origin": true,
+            "spanned": false,
+            "span": [
+              1,
+              5
+            ],
+            "fill": "BACKGROUND",
+            "margins": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "LEFT",
+                "space_before_pt": 0.0,
+                "space_after_pt": 0.0,
+                "line_spacing": 0.9,
+                "bullet": "none",
+                "margin_left": "0",
+                "indent": "0",
+                "end_para_size": "700",
+                "runs": [
+                  {
+                    "text": " ",
+                    "font": {
+                      "name": "AvenirNext LT Com Cn",
+                      "size_pt": 7.0,
+                      "bold": false,
+                      "italic": false,
+                      "underline": null,
+                      "color": "000000",
+                      "color_theme": "TEXT_1"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "r": 6,
+            "c": 4,
+            "merge_origin": false,
+            "spanned": true,
+            "span": null,
+            "fill": null,
+            "margins": [
+              91440,
+              45720,
+              91440,
+              45720
+            ],
+            "vertical_anchor": null,
+            "borders": {},
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": null,
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": null,
+                "bullet": null,
+                "margin_left": null,
+                "indent": null,
+                "end_para_size": null,
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 6,
+            "c": 5,
+            "merge_origin": false,
+            "spanned": true,
+            "span": null,
+            "fill": null,
+            "margins": [
+              91440,
+              45720,
+              91440,
+              45720
+            ],
+            "vertical_anchor": null,
+            "borders": {},
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": null,
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": null,
+                "bullet": null,
+                "margin_left": null,
+                "indent": null,
+                "end_para_size": null,
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 6,
+            "c": 6,
+            "merge_origin": false,
+            "spanned": true,
+            "span": null,
+            "fill": "FFFFFF",
+            "margins": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "RIGHT",
+                "space_before_pt": 0.0,
+                "space_after_pt": 0.0,
+                "line_spacing": 0.9,
+                "bullet": "none",
+                "margin_left": "0",
+                "indent": "0",
+                "end_para_size": null,
+                "runs": [
+                  {
+                    "text": "Morningstar Analyst ",
+                    "font": {
+                      "name": "AvenirNext LT Com Cn",
+                      "size_pt": 8.0,
+                      "bold": false,
+                      "italic": false,
+                      "underline": null,
+                      "color": "000000",
+                      "color_theme": "TEXT_1"
+                    }
+                  },
+                  {
+                    "text": "Rating",
+                    "font": {
+                      "name": "AvenirNext LT Com Cn",
+                      "size_pt": 8.0,
+                      "bold": false,
+                      "italic": false,
+                      "underline": null,
+                      "color": "000000",
+                      "color_theme": "TEXT_1"
+                    }
+                  },
+                  {
+                    "text": "TM",
+                    "font": {
+                      "name": "AvenirNext LT Com Cn",
+                      "size_pt": 8.0,
+                      "bold": false,
+                      "italic": false,
+                      "underline": null,
+                      "color": "000000",
+                      "color_theme": "TEXT_1"
+                    }
+                  },
+                  {
+                    "text": " as at 27 August 2021. ",
+                    "font": {
+                      "name": "AvenirNext LT Com Cn",
+                      "size_pt": 8.0,
+                      "bold": false,
+                      "italic": false,
+                      "underline": null,
+                      "color": "000000",
+                      "color_theme": "TEXT_1"
+                    }
+                  },
+                  {
+                    "text": "Morningstar Global Large-Cap Growth Equity category. ",
+                    "font": {
+                      "name": "AvenirNext LT Com Cn",
+                      "size_pt": 8.0,
+                      "bold": false,
+                      "italic": false,
+                      "underline": null,
+                      "color": "000000",
+                      "color_theme": "TEXT_1"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "r": 6,
+            "c": 7,
+            "merge_origin": false,
+            "spanned": true,
+            "span": null,
+            "fill": null,
+            "margins": [
+              91440,
+              45720,
+              91440,
+              45720
+            ],
+            "vertical_anchor": null,
+            "borders": {},
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": null,
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": null,
+                "bullet": null,
+                "margin_left": null,
+                "indent": null,
+                "end_para_size": null,
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 6,
+            "c": 8,
+            "merge_origin": true,
+            "spanned": false,
+            "span": [
+              1,
+              2
+            ],
+            "fill": "BACKGROUND",
+            "margins": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "RIGHT",
+                "space_before_pt": 0.0,
+                "space_after_pt": 0.0,
+                "line_spacing": 0.9,
+                "bullet": "none",
+                "margin_left": "0",
+                "indent": "0",
+                "end_para_size": null,
+                "runs": [
+                  {
+                    "text": " ",
+                    "font": {
+                      "name": "AvenirNext LT Com Cn",
+                      "size_pt": 7.0,
+                      "bold": false,
+                      "italic": false,
+                      "underline": null,
+                      "color": "000000",
+                      "color_theme": "TEXT_1"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "r": 6,
+            "c": 9,
+            "merge_origin": false,
+            "spanned": true,
+            "span": null,
+            "fill": "BACKGROUND",
+            "margins": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "vertical_anchor": "MIDDLE",
+            "borders": {
+              "lnL": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "RIGHT",
+                "space_before_pt": 0.0,
+                "space_after_pt": 0.0,
+                "line_spacing": 0.9,
+                "bullet": "none",
+                "margin_left": "0",
+                "indent": "0",
+                "end_para_size": "1200",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 7,
+            "c": 0,
+            "merge_origin": true,
+            "spanned": false,
+            "span": [
+              1,
+              10
+            ],
+            "fill": "BACKGROUND",
+            "margins": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "vertical_anchor": "MIDDLE",
+            "borders": {
+              "lnL": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "LEFT",
+                "space_before_pt": 0.0,
+                "space_after_pt": 0.0,
+                "line_spacing": 0.9,
+                "bullet": "none",
+                "margin_left": "0",
+                "indent": "0",
+                "end_para_size": "700",
+                "runs": [
+                  {
+                    "text": "Class Z in USD. Overall rating among 457 Global Diversified Bond funds as at 30 September 2026. ",
+                    "font": {
+                      "name": "AvenirNext LT Com Cn",
+                      "size_pt": 7.0,
+                      "bold": false,
+                      "italic": false,
+                      "underline": null,
+                      "color": "000000",
+                      "color_theme": "TEXT_1"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "r": 7,
+            "c": 1,
+            "merge_origin": false,
+            "spanned": true,
+            "span": null,
+            "fill": "BACKGROUND",
+            "margins": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "vertical_anchor": "MIDDLE",
+            "borders": {
+              "lnL": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "CENTER",
+                "space_before_pt": 0.0,
+                "space_after_pt": 0.0,
+                "line_spacing": 0.9,
+                "bullet": "none",
+                "margin_left": "0",
+                "indent": "0",
+                "end_para_size": "1200",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 7,
+            "c": 2,
+            "merge_origin": false,
+            "spanned": true,
+            "span": null,
+            "fill": "PICTURE",
+            "margins": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "vertical_anchor": "MIDDLE",
+            "borders": {
+              "lnL": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "CENTER",
+                "space_before_pt": 0.0,
+                "space_after_pt": 0.0,
+                "line_spacing": 0.9,
+                "bullet": "none",
+                "margin_left": "0",
+                "indent": "0",
+                "end_para_size": "1200",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 7,
+            "c": 3,
+            "merge_origin": false,
+            "spanned": true,
+            "span": null,
+            "fill": "BACKGROUND",
+            "margins": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "LEFT",
+                "space_before_pt": 0.0,
+                "space_after_pt": 0.0,
+                "line_spacing": 0.9,
+                "bullet": "none",
+                "margin_left": "0",
+                "indent": "0",
+                "end_para_size": "800",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 7,
+            "c": 4,
+            "merge_origin": false,
+            "spanned": true,
+            "span": null,
+            "fill": null,
+            "margins": [
+              91440,
+              45720,
+              91440,
+              45720
+            ],
+            "vertical_anchor": null,
+            "borders": {},
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": null,
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": null,
+                "bullet": null,
+                "margin_left": null,
+                "indent": null,
+                "end_para_size": null,
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 7,
+            "c": 5,
+            "merge_origin": false,
+            "spanned": true,
+            "span": null,
+            "fill": null,
+            "margins": [
+              91440,
+              45720,
+              91440,
+              45720
+            ],
+            "vertical_anchor": null,
+            "borders": {},
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": null,
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": null,
+                "bullet": null,
+                "margin_left": null,
+                "indent": null,
+                "end_para_size": null,
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 7,
+            "c": 6,
+            "merge_origin": false,
+            "spanned": true,
+            "span": null,
+            "fill": null,
+            "margins": [
+              91440,
+              45720,
+              91440,
+              45720
+            ],
+            "vertical_anchor": null,
+            "borders": {},
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": null,
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": null,
+                "bullet": null,
+                "margin_left": null,
+                "indent": null,
+                "end_para_size": null,
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 7,
+            "c": 7,
+            "merge_origin": false,
+            "spanned": true,
+            "span": null,
+            "fill": null,
+            "margins": [
+              91440,
+              45720,
+              91440,
+              45720
+            ],
+            "vertical_anchor": null,
+            "borders": {},
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": null,
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": null,
+                "bullet": null,
+                "margin_left": null,
+                "indent": null,
+                "end_para_size": null,
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 7,
+            "c": 8,
+            "merge_origin": false,
+            "spanned": true,
+            "span": null,
+            "fill": "BACKGROUND",
+            "margins": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "RIGHT",
+                "space_before_pt": 0.0,
+                "space_after_pt": 0.0,
+                "line_spacing": 0.9,
+                "bullet": "none",
+                "margin_left": "0",
+                "indent": "0",
+                "end_para_size": "800",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 7,
+            "c": 9,
+            "merge_origin": false,
+            "spanned": true,
+            "span": null,
+            "fill": null,
+            "margins": [
+              91440,
+              45720,
+              91440,
+              45720
+            ],
+            "vertical_anchor": null,
+            "borders": {},
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": null,
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": null,
+                "bullet": null,
+                "margin_left": null,
+                "indent": null,
+                "end_para_size": null,
+                "runs": []
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "shape_id": 2,
+      "name": "Filepath",
+      "shape_type": "TEXT_BOX",
+      "auto_shape_type": null,
+      "z_order": 6,
+      "locator": {
+        "shape_id": 2,
+        "name": "Filepath",
+        "z_order": 6,
+        "placeholder_idx": null,
+        "placeholder_type": null,
+        "xpath": "/p:sld/p:cSld/p:spTree/p:sp[4]"
+      },
+      "geometry_emu": {
+        "left": 7473752,
+        "top": 6125764,
+        "width": 2506900,
+        "height": 171556,
+        "rotation": 0.0
+      },
+      "geometry_in": {
+        "left": 8.173,
+        "top": 6.699,
+        "width": 2.742,
+        "height": 0.188
+      },
+      "fill": "FFFFFF",
+      "line": {
+        "color": null,
+        "width": 38100
+      },
+      "kind": "text",
+      "text_frame": {
+        "word_wrap": true,
+        "auto_size": "NONE",
+        "vertical_anchor": "BOTTOM",
+        "margins": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "paragraphs": [
+        {
+          "level": 0,
+          "alignment": "RIGHT",
+          "space_before_pt": null,
+          "space_after_pt": null,
+          "line_spacing": null,
+          "bullet": null,
+          "margin_left": null,
+          "indent": null,
+          "end_para_size": "498",
+          "runs": [
+            {
+              "text": "SAS.D00129762.CGGBLU.EN.FIT.USD.Z       ",
+              "font": {
+                "name": "AvenirNext LT Com Regular",
+                "size_pt": 4.98,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "666666",
+                "color_theme": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "shape_id": 1408,
+      "name": "Text Box 811",
+      "shape_type": "TEXT_BOX",
+      "auto_shape_type": null,
+      "z_order": 7,
+      "locator": {
+        "shape_id": 1408,
+        "name": "Text Box 811",
+        "z_order": 7,
+        "placeholder_idx": null,
+        "placeholder_type": null,
+        "xpath": "/p:sld/p:cSld/p:spTree/p:sp[5]"
+      },
+      "geometry_emu": {
+        "left": 1987872,
+        "top": 5556655,
+        "width": 8223575,
+        "height": 562077,
+        "rotation": 0.0
+      },
+      "geometry_in": {
+        "left": 2.174,
+        "top": 6.077,
+        "width": 8.993,
+        "height": 0.615
+      },
+      "fill": null,
+      "line": {
+        "color": null,
+        "width": 0
+      },
+      "kind": "text",
+      "text_frame": {
+        "word_wrap": true,
+        "auto_size": "SHAPE_TO_FIT_TEXT",
+        "vertical_anchor": "BOTTOM",
+        "margins": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "paragraphs": [
+        {
+          "level": 0,
+          "alignment": null,
+          "space_before_pt": null,
+          "space_after_pt": null,
+          "line_spacing": null,
+          "bullet": null,
+          "margin_left": "0",
+          "indent": "0",
+          "end_para_size": "830",
+          "runs": [
+            {
+              "text": "The information in relation to the index is provided for context and illustration only. ",
+              "font": {
+                "name": "AvenirNext LT Com Regular",
+                "size_pt": 8.3,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000",
+                "color_theme": null
+              }
+            },
+            {
+              "text": "The fund is actively managed.",
+              "font": {
+                "name": "AvenirNext LT Com Regular",
+                "size_pt": 8.3,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000",
+                "color_theme": null
+              }
+            },
+            {
+              "text": " It is not managed in reference to a benchmark.",
+              "font": {
+                "name": "AvenirNext LT Com Regular",
+                "size_pt": 8.3,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000",
+                "color_theme": null
+              }
+            }
+          ]
+        },
+        {
+          "level": 0,
+          "alignment": null,
+          "space_before_pt": null,
+          "space_after_pt": null,
+          "line_spacing": null,
+          "bullet": null,
+          "margin_left": "0",
+          "indent": "0",
+          "end_para_size": "830",
+          "runs": [
+            {
+              "text": "Past results are not a guarantee of future results.",
+              "font": {
+                "name": "AvenirNext LT Com Regular",
+                "size_pt": 8.3,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000",
+                "color_theme": null
+              }
+            }
+          ]
+        },
+        {
+          "level": 0,
+          "alignment": null,
+          "space_before_pt": null,
+          "space_after_pt": null,
+          "line_spacing": null,
+          "bullet": null,
+          "margin_left": "0",
+          "indent": "0",
+          "end_para_size": "664",
+          "runs": [
+            {
+              "text": "As ",
+              "font": {
+                "name": "AvenirNext LT Com Regular",
+                "size_pt": 6.64,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000",
+                "color_theme": null
+              }
+            },
+            {
+              "text": "at 30 September 2026.",
+              "font": {
+                "name": "AvenirNext LT Com Regular",
+                "size_pt": 6.64,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000",
+                "color_theme": null
+              }
+            }
+          ]
+        },
+        {
+          "level": 0,
+          "alignment": null,
+          "space_before_pt": null,
+          "space_after_pt": null,
+          "line_spacing": null,
+          "bullet": "autonum:arabicPeriod",
+          "margin_left": "76421",
+          "indent": "-76421",
+          "end_para_size": "664",
+          "runs": [
+            {
+              "text": "Based on the composite of the strategy. ",
+              "font": {
+                "name": "AvenirNext LT Com Regular",
+                "size_pt": 6.64,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": null,
+                "color_theme": null
+              }
+            }
+          ]
+        },
+        {
+          "level": 0,
+          "alignment": null,
+          "space_before_pt": null,
+          "space_after_pt": null,
+          "line_spacing": null,
+          "bullet": "autonum:arabicPeriod",
+          "margin_left": "76421",
+          "indent": "-76421",
+          "end_para_size": "664",
+          "runs": [
+            {
+              "text": "{{A}} Global Bond Fund (LUX) has adopted Sustainable Finance Disclosure Regulation (SFDR) article 8 requirements.",
+              "font": {
+                "name": "AvenirNext LT Com Regular",
+                "size_pt": 6.64,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": null,
+                "color_theme": null
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

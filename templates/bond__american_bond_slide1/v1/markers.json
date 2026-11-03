@@ -1,0 +1,79 @@
+{
+  "callouts": [
+    {
+      "shape_id": 76,
+      "original_name": "TextBox 75",
+      "colour": "green",
+      "text": "Automated \u2013 EN",
+      "connector_ids": [],
+      "target_candidates": [
+        {
+          "shape_id": 4,
+          "name": "Title 3",
+          "method": "nearest"
+        },
+        {
+          "shape_id": 5,
+          "name": "TextBox 4",
+          "method": "nearest"
+        }
+      ]
+    },
+    {
+      "shape_id": 22,
+      "original_name": "TextBox 21",
+      "colour": "green",
+      "text": "A",
+      "connector_ids": [],
+      "target_candidates": [
+        {
+          "shape_id": 4,
+          "name": "Title 3",
+          "method": "nearest"
+        },
+        {
+          "shape_id": 5,
+          "name": "TextBox 4",
+          "method": "nearest"
+        }
+      ]
+    }
+  ],
+  "callout_connector_ids": [],
+  "locked_runs": [],
+  "fully_locked_shape_ids": [],
+  "partially_locked_shape_ids": [],
+  "locked_cells": {},
+  "theme_colors": {
+    "dk1": "000000",
+    "lt1": "FFFFFF",
+    "dk2": "005F9E",
+    "lt2": "D5D0CA",
+    "accent1": "005F9E",
+    "accent2": "009CDC",
+    "accent3": "00AEA9",
+    "accent4": "762157",
+    "accent5": "554742",
+    "accent6": "A39E99",
+    "hlink": "009CDC",
+    "folHlink": "7BD0E2"
+  },
+  "decisions": [
+    {
+      "shape_id": 76,
+      "decision": "instruction",
+      "instruction_text": "Production annotation 'Automated \u2013 EN'; remove from template without mapping.",
+      "target_shape_id": 4,
+      "how_applied": "Treated as workflow metadata, not slide content; removed.",
+      "needs_human": false
+    },
+    {
+      "shape_id": 22,
+      "decision": "instruction",
+      "instruction_text": "Standalone 'A' marker; no data or actionable instruction. Remove from template without mapping.",
+      "target_shape_id": 4,
+      "how_applied": "Treated as an annotation marker, not slide content; removed.",
+      "needs_human": false
+    }
+  ]
+}

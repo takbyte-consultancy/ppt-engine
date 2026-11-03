@@ -1,0 +1,19 @@
+{
+  "exhibit_name": "BOND_AMERICAN_BOND_SLIDE2",
+  "key": "BOND::AMERICAN_BOND_SLIDE2",
+  "key_hash": "05fea1c86823030e",
+  "asset_type": "Bond",
+  "acronym": "American_bond_slide2",
+  "version": 1,
+  "file_name": "BOND_AMERICAN_BOND_SLIDE2.pptx",
+  "generated_at": "2026-11-03T08:19:19+00:00",
+  "template": {
+    "version": 1,
+    "location": "templates/bond__american_bond_slide2/v1",
+    "datasource_id": "ds_american_bond"
+  },
+  "params": {},
+  "data_sha256": "f906fb66d110245df035348a10046ec12907ac3e79293125b03cfeb9917e77fa",
+  "fidelity": "pass",
+  "warnings": []
+}

@@ -1,0 +1,22 @@
+{
+  "ds_american_bond": {
+    "name": "American bond - investment results",
+    "type": "json_file",
+    "location": "file://mock/American_bond.json",
+    "params": [],
+    "description": "Mock until the real API is ready"
+  },
+  "ds_equity_portfolio": {
+    "name": "Equity portfolio snapshot",
+    "type": "json_file",
+    "location": "file://mock/input.json",
+    "params": [],
+    "description": "Synthetic sample"
+  },
+  "ds_annotated": {
+    "name": "Annotated sample (all colour markers)",
+    "type": "json_file",
+    "location": "file://mock/annotated.json",
+    "params": []
+  }
+}

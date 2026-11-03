@@ -1,0 +1,182 @@
+{
+  "BOND::AMERICAN_BOND_1": {
+    "key": "BOND::AMERICAN_BOND_1",
+    "key_hash": "1b89181c707d2706",
+    "fields": {
+      "asset_type": "Bond",
+      "acronym": "American_bond_1"
+    },
+    "template_id": "bond__american_bond_1",
+    "datasource_id": "ds_american_bond",
+    "current_version": 2,
+    "current_location": "templates/bond__american_bond_1/v2",
+    "created_at": "2026-11-01T17:21:39+00:00",
+    "updated_at": "2026-11-03T07:58:39+00:00",
+    "versions": [
+      {
+        "version": 1,
+        "location": "templates/bond__american_bond_1/v1",
+        "story_key": "LOCAL-platinum_american_bond",
+        "platinum_sha256": "25747ac1d6d0bee3130f0bdbc2c22e81c8fdf1d798a9c54c4d5ffd9835eef4c9",
+        "created_at": "2026-11-01T17:21:39+00:00",
+        "fidelity": "warn"
+      },
+      {
+        "version": 2,
+        "location": "templates/bond__american_bond_1/v2",
+        "story_key": "LOCAL-platinum_american_bond",
+        "platinum_sha256": "25747ac1d6d0bee3130f0bdbc2c22e81c8fdf1d798a9c54c4d5ffd9835eef4c9",
+        "created_at": "2026-11-03T07:58:39+00:00",
+        "fidelity": "pass",
+        "placeholders": 67
+      }
+    ]
+  },
+  "BOND::AMERICAN_BOND_2": {
+    "key": "BOND::AMERICAN_BOND_2",
+    "key_hash": "59ce1709d06ec3a2",
+    "fields": {
+      "asset_type": "Bond",
+      "acronym": "American_bond_2"
+    },
+    "template_id": "bond__american_bond_2",
+    "datasource_id": "ds_american_bond",
+    "current_version": 1,
+    "current_location": "templates/bond__american_bond_2/v1",
+    "created_at": "2026-11-02T05:26:20+00:00",
+    "updated_at": "2026-11-02T05:26:20+00:00",
+    "versions": [
+      {
+        "version": 1,
+        "location": "templates/bond__american_bond_2/v1",
+        "story_key": "LOCAL-platinum_american_bond",
+        "platinum_sha256": "25747ac1d6d0bee3130f0bdbc2c22e81c8fdf1d798a9c54c4d5ffd9835eef4c9",
+        "created_at": "2026-11-02T05:26:20+00:00",
+        "fidelity": "warn"
+      }
+    ]
+  },
+  "BOND::BOND01": {
+    "key": "BOND::BOND01",
+    "key_hash": "b8f7891eb556ca3f",
+    "fields": {
+      "asset_type": "Bond",
+      "acronym": "Bond01"
+    },
+    "template_id": "bond__bond01",
+    "datasource_id": "ds_american_bond",
+    "current_version": 1,
+    "current_location": "templates/bond__bond01/v1",
+    "created_at": "2026-11-02T05:58:27+00:00",
+    "updated_at": "2026-11-02T05:58:27+00:00",
+    "versions": [
+      {
+        "version": 1,
+        "location": "templates/bond__bond01/v1",
+        "story_key": "LOCAL-platinum_american_bond",
+        "platinum_sha256": "25747ac1d6d0bee3130f0bdbc2c22e81c8fdf1d798a9c54c4d5ffd9835eef4c9",
+        "created_at": "2026-11-02T05:58:27+00:00",
+        "fidelity": "pass"
+      }
+    ]
+  },
+  "BOND::AMERICAN_BOND_3": {
+    "key": "BOND::AMERICAN_BOND_3",
+    "key_hash": "2ca4e6dfb89bc393",
+    "fields": {
+      "asset_type": "Bond",
+      "acronym": "American_bond_3"
+    },
+    "template_id": "bond__american_bond_3",
+    "datasource_id": "ds_american_bond",
+    "current_version": 1,
+    "current_location": "templates/bond__american_bond_3/v1",
+    "created_at": "2026-11-02T07:34:54+00:00",
+    "updated_at": "2026-11-02T07:34:54+00:00",
+    "versions": [
+      {
+        "version": 1,
+        "location": "templates/bond__american_bond_3/v1",
+        "story_key": "LOCAL-platinum_american_bond",
+        "platinum_sha256": "25747ac1d6d0bee3130f0bdbc2c22e81c8fdf1d798a9c54c4d5ffd9835eef4c9",
+        "created_at": "2026-11-02T07:34:54+00:00",
+        "fidelity": "warn"
+      }
+    ]
+  },
+  "BOND::AMERICAN_BOND_4": {
+    "key": "BOND::AMERICAN_BOND_4",
+    "key_hash": "21832bc61bf1af3e",
+    "fields": {
+      "asset_type": "Bond",
+      "acronym": "American_bond_4"
+    },
+    "template_id": "bond__american_bond_4",
+    "datasource_id": "ds_american_bond",
+    "current_version": 1,
+    "current_location": "templates/bond__american_bond_4/v1",
+    "created_at": "2026-11-02T08:59:16+00:00",
+    "updated_at": "2026-11-02T08:59:16+00:00",
+    "versions": [
+      {
+        "version": 1,
+        "location": "templates/bond__american_bond_4/v1",
+        "story_key": "LOCAL-platinum_american_bond",
+        "platinum_sha256": "25747ac1d6d0bee3130f0bdbc2c22e81c8fdf1d798a9c54c4d5ffd9835eef4c9",
+        "created_at": "2026-11-02T08:59:16+00:00",
+        "fidelity": "pass",
+        "placeholders": 67
+      }
+    ]
+  },
+  "BOND::AMERICAN_BOND_SLIDE1": {
+    "key": "BOND::AMERICAN_BOND_SLIDE1",
+    "key_hash": "a64ee15695317def",
+    "fields": {
+      "asset_type": "Bond",
+      "acronym": "American_bond_slide1"
+    },
+    "template_id": "bond__american_bond_slide1",
+    "datasource_id": "ds_american_bond",
+    "current_version": 1,
+    "current_location": "templates/bond__american_bond_slide1/v1",
+    "created_at": "2026-11-03T08:16:50+00:00",
+    "updated_at": "2026-11-03T08:16:50+00:00",
+    "versions": [
+      {
+        "version": 1,
+        "location": "templates/bond__american_bond_slide1/v1",
+        "story_key": "LOCAL-american_bond_lux_slide_dummy",
+        "platinum_sha256": "d4b2108328fa2b85b89775a859f52f0467ca386acd3cceceecb00994dd09739b",
+        "created_at": "2026-11-03T08:16:50+00:00",
+        "fidelity": "pass",
+        "placeholders": 2
+      }
+    ]
+  },
+  "BOND::AMERICAN_BOND_SLIDE2": {
+    "key": "BOND::AMERICAN_BOND_SLIDE2",
+    "key_hash": "05fea1c86823030e",
+    "fields": {
+      "asset_type": "Bond",
+      "acronym": "American_bond_slide2"
+    },
+    "template_id": "bond__american_bond_slide2",
+    "datasource_id": "ds_american_bond",
+    "current_version": 1,
+    "current_location": "templates/bond__american_bond_slide2/v1",
+    "created_at": "2026-11-03T08:17:36+00:00",
+    "updated_at": "2026-11-03T08:17:36+00:00",
+    "versions": [
+      {
+        "version": 1,
+        "location": "templates/bond__american_bond_slide2/v1",
+        "story_key": "LOCAL-american_bond_slide_dummy_lux_2",
+        "platinum_sha256": "0cc9f88b0b55dc1ce1f266ec2c415d1a512636762ce6c058cba69512e6a3d14b",
+        "created_at": "2026-11-03T08:17:36+00:00",
+        "fidelity": "pass",
+        "placeholders": 2
+      }
+    ]
+  }
+}

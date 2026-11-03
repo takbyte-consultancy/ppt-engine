@@ -1,0 +1,55 @@
+{
+  "template_id": "bond__american_bond_slide2",
+  "template_key": "BOND::AMERICAN_BOND_SLIDE2",
+  "key_fields": {
+    "asset_type": "Bond",
+    "acronym": "American_bond_slide2"
+  },
+  "datasource_id": "ds_american_bond",
+  "version": 1,
+  "required_params": [],
+  "aliases": {
+    "A": {
+      "path": "$.sources[0]",
+      "null": "",
+      "description": "sources[0]",
+      "sample": "Capital Group"
+    }
+  },
+  "occurrences": [
+    {
+      "id": "o1",
+      "alias": "A",
+      "shape_id": 26,
+      "shape_name": "Title 35",
+      "location": {
+        "paragraph": 0
+      },
+      "start": 0,
+      "end": 13,
+      "text": "Capital Group",
+      "how": "data value inside the text; the rest stays literal",
+      "confidence": "high",
+      "candidates": []
+    },
+    {
+      "id": "o2",
+      "alias": "A",
+      "shape_id": 30,
+      "shape_name": "object 3",
+      "location": {
+        "paragraph": 1
+      },
+      "start": 181,
+      "end": 194,
+      "text": "Capital Group",
+      "how": "data value inside the text; the rest stays literal",
+      "confidence": "high",
+      "candidates": []
+    }
+  ],
+  "charts": [],
+  "labels": [],
+  "kept_static": [],
+  "callouts": []
+}

@@ -1,0 +1,40 @@
+[
+  {
+    "scope": "component",
+    "slide_number": 1,
+    "component": "Title 2 · shape 3 · Investment results",
+    "source": {
+      "key": "BOND::AMERICAN_BOND_1",
+      "key_hash": "1b89181c707d2706",
+      "fields": {
+        "asset_type": "Bond",
+        "acronym": "American_bond_1"
+      },
+      "uid": "1b89181c707d2706:v1",
+      "version": 1,
+      "location": "exhibits/1b89181c707d2706__bond__american_bond_1/v1",
+      "file_name": "BOND_AMERICAN_BOND_1.pptx",
+      "exhibit_name": "BOND_AMERICAN_BOND_1",
+      "sample_uid": null,
+      "sample_slide": 1
+    },
+    "shape_id": 3,
+    "replacement_text": "Investment Result",
+    "comment": "Title Change",
+    "id": "FB-001",
+    "status": "resolved",
+    "applied": true
+  },
+  {
+    "scope": "pitchbook",
+    "slide_number": null,
+    "component": null,
+    "source": null,
+    "shape_id": null,
+    "replacement_text": null,
+    "comment": "Exchange place for slide 3 and 2",
+    "id": "FB-002",
+    "status": "resolved",
+    "applied": true
+  }
+]

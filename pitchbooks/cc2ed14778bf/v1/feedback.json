@@ -1,0 +1,14 @@
+[
+  {
+    "scope": "pitchbook",
+    "slide_number": null,
+    "component": null,
+    "source": null,
+    "shape_id": null,
+    "replacement_text": null,
+    "comment": "Move Slide 3 to slide 2 and slide 2 to slide 3",
+    "id": "FB-001",
+    "status": "resolved",
+    "applied": true
+  }
+]

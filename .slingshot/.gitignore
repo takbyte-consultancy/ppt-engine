@@ -1,0 +1,16 @@
+# Slingshot generated files - do not commit
+context/
+plans/
+prompts/
+skills/
+ssworktree/
+*-cache.json
+*_cache.json
+workflow-cache.json
+project-cache.json
+memory.json
+todos.json
+*.tmp
+*.log
+logs/
+*.credentials

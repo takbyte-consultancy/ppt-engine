@@ -1,0 +1,18 @@
+{
+  "key": "LOCAL-platinum_american_bond",
+  "summary": "",
+  "description": "",
+  "asset_type": "Bond",
+  "acronym": "American_bond_1",
+  "datasource_id": "ds_american_bond",
+  "attachments": [
+    {
+      "filename": "platinum_american_bond.pptx",
+      "size": 12255028,
+      "created": "",
+      "url": "",
+      "local_path": "/Users/arpittripathi/Documents/Codes/ppt-engine/work/uploads/platinum_american_bond.pptx"
+    }
+  ],
+  "raw_fields": {}
+}

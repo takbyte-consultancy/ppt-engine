@@ -1,0 +1,132 @@
+{
+  "slide_number": 1,
+  "slide_title": "Investment results",
+  "composite_name": "Capital Group Municipal Income SMA Composite",
+  "investment_performance": {
+    "reporting_period": "Periods ended June 30, 2026",
+    "unit": "Percentage (%)",
+    "cumulative_total_returns": {
+      "periods": [
+        "3 months",
+        "YTD",
+        "1 year"
+      ],
+      "returns": [
+        {
+          "name": "Capital Group Municipal Income SMA Composite",
+          "gross_of_fees": {
+            "3_months": -0.39,
+            "ytd": -0.39,
+            "1_year": 4.31
+          },
+          "net_of_fees": {
+            "3_months": -0.76,
+            "ytd": -0.76,
+            "1_year": 2.76
+          }
+        },
+        {
+          "name": "85%/15% Bloomberg 1-15 Year Blend (1-17 Year) Municipal Bond Index/Bloomberg 1-15 Year Blend (1-17 Year) High Yield Municipal Bond Index",
+          "3_months": -0.27,
+          "ytd": -0.27,
+          "1_year": 4.58
+        }
+      ]
+    },
+    "average_annual_total_returns": {
+      "periods": [
+        "3 years",
+        "5 years",
+        "Lifetime"
+      ],
+      "returns": [
+        {
+          "name": "Capital Group Municipal Income SMA Composite",
+          "gross_of_fees": {
+            "3_years": 2.62,
+            "5_years": null,
+            "lifetime": 2.16
+          },
+          "net_of_fees": {
+            "3_years": 1.10,
+            "5_years": null,
+            "lifetime": 0.64
+          }
+        },
+        {
+          "name": "85%/15% Bloomberg 1-15 Year Blend (1-17 Year) Municipal Bond Index/Bloomberg 1-15 Year Blend (1-17 Year) High Yield Municipal Bond Index",
+          "3_years": 2.98,
+          "5_years": null,
+          "lifetime": 2.08
+        }
+      ]
+    },
+    "lifetime_definition": "Since October 31, 2022"
+  },
+  "calendar_year_returns": {
+    "reporting_period": "As of December 31",
+    "unit": "Percentage (%)",
+    "years": [
+      2023,
+      2024,
+      2025
+    ],
+    "composite_name": "Capital Group Intermediate Municipal SMA Composite",
+    "returns": [
+      {
+        "name": "Gross of fees",
+        "2023": 4.00,
+        "2024": 0.93,
+        "2025": 5.16
+      },
+      {
+        "name": "Net of fees",
+        "2023": 2.46,
+        "2024": -0.57,
+        "2025": 3.59
+      },
+      {
+        "name": "85%/15% Bloomberg 1-15 Year Blend (1-17 Year) Municipal Bond Index/Bloomberg 1-15 Year Blend (1-17 Year) High Yield Municipal Bond Index",
+        "2023": 4.32,
+        "2024": 1.14,
+        "2025": 5.72
+      }
+    ]
+  },
+  "composite_information": {
+    "name": "Capital Group Municipal Income SMA Composite",
+    "inception_date": "December 1, 2025",
+    "creation_date": "December 1, 2025",
+    "previous_composite": {
+      "name": "Capital Group Municipal Income Composite",
+      "inception_date": "November 1, 2022",
+      "description": "Prior to December 1, 2025, no SMA portfolios were managed in the Municipal Income strategy. Therefore, the results presented are based on the Capital Group Municipal Income Composite returns, which contain non-SMA similar strategy portfolios."
+    },
+    "portfolio_coverage": "All unrestricted, discretionary separately managed account (SMA) portfolios managed according to the Municipal Income strategy."
+  },
+  "disclosures": [
+    "Figures shown are preliminary and subject to change. Past results are not predictive of results in future periods.",
+    "Beginning December 1, 2025, the Capital Group Municipal Income SMA Composite includes all SMA portfolios applicable to the Municipal Income strategy.",
+    "Returns are in USD, are asset weighted, and reflect the reinvestment of dividends, interest and other earnings (net of withholding taxes).",
+    "Index lifetime is based on the inception date of the composite.",
+    "New accounts may require more than 4 - 8 weeks to be fully invested.",
+    "Market indexes are unmanaged and, therefore, have no expenses. Investors cannot invest directly in an index. There have been periods when the composite has lagged the index.",
+    "Although our portfolios are compared to their benchmarks, portfolio managers manage them to be consistent with their investment objectives."
+  ],
+  "fee_disclosure": {
+    "gross_returns": "Gross composite returns do not reflect the deduction of any trading costs, fees or expenses; results would have been lower if they were subject to fees and expenses.",
+    "net_returns": "Composite net returns are calculated by deducting from the monthly gross returns a model fee equivalent to an annual 1.5% fee.",
+    "model_annual_fee_percentage": 1.5,
+    "additional_information": "Actual fees will vary. For information concerning program sponsor fees, contact your financial advisor."
+  },
+  "sources": [
+    "Capital Group",
+    "Bloomberg Index Services Limited"
+  ],
+  "slide_metadata": {
+    "date": "2026-03-31",
+    "business_unit": "IR_SMA",
+    "project_code": "IR_SMA_IMNASMA",
+    "page_number": 5
+  }
+}

@@ -1,0 +1,6195 @@
+{
+  "schema_version": 1,
+  "slide": {
+    "width_emu": 10058400,
+    "height_emu": 7772400,
+    "layout": "1_Headline with subheadline",
+    "master": ""
+  },
+  "theme_colors": {
+    "dk1": "000000",
+    "lt1": "FFFFFF",
+    "dk2": "1F497D",
+    "lt2": "EEECE1",
+    "accent1": "4F81BD",
+    "accent2": "C0504D",
+    "accent3": "9BBB59",
+    "accent4": "8064A2",
+    "accent5": "4BACC6",
+    "accent6": "F79646",
+    "hlink": "0000FF",
+    "folHlink": "800080"
+  },
+  "shapes": [
+    {
+      "shape_id": 2,
+      "name": "Subtitle 1",
+      "shape_type": "PLACEHOLDER",
+      "auto_shape_type": null,
+      "z_order": 0,
+      "locator": {
+        "shape_id": 2,
+        "name": "Subtitle 1",
+        "z_order": 0,
+        "placeholder_idx": 1,
+        "placeholder_type": "SUBTITLE",
+        "xpath": "/p:sld/p:cSld/p:spTree/p:sp[1]"
+      },
+      "geometry_emu": {
+        "left": 384048,
+        "top": 780521,
+        "width": 9290304,
+        "height": 237181,
+        "rotation": 0.0
+      },
+      "geometry_in": {
+        "left": 0.42,
+        "top": 0.854,
+        "width": 10.16,
+        "height": 0.259
+      },
+      "fill": null,
+      "line": {
+        "color": null,
+        "width": 0
+      },
+      "kind": "text",
+      "text_frame": {
+        "word_wrap": null,
+        "auto_size": null,
+        "vertical_anchor": null,
+        "margins": [
+          91440,
+          45720,
+          91440,
+          45720
+        ]
+      },
+      "paragraphs": [
+        {
+          "level": 0,
+          "alignment": null,
+          "space_before_pt": null,
+          "space_after_pt": null,
+          "line_spacing": null,
+          "bullet": null,
+          "margin_left": null,
+          "indent": null,
+          "end_para_size": null,
+          "runs": [
+            {
+              "text": "Capital Group Municipal Income SMA Composite",
+              "font": {
+                "name": null,
+                "size_pt": null,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "FFC000",
+                "color_theme": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "shape_id": 3,
+      "name": "Title 2",
+      "shape_type": "PLACEHOLDER",
+      "auto_shape_type": null,
+      "z_order": 1,
+      "locator": {
+        "shape_id": 3,
+        "name": "Title 2",
+        "z_order": 1,
+        "placeholder_idx": 0,
+        "placeholder_type": "TITLE",
+        "xpath": "/p:sld/p:cSld/p:spTree/p:sp[2]"
+      },
+      "geometry_emu": {
+        "left": 384048,
+        "top": 408903,
+        "width": 9290304,
+        "height": 387798,
+        "rotation": 0.0
+      },
+      "geometry_in": {
+        "left": 0.42,
+        "top": 0.447,
+        "width": 10.16,
+        "height": 0.424
+      },
+      "fill": null,
+      "line": {
+        "color": null,
+        "width": 0
+      },
+      "kind": "text",
+      "text_frame": {
+        "word_wrap": null,
+        "auto_size": null,
+        "vertical_anchor": null,
+        "margins": [
+          91440,
+          45720,
+          91440,
+          45720
+        ]
+      },
+      "paragraphs": [
+        {
+          "level": 0,
+          "alignment": null,
+          "space_before_pt": null,
+          "space_after_pt": null,
+          "line_spacing": null,
+          "bullet": null,
+          "margin_left": null,
+          "indent": null,
+          "end_para_size": null,
+          "runs": [
+            {
+              "text": "Investment results",
+              "font": {
+                "name": null,
+                "size_pt": null,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": null,
+                "color_theme": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "shape_id": 488,
+      "name": "ImageSet",
+      "shape_type": "PICTURE",
+      "auto_shape_type": "RECTANGLE",
+      "z_order": 2,
+      "locator": {
+        "shape_id": 488,
+        "name": "ImageSet",
+        "z_order": 2,
+        "placeholder_idx": null,
+        "placeholder_type": null,
+        "xpath": "/p:sld/p:cSld/p:spTree/p:pic[1]"
+      },
+      "geometry_emu": {
+        "left": 381000,
+        "top": 2352726,
+        "width": 7955280,
+        "height": 1368552,
+        "rotation": 0.0
+      },
+      "geometry_in": {
+        "left": 0.417,
+        "top": 2.573,
+        "width": 8.7,
+        "height": 1.497
+      },
+      "fill": null,
+      "line": {
+        "color": null,
+        "width": 0
+      },
+      "kind": "picture",
+      "image": {
+        "sha1": "c6ff3ecb8af64b942006813d93925b68958fe773",
+        "ext": "jpg",
+        "crop": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "shape_id": 503,
+      "name": "ImageSet",
+      "shape_type": "PICTURE",
+      "auto_shape_type": "RECTANGLE",
+      "z_order": 3,
+      "locator": {
+        "shape_id": 503,
+        "name": "ImageSet",
+        "z_order": 3,
+        "placeholder_idx": null,
+        "placeholder_type": null,
+        "xpath": "/p:sld/p:cSld/p:spTree/p:pic[2]"
+      },
+      "geometry_emu": {
+        "left": 381000,
+        "top": 2377440,
+        "width": 7287768,
+        "height": 1368552,
+        "rotation": 0.0
+      },
+      "geometry_in": {
+        "left": 0.417,
+        "top": 2.6,
+        "width": 7.97,
+        "height": 1.497
+      },
+      "fill": null,
+      "line": {
+        "color": null,
+        "width": 0
+      },
+      "kind": "picture",
+      "image": {
+        "sha1": "d036530ac956bc96d5c89bf6e222e0224eca3181",
+        "ext": "jpg",
+        "crop": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "shape_id": 210,
+      "name": "Text Placeholder 33",
+      "shape_type": "PLACEHOLDER",
+      "auto_shape_type": null,
+      "z_order": 4,
+      "locator": {
+        "shape_id": 210,
+        "name": "Text Placeholder 33",
+        "z_order": 4,
+        "placeholder_idx": 14,
+        "placeholder_type": "BODY",
+        "xpath": "/p:sld/p:cSld/p:spTree/p:sp[3]"
+      },
+      "geometry_emu": {
+        "left": 384048,
+        "top": 7275984,
+        "width": 9293352,
+        "height": 115416,
+        "rotation": 0.0
+      },
+      "geometry_in": {
+        "left": 0.42,
+        "top": 7.957,
+        "width": 10.163,
+        "height": 0.126
+      },
+      "fill": null,
+      "line": {
+        "color": null,
+        "width": 0
+      },
+      "kind": "text",
+      "text_frame": {
+        "word_wrap": null,
+        "auto_size": null,
+        "vertical_anchor": null,
+        "margins": [
+          91440,
+          45720,
+          91440,
+          45720
+        ]
+      },
+      "paragraphs": [
+        {
+          "level": 0,
+          "alignment": null,
+          "space_before_pt": 0.0,
+          "space_after_pt": 3.0,
+          "line_spacing": null,
+          "bullet": null,
+          "margin_left": null,
+          "indent": null,
+          "end_para_size": null,
+          "runs": [
+            {
+              "text": " ",
+              "font": {
+                "name": "AvenirNext LT Com Regular",
+                "size_pt": null,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": null,
+                "color_theme": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "shape_id": 586,
+      "name": "Text Placeholder 33",
+      "shape_type": "TEXT_BOX",
+      "auto_shape_type": null,
+      "z_order": 5,
+      "locator": {
+        "shape_id": 586,
+        "name": "Text Placeholder 33",
+        "z_order": 5,
+        "placeholder_idx": null,
+        "placeholder_type": null,
+        "xpath": "/p:sld/p:cSld/p:spTree/p:sp[4]"
+      },
+      "geometry_emu": {
+        "left": 381000,
+        "top": 5852517,
+        "width": 9293352,
+        "height": 1538883,
+        "rotation": 0.0
+      },
+      "geometry_in": {
+        "left": 0.417,
+        "top": 6.4,
+        "width": 10.163,
+        "height": 1.683
+      },
+      "fill": null,
+      "line": {
+        "color": null,
+        "width": 0
+      },
+      "kind": "text",
+      "text_frame": {
+        "word_wrap": true,
+        "auto_size": "SHAPE_TO_FIT_TEXT",
+        "vertical_anchor": "BOTTOM",
+        "margins": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "paragraphs": [
+        {
+          "level": 0,
+          "alignment": null,
+          "space_before_pt": 0.0,
+          "space_after_pt": 3.0,
+          "line_spacing": null,
+          "bullet": null,
+          "margin_left": null,
+          "indent": null,
+          "end_para_size": null,
+          "runs": [
+            {
+              "text": "Figures shown are preliminary and subject to change. Past results are not predictive of results in future periods.",
+              "font": {
+                "name": "Harlow Solid Italic",
+                "size_pt": null,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": null,
+                "color_theme": null
+              }
+            }
+          ]
+        },
+        {
+          "level": 0,
+          "alignment": null,
+          "space_before_pt": 0.0,
+          "space_after_pt": 3.0,
+          "line_spacing": null,
+          "bullet": null,
+          "margin_left": null,
+          "indent": null,
+          "end_para_size": null,
+          "runs": [
+            {
+              "text": "The Capital Group Municipal Income SMA Composite inception is December 1, 2025. The composite consists of all unrestricted, discretionary separately managed account (SMA) portfolios that are managed according to the Municipal Income strategy. Prior to December 1, 2025, no SMA portfolios were managed in the Municipal Income strategy, and for that reason, the results presented are based on the Capital Group Municipal Income Composite (inception is November 1, 2022) returns, which contain non-SMA similar strategy portfolios. Beginning December 1, 2025, the Capital Group Municipal Income SMA Composite includes all SMA portfolios applicable to the Municipal Income strategy. Composite creation date is December 1, 2025.",
+              "font": {
+                "name": "Harlow Solid Italic",
+                "size_pt": null,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": null,
+                "color_theme": null
+              }
+            }
+          ]
+        },
+        {
+          "level": 0,
+          "alignment": null,
+          "space_before_pt": 0.0,
+          "space_after_pt": 3.0,
+          "line_spacing": null,
+          "bullet": null,
+          "margin_left": null,
+          "indent": null,
+          "end_para_size": null,
+          "runs": [
+            {
+              "text": "Returns are in USD, are asset weighted, and reflect the reinvestment of dividends, interest and other earnings (net of withholding taxes). ",
+              "font": {
+                "name": "Harlow Solid Italic",
+                "size_pt": null,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": null,
+                "color_theme": null
+              }
+            }
+          ]
+        },
+        {
+          "level": 0,
+          "alignment": null,
+          "space_before_pt": 0.0,
+          "space_after_pt": 3.0,
+          "line_spacing": null,
+          "bullet": null,
+          "margin_left": null,
+          "indent": null,
+          "end_para_size": null,
+          "runs": [
+            {
+              "text": "Index lifetime is based on the inception date of the composite.",
+              "font": {
+                "name": "Harlow Solid Italic",
+                "size_pt": null,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": null,
+                "color_theme": null
+              }
+            }
+          ]
+        },
+        {
+          "level": 0,
+          "alignment": null,
+          "space_before_pt": 0.0,
+          "space_after_pt": 3.0,
+          "line_spacing": null,
+          "bullet": null,
+          "margin_left": null,
+          "indent": null,
+          "end_para_size": null,
+          "runs": [
+            {
+              "text": "New accounts may require more than 4 - 8 weeks to be fully invested.",
+              "font": {
+                "name": "Harlow Solid Italic",
+                "size_pt": null,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": null,
+                "color_theme": null
+              }
+            }
+          ]
+        },
+        {
+          "level": 0,
+          "alignment": null,
+          "space_before_pt": 0.0,
+          "space_after_pt": 3.0,
+          "line_spacing": null,
+          "bullet": null,
+          "margin_left": null,
+          "indent": null,
+          "end_para_size": null,
+          "runs": [
+            {
+              "text": "Market indexes are unmanaged and, therefore, have no expenses. Investors cannot invest directly in an index. There have been periods when the composite has lagged the index.",
+              "font": {
+                "name": "Harlow Solid Italic",
+                "size_pt": null,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": null,
+                "color_theme": null
+              }
+            }
+          ]
+        },
+        {
+          "level": 0,
+          "alignment": null,
+          "space_before_pt": 0.0,
+          "space_after_pt": 3.0,
+          "line_spacing": null,
+          "bullet": null,
+          "margin_left": null,
+          "indent": null,
+          "end_para_size": null,
+          "runs": [
+            {
+              "text": "Sources: Capital Group, Bloomberg Index Services Limited.",
+              "font": {
+                "name": "Harlow Solid Italic",
+                "size_pt": null,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": null,
+                "color_theme": null
+              }
+            }
+          ]
+        },
+        {
+          "level": 0,
+          "alignment": null,
+          "space_before_pt": 0.0,
+          "space_after_pt": 3.0,
+          "line_spacing": null,
+          "bullet": null,
+          "margin_left": null,
+          "indent": null,
+          "end_para_size": null,
+          "runs": [
+            {
+              "text": "Although our portfolios are compared to their benchmarks, portfolio managers manage them to be consistent with their investment objectives. ",
+              "font": {
+                "name": "Harlow Solid Italic",
+                "size_pt": null,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": null,
+                "color_theme": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "shape_id": 31,
+      "name": "TextBox 4981",
+      "shape_type": "TEXT_BOX",
+      "auto_shape_type": null,
+      "z_order": 6,
+      "locator": {
+        "shape_id": 31,
+        "name": "TextBox 4981",
+        "z_order": 6,
+        "placeholder_idx": null,
+        "placeholder_type": null,
+        "xpath": "/p:sld/p:cSld/p:spTree/p:sp[5]"
+      },
+      "geometry_emu": {
+        "left": 384048,
+        "top": 1536192,
+        "width": 9201150,
+        "height": 384721,
+        "rotation": 0.0
+      },
+      "geometry_in": {
+        "left": 0.42,
+        "top": 1.68,
+        "width": 10.062,
+        "height": 0.421
+      },
+      "fill": null,
+      "line": {
+        "color": null,
+        "width": 0
+      },
+      "kind": "text",
+      "text_frame": {
+        "word_wrap": true,
+        "auto_size": "SHAPE_TO_FIT_TEXT",
+        "vertical_anchor": null,
+        "margins": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "paragraphs": [
+        {
+          "level": 0,
+          "alignment": null,
+          "space_before_pt": null,
+          "space_after_pt": null,
+          "line_spacing": "10.0pt",
+          "bullet": null,
+          "margin_left": null,
+          "indent": null,
+          "end_para_size": "900",
+          "runs": [
+            {
+              "text": "Gross composite returns do not reflect the deduction of any trading costs, fees or expenses; results would have been lower if they were subject to fees and expenses. Composite net returns are calculated by deducting from the monthly gross returns a model fee equivalent to an annual 1.5% fee. Actual fees will vary. For information concerning program sponsor fees, contact your financial advisor.",
+              "font": {
+                "name": "+mn-lt",
+                "size_pt": 9.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000",
+                "color_theme": "TEXT_1"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "shape_id": 600,
+      "name": "object 6",
+      "shape_type": "TABLE",
+      "auto_shape_type": null,
+      "z_order": 7,
+      "locator": {
+        "shape_id": 600,
+        "name": "object 6",
+        "z_order": 7,
+        "placeholder_idx": null,
+        "placeholder_type": null,
+        "xpath": "/p:sld/p:cSld/p:spTree/p:graphicFrame[1]"
+      },
+      "geometry_emu": {
+        "left": 384048,
+        "top": 2377440,
+        "width": 6336792,
+        "height": 1762760,
+        "rotation": 0.0
+      },
+      "geometry_in": {
+        "left": 0.42,
+        "top": 2.6,
+        "width": 6.93,
+        "height": 1.928
+      },
+      "fill": null,
+      "line": null,
+      "kind": "table",
+      "table": {
+        "n_rows": 8,
+        "n_cols": 8,
+        "column_widths": [
+          3063240,
+          530352,
+          530352,
+          530352,
+          91440,
+          530352,
+          530352,
+          530352
+        ],
+        "row_heights": [
+          182880,
+          173736,
+          173736,
+          173736,
+          173736,
+          173736,
+          173736,
+          173736
+        ],
+        "flags": {},
+        "cells": [
+          {
+            "r": 0,
+            "c": 0,
+            "merge_origin": true,
+            "spanned": false,
+            "span": [
+              1,
+              8
+            ],
+            "fill": null,
+            "margins": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "6350",
+                "color": "scheme:accent1",
+                "none": false
+              },
+              "lnB": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": null,
+                "space_before_pt": 0.0,
+                "space_after_pt": null,
+                "line_spacing": "10.0pt",
+                "bullet": null,
+                "margin_left": null,
+                "indent": null,
+                "end_para_size": "1000",
+                "runs": [
+                  {
+                    "text": "Data for periods ended June 30, 2026 (%)",
+                    "font": {
+                      "name": "AvenirNext LT Com Regular",
+                      "size_pt": 10.0,
+                      "bold": true,
+                      "italic": null,
+                      "underline": null,
+                      "color": "4F81BD",
+                      "color_theme": "ACCENT_1"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "r": 0,
+            "c": 1,
+            "merge_origin": false,
+            "spanned": true,
+            "span": null,
+            "fill": null,
+            "margins": [
+              91440,
+              45720,
+              91440,
+              45720
+            ],
+            "vertical_anchor": null,
+            "borders": {},
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": null,
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": null,
+                "bullet": null,
+                "margin_left": null,
+                "indent": null,
+                "end_para_size": null,
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 0,
+            "c": 2,
+            "merge_origin": false,
+            "spanned": true,
+            "span": null,
+            "fill": null,
+            "margins": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "6350",
+                "color": "scheme:bg2",
+                "none": false
+              },
+              "lnB": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": null,
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": 1.0,
+                "bullet": null,
+                "margin_left": "273685",
+                "indent": null,
+                "end_para_size": "900",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 0,
+            "c": 3,
+            "merge_origin": false,
+            "spanned": true,
+            "span": null,
+            "fill": null,
+            "margins": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "6350",
+                "color": "scheme:bg2",
+                "none": false
+              },
+              "lnB": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": null,
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": 1.0,
+                "bullet": null,
+                "margin_left": "250825",
+                "indent": null,
+                "end_para_size": "900",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 0,
+            "c": 4,
+            "merge_origin": false,
+            "spanned": true,
+            "span": null,
+            "fill": null,
+            "margins": [
+              91440,
+              45720,
+              91440,
+              45720
+            ],
+            "vertical_anchor": null,
+            "borders": {},
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": null,
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": null,
+                "bullet": null,
+                "margin_left": null,
+                "indent": null,
+                "end_para_size": null,
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 0,
+            "c": 5,
+            "merge_origin": false,
+            "spanned": true,
+            "span": null,
+            "fill": null,
+            "margins": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "6350",
+                "color": "scheme:bg2",
+                "none": false
+              },
+              "lnB": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": null,
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": 1.0,
+                "bullet": null,
+                "margin_left": "239395",
+                "indent": null,
+                "end_para_size": "900",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 0,
+            "c": 6,
+            "merge_origin": false,
+            "spanned": true,
+            "span": null,
+            "fill": null,
+            "margins": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "6350",
+                "color": "scheme:bg2",
+                "none": false
+              },
+              "lnB": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": null,
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": 1.0,
+                "bullet": null,
+                "margin_left": "273685",
+                "indent": null,
+                "end_para_size": "900",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 0,
+            "c": 7,
+            "merge_origin": false,
+            "spanned": true,
+            "span": null,
+            "fill": null,
+            "margins": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "6350",
+                "color": "scheme:bg2",
+                "none": false
+              },
+              "lnB": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": null,
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": 1.0,
+                "bullet": null,
+                "margin_left": "260350",
+                "indent": null,
+                "end_para_size": "900",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 1,
+            "c": 0,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": null,
+            "margins": [
+              0,
+              19050,
+              0,
+              19050
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "3175",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "LEFT",
+                "space_before_pt": 0.0,
+                "space_after_pt": null,
+                "line_spacing": "10.0pt",
+                "bullet": null,
+                "margin_left": null,
+                "indent": null,
+                "end_para_size": "900",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 1,
+            "c": 1,
+            "merge_origin": true,
+            "spanned": false,
+            "span": [
+              1,
+              3
+            ],
+            "fill": null,
+            "margins": [
+              0,
+              19050,
+              0,
+              19050
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "6350",
+                "color": "A39E99",
+                "none": false
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "CENTER",
+                "space_before_pt": 0.0,
+                "space_after_pt": 0.0,
+                "line_spacing": "10.0pt",
+                "bullet": "none",
+                "margin_left": "0",
+                "indent": "0",
+                "end_para_size": "900",
+                "runs": [
+                  {
+                    "text": "Cumulative total returns",
+                    "font": {
+                      "name": "AvenirNext LT Com Cn",
+                      "size_pt": 9.0,
+                      "bold": true,
+                      "italic": null,
+                      "underline": null,
+                      "color": "000000",
+                      "color_theme": "TEXT_1"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "r": 1,
+            "c": 2,
+            "merge_origin": false,
+            "spanned": true,
+            "span": null,
+            "fill": null,
+            "margins": [
+              0,
+              25400,
+              0,
+              25400
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "3175",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "RIGHT",
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": 1.0,
+                "bullet": null,
+                "margin_left": "0",
+                "indent": "0",
+                "end_para_size": "900",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 1,
+            "c": 3,
+            "merge_origin": false,
+            "spanned": true,
+            "span": null,
+            "fill": null,
+            "margins": [
+              0,
+              25400,
+              0,
+              25400
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "3175",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "RIGHT",
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": 1.0,
+                "bullet": null,
+                "margin_left": "0",
+                "indent": "0",
+                "end_para_size": "900",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 1,
+            "c": 4,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": null,
+            "margins": [
+              0,
+              19050,
+              0,
+              19050
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "CENTER",
+                "space_before_pt": 0.0,
+                "space_after_pt": null,
+                "line_spacing": "10.0pt",
+                "bullet": null,
+                "margin_left": "0",
+                "indent": "0",
+                "end_para_size": "900",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 1,
+            "c": 5,
+            "merge_origin": true,
+            "spanned": false,
+            "span": [
+              1,
+              3
+            ],
+            "fill": null,
+            "margins": [
+              0,
+              19050,
+              0,
+              19050
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "6350",
+                "color": "A39E99",
+                "none": false
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "CENTER",
+                "space_before_pt": 0.0,
+                "space_after_pt": null,
+                "line_spacing": "10.0pt",
+                "bullet": null,
+                "margin_left": "0",
+                "indent": "0",
+                "end_para_size": "900",
+                "runs": [
+                  {
+                    "text": "Average annual total returns",
+                    "font": {
+                      "name": "AvenirNext LT Com Cn",
+                      "size_pt": 9.0,
+                      "bold": true,
+                      "italic": null,
+                      "underline": null,
+                      "color": "000000",
+                      "color_theme": "TEXT_1"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "r": 1,
+            "c": 6,
+            "merge_origin": false,
+            "spanned": true,
+            "span": null,
+            "fill": null,
+            "margins": [
+              0,
+              25400,
+              0,
+              25400
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "3175",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "RIGHT",
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": 1.0,
+                "bullet": null,
+                "margin_left": "0",
+                "indent": "0",
+                "end_para_size": "900",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 1,
+            "c": 7,
+            "merge_origin": false,
+            "spanned": true,
+            "span": null,
+            "fill": null,
+            "margins": [
+              0,
+              25400,
+              0,
+              25400
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "3175",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "RIGHT",
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": 1.0,
+                "bullet": null,
+                "margin_left": "0",
+                "indent": "0",
+                "end_para_size": "900",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 2,
+            "c": 0,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": null,
+            "margins": [
+              0,
+              19050,
+              0,
+              19050
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "12700",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "6350",
+                "color": "scheme:accent6",
+                "none": false
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "LEFT",
+                "space_before_pt": 0.0,
+                "space_after_pt": null,
+                "line_spacing": "10.0pt",
+                "bullet": null,
+                "margin_left": null,
+                "indent": null,
+                "end_para_size": "900",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 2,
+            "c": 1,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": null,
+            "margins": [
+              0,
+              19050,
+              0,
+              19050
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "6350",
+                "color": "A39E99",
+                "none": false
+              },
+              "lnB": {
+                "w": "6350",
+                "color": "scheme:accent6",
+                "none": false
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "RIGHT",
+                "space_before_pt": 0.0,
+                "space_after_pt": null,
+                "line_spacing": "10.0pt",
+                "bullet": null,
+                "margin_left": "0",
+                "indent": "0",
+                "end_para_size": "900",
+                "runs": [
+                  {
+                    "text": "3 months",
+                    "font": {
+                      "name": "AvenirNext LT Com Cn",
+                      "size_pt": 9.0,
+                      "bold": true,
+                      "italic": false,
+                      "underline": null,
+                      "color": "000000",
+                      "color_theme": "TEXT_1"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "r": 2,
+            "c": 2,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": null,
+            "margins": [
+              0,
+              19050,
+              0,
+              19050
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "6350",
+                "color": "A39E99",
+                "none": false
+              },
+              "lnB": {
+                "w": "6350",
+                "color": "scheme:accent6",
+                "none": false
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "RIGHT",
+                "space_before_pt": 0.0,
+                "space_after_pt": null,
+                "line_spacing": "10.0pt",
+                "bullet": null,
+                "margin_left": "0",
+                "indent": "0",
+                "end_para_size": "900",
+                "runs": [
+                  {
+                    "text": "YTD",
+                    "font": {
+                      "name": "AvenirNext LT Com Cn",
+                      "size_pt": 9.0,
+                      "bold": true,
+                      "italic": false,
+                      "underline": null,
+                      "color": "000000",
+                      "color_theme": "TEXT_1"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "r": 2,
+            "c": 3,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": null,
+            "margins": [
+              0,
+              19050,
+              0,
+              19050
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "6350",
+                "color": "A39E99",
+                "none": false
+              },
+              "lnB": {
+                "w": "6350",
+                "color": "scheme:accent6",
+                "none": false
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "RIGHT",
+                "space_before_pt": 0.0,
+                "space_after_pt": null,
+                "line_spacing": "10.0pt",
+                "bullet": null,
+                "margin_left": "0",
+                "indent": "0",
+                "end_para_size": "900",
+                "runs": [
+                  {
+                    "text": "1 year",
+                    "font": {
+                      "name": "AvenirNext LT Com Cn",
+                      "size_pt": 9.0,
+                      "bold": true,
+                      "italic": false,
+                      "underline": null,
+                      "color": "000000",
+                      "color_theme": "TEXT_1"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "r": 2,
+            "c": 4,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": null,
+            "margins": [
+              0,
+              19050,
+              0,
+              19050
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "6350",
+                "color": "scheme:accent6",
+                "none": false
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "RIGHT",
+                "space_before_pt": 0.0,
+                "space_after_pt": null,
+                "line_spacing": "10.0pt",
+                "bullet": null,
+                "margin_left": "0",
+                "indent": "0",
+                "end_para_size": "900",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 2,
+            "c": 5,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": null,
+            "margins": [
+              0,
+              19050,
+              0,
+              19050
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "6350",
+                "color": "A39E99",
+                "none": false
+              },
+              "lnB": {
+                "w": "6350",
+                "color": "scheme:accent6",
+                "none": false
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "RIGHT",
+                "space_before_pt": 0.0,
+                "space_after_pt": null,
+                "line_spacing": "10.0pt",
+                "bullet": null,
+                "margin_left": "0",
+                "indent": "0",
+                "end_para_size": "900",
+                "runs": [
+                  {
+                    "text": "3 years",
+                    "font": {
+                      "name": "AvenirNext LT Com Cn",
+                      "size_pt": 9.0,
+                      "bold": true,
+                      "italic": false,
+                      "underline": null,
+                      "color": "000000",
+                      "color_theme": "TEXT_1"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "r": 2,
+            "c": 6,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": null,
+            "margins": [
+              0,
+              19050,
+              0,
+              19050
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "6350",
+                "color": "A39E99",
+                "none": false
+              },
+              "lnB": {
+                "w": "6350",
+                "color": "scheme:accent6",
+                "none": false
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "RIGHT",
+                "space_before_pt": 0.0,
+                "space_after_pt": null,
+                "line_spacing": "10.0pt",
+                "bullet": null,
+                "margin_left": "0",
+                "indent": "0",
+                "end_para_size": "900",
+                "runs": [
+                  {
+                    "text": "5 years",
+                    "font": {
+                      "name": "AvenirNext LT Com Cn",
+                      "size_pt": 9.0,
+                      "bold": true,
+                      "italic": false,
+                      "underline": null,
+                      "color": "000000",
+                      "color_theme": "TEXT_1"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "r": 2,
+            "c": 7,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": null,
+            "margins": [
+              0,
+              19050,
+              0,
+              19050
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "6350",
+                "color": "A39E99",
+                "none": false
+              },
+              "lnB": {
+                "w": "6350",
+                "color": "scheme:accent6",
+                "none": false
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "RIGHT",
+                "space_before_pt": 0.0,
+                "space_after_pt": null,
+                "line_spacing": "10.0pt",
+                "bullet": null,
+                "margin_left": "0",
+                "indent": "0",
+                "end_para_size": "900",
+                "runs": [
+                  {
+                    "text": "Lifetime",
+                    "font": {
+                      "name": "AvenirNext LT Com Cn",
+                      "size_pt": 9.0,
+                      "bold": true,
+                      "italic": false,
+                      "underline": null,
+                      "color": "000000",
+                      "color_theme": "TEXT_1"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "r": 3,
+            "c": 0,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": null,
+            "margins": [
+              0,
+              19050,
+              0,
+              19050
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "6350",
+                "color": "scheme:accent6",
+                "none": false
+              },
+              "lnB": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "LEFT",
+                "space_before_pt": 0.0,
+                "space_after_pt": null,
+                "line_spacing": "10.0pt",
+                "bullet": null,
+                "margin_left": null,
+                "indent": null,
+                "end_para_size": "900",
+                "runs": [
+                  {
+                    "text": "Capital Group Municipal Income SMA Composite",
+                    "font": {
+                      "name": "AvenirNext LT Com Regular",
+                      "size_pt": 9.0,
+                      "bold": true,
+                      "italic": null,
+                      "underline": null,
+                      "color": null,
+                      "color_theme": null
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "r": 3,
+            "c": 1,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": null,
+            "margins": [
+              0,
+              19050,
+              0,
+              19050
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "6350",
+                "color": "scheme:accent6",
+                "none": false
+              },
+              "lnB": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "RIGHT",
+                "space_before_pt": 0.0,
+                "space_after_pt": null,
+                "line_spacing": "10.0pt",
+                "bullet": null,
+                "margin_left": "0",
+                "indent": null,
+                "end_para_size": "900",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 3,
+            "c": 2,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": null,
+            "margins": [
+              0,
+              19050,
+              0,
+              19050
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "6350",
+                "color": "scheme:accent6",
+                "none": false
+              },
+              "lnB": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "RIGHT",
+                "space_before_pt": 0.0,
+                "space_after_pt": 0.0,
+                "line_spacing": "10.0pt",
+                "bullet": "none",
+                "margin_left": "0",
+                "indent": "0",
+                "end_para_size": "900",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 3,
+            "c": 3,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": null,
+            "margins": [
+              0,
+              19050,
+              0,
+              19050
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "6350",
+                "color": "scheme:accent6",
+                "none": false
+              },
+              "lnB": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "RIGHT",
+                "space_before_pt": 0.0,
+                "space_after_pt": null,
+                "line_spacing": "10.0pt",
+                "bullet": null,
+                "margin_left": "0",
+                "indent": null,
+                "end_para_size": "900",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 3,
+            "c": 4,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": null,
+            "margins": [
+              0,
+              19050,
+              0,
+              19050
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "6350",
+                "color": "scheme:accent6",
+                "none": false
+              },
+              "lnB": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "RIGHT",
+                "space_before_pt": 0.0,
+                "space_after_pt": null,
+                "line_spacing": "10.0pt",
+                "bullet": null,
+                "margin_left": "0",
+                "indent": null,
+                "end_para_size": "900",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 3,
+            "c": 5,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": null,
+            "margins": [
+              0,
+              19050,
+              0,
+              19050
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "6350",
+                "color": "scheme:accent6",
+                "none": false
+              },
+              "lnB": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "RIGHT",
+                "space_before_pt": 0.0,
+                "space_after_pt": null,
+                "line_spacing": "10.0pt",
+                "bullet": null,
+                "margin_left": "0",
+                "indent": null,
+                "end_para_size": "900",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 3,
+            "c": 6,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": null,
+            "margins": [
+              0,
+              19050,
+              0,
+              19050
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "6350",
+                "color": "scheme:accent6",
+                "none": false
+              },
+              "lnB": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "RIGHT",
+                "space_before_pt": 0.0,
+                "space_after_pt": null,
+                "line_spacing": "10.0pt",
+                "bullet": null,
+                "margin_left": "0",
+                "indent": null,
+                "end_para_size": "900",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 3,
+            "c": 7,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": null,
+            "margins": [
+              0,
+              19050,
+              0,
+              19050
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "6350",
+                "color": "scheme:accent6",
+                "none": false
+              },
+              "lnB": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "RIGHT",
+                "space_before_pt": 0.0,
+                "space_after_pt": null,
+                "line_spacing": "10.0pt",
+                "bullet": null,
+                "margin_left": "0",
+                "indent": null,
+                "end_para_size": "900",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 4,
+            "c": 0,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": null,
+            "margins": [
+              0,
+              19050,
+              0,
+              19050
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "LEFT",
+                "space_before_pt": 0.0,
+                "space_after_pt": null,
+                "line_spacing": "10.0pt",
+                "bullet": null,
+                "margin_left": null,
+                "indent": null,
+                "end_para_size": "900",
+                "runs": [
+                  {
+                    "text": "\u2014 gross of fees",
+                    "font": {
+                      "name": "AvenirNext LT Com Regular",
+                      "size_pt": 9.0,
+                      "bold": false,
+                      "italic": null,
+                      "underline": null,
+                      "color": null,
+                      "color_theme": null
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "r": 4,
+            "c": 1,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": null,
+            "margins": [
+              0,
+              19050,
+              0,
+              19050
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "RIGHT",
+                "space_before_pt": 0.0,
+                "space_after_pt": null,
+                "line_spacing": "10.0pt",
+                "bullet": null,
+                "margin_left": "0",
+                "indent": null,
+                "end_para_size": "900",
+                "runs": [
+                  {
+                    "text": "-0.39 ",
+                    "font": {
+                      "name": "+mn-lt",
+                      "size_pt": 9.0,
+                      "bold": false,
+                      "italic": null,
+                      "underline": null,
+                      "color": null,
+                      "color_theme": null
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "r": 4,
+            "c": 2,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": null,
+            "margins": [
+              0,
+              19050,
+              0,
+              19050
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "RIGHT",
+                "space_before_pt": 0.0,
+                "space_after_pt": 0.0,
+                "line_spacing": "10.0pt",
+                "bullet": "none",
+                "margin_left": "0",
+                "indent": "0",
+                "end_para_size": "900",
+                "runs": [
+                  {
+                    "text": "-0.39",
+                    "font": {
+                      "name": "AvenirNext LT Com Regular",
+                      "size_pt": 9.0,
+                      "bold": false,
+                      "italic": null,
+                      "underline": null,
+                      "color": null,
+                      "color_theme": null
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "r": 4,
+            "c": 3,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": null,
+            "margins": [
+              0,
+              19050,
+              0,
+              19050
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "RIGHT",
+                "space_before_pt": 0.0,
+                "space_after_pt": null,
+                "line_spacing": "10.0pt",
+                "bullet": null,
+                "margin_left": "0",
+                "indent": null,
+                "end_para_size": "900",
+                "runs": [
+                  {
+                    "text": "4.31",
+                    "font": {
+                      "name": "AvenirNext LT Com Regular",
+                      "size_pt": 9.0,
+                      "bold": false,
+                      "italic": null,
+                      "underline": null,
+                      "color": null,
+                      "color_theme": null
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "r": 4,
+            "c": 4,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": null,
+            "margins": [
+              0,
+              19050,
+              0,
+              19050
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "RIGHT",
+                "space_before_pt": 0.0,
+                "space_after_pt": null,
+                "line_spacing": "10.0pt",
+                "bullet": null,
+                "margin_left": "0",
+                "indent": null,
+                "end_para_size": "900",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 4,
+            "c": 5,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": null,
+            "margins": [
+              0,
+              19050,
+              0,
+              19050
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "RIGHT",
+                "space_before_pt": 0.0,
+                "space_after_pt": null,
+                "line_spacing": "10.0pt",
+                "bullet": null,
+                "margin_left": "0",
+                "indent": null,
+                "end_para_size": "900",
+                "runs": [
+                  {
+                    "text": "2.62",
+                    "font": {
+                      "name": "AvenirNext LT Com Regular",
+                      "size_pt": 9.0,
+                      "bold": false,
+                      "italic": null,
+                      "underline": null,
+                      "color": null,
+                      "color_theme": null
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "r": 4,
+            "c": 6,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": null,
+            "margins": [
+              0,
+              19050,
+              0,
+              19050
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "RIGHT",
+                "space_before_pt": 0.0,
+                "space_after_pt": null,
+                "line_spacing": "10.0pt",
+                "bullet": null,
+                "margin_left": "0",
+                "indent": null,
+                "end_para_size": "900",
+                "runs": [
+                  {
+                    "text": "\u2014",
+                    "font": {
+                      "name": "+mn-lt",
+                      "size_pt": 9.0,
+                      "bold": false,
+                      "italic": null,
+                      "underline": null,
+                      "color": null,
+                      "color_theme": null
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "r": 4,
+            "c": 7,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": null,
+            "margins": [
+              0,
+              19050,
+              0,
+              19050
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "RIGHT",
+                "space_before_pt": 0.0,
+                "space_after_pt": null,
+                "line_spacing": "10.0pt",
+                "bullet": null,
+                "margin_left": "0",
+                "indent": null,
+                "end_para_size": "900",
+                "runs": [
+                  {
+                    "text": "2.16",
+                    "font": {
+                      "name": "AvenirNext LT Com Regular",
+                      "size_pt": 9.0,
+                      "bold": false,
+                      "italic": null,
+                      "underline": null,
+                      "color": null,
+                      "color_theme": null
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "r": 5,
+            "c": 0,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": null,
+            "margins": [
+              0,
+              19050,
+              0,
+              19050
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "LEFT",
+                "space_before_pt": 0.0,
+                "space_after_pt": null,
+                "line_spacing": "10.0pt",
+                "bullet": null,
+                "margin_left": null,
+                "indent": null,
+                "end_para_size": "900",
+                "runs": [
+                  {
+                    "text": "\u2014 net of fees",
+                    "font": {
+                      "name": "AvenirNext LT Com Regular",
+                      "size_pt": 9.0,
+                      "bold": false,
+                      "italic": null,
+                      "underline": null,
+                      "color": null,
+                      "color_theme": null
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "r": 5,
+            "c": 1,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": null,
+            "margins": [
+              0,
+              19050,
+              0,
+              19050
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "RIGHT",
+                "space_before_pt": 0.0,
+                "space_after_pt": null,
+                "line_spacing": "10.0pt",
+                "bullet": null,
+                "margin_left": "0",
+                "indent": null,
+                "end_para_size": "900",
+                "runs": [
+                  {
+                    "text": "-0.76 ",
+                    "font": {
+                      "name": "+mn-lt",
+                      "size_pt": 9.0,
+                      "bold": false,
+                      "italic": null,
+                      "underline": null,
+                      "color": null,
+                      "color_theme": null
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "r": 5,
+            "c": 2,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": null,
+            "margins": [
+              0,
+              19050,
+              0,
+              19050
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "RIGHT",
+                "space_before_pt": 0.0,
+                "space_after_pt": 0.0,
+                "line_spacing": "10.0pt",
+                "bullet": "none",
+                "margin_left": "0",
+                "indent": "0",
+                "end_para_size": "900",
+                "runs": [
+                  {
+                    "text": "-0.76",
+                    "font": {
+                      "name": "AvenirNext LT Com Regular",
+                      "size_pt": 9.0,
+                      "bold": false,
+                      "italic": null,
+                      "underline": null,
+                      "color": null,
+                      "color_theme": null
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "r": 5,
+            "c": 3,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": null,
+            "margins": [
+              0,
+              19050,
+              0,
+              19050
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "RIGHT",
+                "space_before_pt": 0.0,
+                "space_after_pt": null,
+                "line_spacing": "10.0pt",
+                "bullet": null,
+                "margin_left": "0",
+                "indent": null,
+                "end_para_size": "900",
+                "runs": [
+                  {
+                    "text": "2.76",
+                    "font": {
+                      "name": "AvenirNext LT Com Regular",
+                      "size_pt": 9.0,
+                      "bold": false,
+                      "italic": null,
+                      "underline": null,
+                      "color": null,
+                      "color_theme": null
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "r": 5,
+            "c": 4,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": null,
+            "margins": [
+              0,
+              19050,
+              0,
+              19050
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "RIGHT",
+                "space_before_pt": 0.0,
+                "space_after_pt": null,
+                "line_spacing": "10.0pt",
+                "bullet": null,
+                "margin_left": "0",
+                "indent": null,
+                "end_para_size": "900",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 5,
+            "c": 5,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": null,
+            "margins": [
+              0,
+              19050,
+              0,
+              19050
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "RIGHT",
+                "space_before_pt": 0.0,
+                "space_after_pt": null,
+                "line_spacing": "10.0pt",
+                "bullet": null,
+                "margin_left": "0",
+                "indent": null,
+                "end_para_size": "900",
+                "runs": [
+                  {
+                    "text": "1.10",
+                    "font": {
+                      "name": "AvenirNext LT Com Regular",
+                      "size_pt": 9.0,
+                      "bold": false,
+                      "italic": null,
+                      "underline": null,
+                      "color": null,
+                      "color_theme": null
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "r": 5,
+            "c": 6,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": null,
+            "margins": [
+              0,
+              19050,
+              0,
+              19050
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "RIGHT",
+                "space_before_pt": 0.0,
+                "space_after_pt": 0.0,
+                "line_spacing": "10.0pt",
+                "bullet": "none",
+                "margin_left": "0",
+                "indent": "0",
+                "end_para_size": null,
+                "runs": [
+                  {
+                    "text": "\u2014",
+                    "font": {
+                      "name": "+mn-lt",
+                      "size_pt": 9.0,
+                      "bold": false,
+                      "italic": null,
+                      "underline": null,
+                      "color": null,
+                      "color_theme": null
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "r": 5,
+            "c": 7,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": null,
+            "margins": [
+              0,
+              19050,
+              0,
+              19050
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "RIGHT",
+                "space_before_pt": 0.0,
+                "space_after_pt": null,
+                "line_spacing": "10.0pt",
+                "bullet": null,
+                "margin_left": "0",
+                "indent": null,
+                "end_para_size": "900",
+                "runs": [
+                  {
+                    "text": "0.64",
+                    "font": {
+                      "name": "AvenirNext LT Com Regular",
+                      "size_pt": 9.0,
+                      "bold": false,
+                      "italic": null,
+                      "underline": null,
+                      "color": null,
+                      "color_theme": null
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "r": 6,
+            "c": 0,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": null,
+            "margins": [
+              0,
+              19050,
+              0,
+              19050
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "LEFT",
+                "space_before_pt": 0.0,
+                "space_after_pt": 0.0,
+                "line_spacing": "10.0pt",
+                "bullet": "none",
+                "margin_left": "0",
+                "indent": "0",
+                "end_para_size": null,
+                "runs": [
+                  {
+                    "text": "85%/15% Bloomberg 1-15 Year Blend (1-17 Year) Municipal Bond Index/Bloomberg 1-15 Year Blend (1-17 Year) High Yield Municipal Bond Index",
+                    "font": {
+                      "name": "AvenirNext LT Com Regular",
+                      "size_pt": 9.0,
+                      "bold": false,
+                      "italic": false,
+                      "underline": null,
+                      "color": "000000",
+                      "color_theme": "TEXT_1"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "r": 6,
+            "c": 1,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": null,
+            "margins": [
+              0,
+              19050,
+              0,
+              19050
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "RIGHT",
+                "space_before_pt": 0.0,
+                "space_after_pt": null,
+                "line_spacing": "10.0pt",
+                "bullet": null,
+                "margin_left": "0",
+                "indent": null,
+                "end_para_size": "900",
+                "runs": [
+                  {
+                    "text": "-0.27 ",
+                    "font": {
+                      "name": "+mn-lt",
+                      "size_pt": 9.0,
+                      "bold": false,
+                      "italic": null,
+                      "underline": null,
+                      "color": null,
+                      "color_theme": null
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "r": 6,
+            "c": 2,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": null,
+            "margins": [
+              0,
+              19050,
+              0,
+              19050
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "RIGHT",
+                "space_before_pt": 0.0,
+                "space_after_pt": 0.0,
+                "line_spacing": "10.0pt",
+                "bullet": "none",
+                "margin_left": "0",
+                "indent": "0",
+                "end_para_size": "900",
+                "runs": [
+                  {
+                    "text": "-0.27",
+                    "font": {
+                      "name": "AvenirNext LT Com Regular",
+                      "size_pt": 9.0,
+                      "bold": false,
+                      "italic": null,
+                      "underline": null,
+                      "color": null,
+                      "color_theme": null
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "r": 6,
+            "c": 3,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": null,
+            "margins": [
+              0,
+              19050,
+              0,
+              19050
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "RIGHT",
+                "space_before_pt": 0.0,
+                "space_after_pt": null,
+                "line_spacing": "10.0pt",
+                "bullet": null,
+                "margin_left": "0",
+                "indent": null,
+                "end_para_size": "900",
+                "runs": [
+                  {
+                    "text": "4.58",
+                    "font": {
+                      "name": "AvenirNext LT Com Regular",
+                      "size_pt": 9.0,
+                      "bold": false,
+                      "italic": null,
+                      "underline": null,
+                      "color": null,
+                      "color_theme": null
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "r": 6,
+            "c": 4,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": null,
+            "margins": [
+              0,
+              19050,
+              0,
+              19050
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "RIGHT",
+                "space_before_pt": 0.0,
+                "space_after_pt": null,
+                "line_spacing": "10.0pt",
+                "bullet": null,
+                "margin_left": "0",
+                "indent": null,
+                "end_para_size": "900",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 6,
+            "c": 5,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": null,
+            "margins": [
+              0,
+              19050,
+              0,
+              19050
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "RIGHT",
+                "space_before_pt": 0.0,
+                "space_after_pt": null,
+                "line_spacing": "10.0pt",
+                "bullet": null,
+                "margin_left": "0",
+                "indent": null,
+                "end_para_size": "900",
+                "runs": [
+                  {
+                    "text": "2.98",
+                    "font": {
+                      "name": "AvenirNext LT Com Regular",
+                      "size_pt": 9.0,
+                      "bold": false,
+                      "italic": null,
+                      "underline": null,
+                      "color": null,
+                      "color_theme": null
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "r": 6,
+            "c": 6,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": null,
+            "margins": [
+              0,
+              19050,
+              0,
+              19050
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "RIGHT",
+                "space_before_pt": 0.0,
+                "space_after_pt": 0.0,
+                "line_spacing": "10.0pt",
+                "bullet": "none",
+                "margin_left": "0",
+                "indent": "0",
+                "end_para_size": null,
+                "runs": [
+                  {
+                    "text": "\u2014",
+                    "font": {
+                      "name": "+mn-lt",
+                      "size_pt": 9.0,
+                      "bold": false,
+                      "italic": null,
+                      "underline": null,
+                      "color": null,
+                      "color_theme": null
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "r": 6,
+            "c": 7,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": null,
+            "margins": [
+              0,
+              19050,
+              0,
+              19050
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "RIGHT",
+                "space_before_pt": 0.0,
+                "space_after_pt": null,
+                "line_spacing": "10.0pt",
+                "bullet": null,
+                "margin_left": "0",
+                "indent": null,
+                "end_para_size": "900",
+                "runs": [
+                  {
+                    "text": "2.08",
+                    "font": {
+                      "name": "AvenirNext LT Com Regular",
+                      "size_pt": 9.0,
+                      "bold": false,
+                      "italic": null,
+                      "underline": null,
+                      "color": null,
+                      "color_theme": null
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "r": 7,
+            "c": 0,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": null,
+            "margins": [
+              0,
+              19050,
+              0,
+              19050
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "LEFT",
+                "space_before_pt": 0.0,
+                "space_after_pt": null,
+                "line_spacing": "10.0pt",
+                "bullet": null,
+                "margin_left": null,
+                "indent": null,
+                "end_para_size": "900",
+                "runs": [
+                  {
+                    "text": "Lifetime: Since October 31, 2022",
+                    "font": {
+                      "name": "AvenirNext LT Com Regular",
+                      "size_pt": 9.0,
+                      "bold": false,
+                      "italic": null,
+                      "underline": null,
+                      "color": null,
+                      "color_theme": null
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "r": 7,
+            "c": 1,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": null,
+            "margins": [
+              0,
+              19050,
+              0,
+              19050
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "RIGHT",
+                "space_before_pt": 0.0,
+                "space_after_pt": null,
+                "line_spacing": "10.0pt",
+                "bullet": null,
+                "margin_left": "0",
+                "indent": null,
+                "end_para_size": "900",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 7,
+            "c": 2,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": null,
+            "margins": [
+              0,
+              19050,
+              0,
+              19050
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "RIGHT",
+                "space_before_pt": 0.0,
+                "space_after_pt": 0.0,
+                "line_spacing": "10.0pt",
+                "bullet": "none",
+                "margin_left": "0",
+                "indent": "0",
+                "end_para_size": "900",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 7,
+            "c": 3,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": null,
+            "margins": [
+              0,
+              19050,
+              0,
+              19050
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "RIGHT",
+                "space_before_pt": 0.0,
+                "space_after_pt": null,
+                "line_spacing": "10.0pt",
+                "bullet": null,
+                "margin_left": "0",
+                "indent": null,
+                "end_para_size": "900",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 7,
+            "c": 4,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": null,
+            "margins": [
+              0,
+              19050,
+              0,
+              19050
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "RIGHT",
+                "space_before_pt": 0.0,
+                "space_after_pt": null,
+                "line_spacing": "10.0pt",
+                "bullet": null,
+                "margin_left": "0",
+                "indent": null,
+                "end_para_size": "900",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 7,
+            "c": 5,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": null,
+            "margins": [
+              0,
+              19050,
+              0,
+              19050
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "RIGHT",
+                "space_before_pt": 0.0,
+                "space_after_pt": null,
+                "line_spacing": "10.0pt",
+                "bullet": null,
+                "margin_left": "0",
+                "indent": null,
+                "end_para_size": "900",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 7,
+            "c": 6,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": null,
+            "margins": [
+              0,
+              19050,
+              0,
+              19050
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "RIGHT",
+                "space_before_pt": 0.0,
+                "space_after_pt": 0.0,
+                "line_spacing": "10.0pt",
+                "bullet": "none",
+                "margin_left": "0",
+                "indent": "0",
+                "end_para_size": "900",
+                "runs": []
+              },
+              {
+                "level": 0,
+                "alignment": "RIGHT",
+                "space_before_pt": 0.0,
+                "space_after_pt": null,
+                "line_spacing": "10.0pt",
+                "bullet": null,
+                "margin_left": "0",
+                "indent": null,
+                "end_para_size": "900",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 7,
+            "c": 7,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": null,
+            "margins": [
+              0,
+              19050,
+              0,
+              19050
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "RIGHT",
+                "space_before_pt": 0.0,
+                "space_after_pt": null,
+                "line_spacing": "10.0pt",
+                "bullet": null,
+                "margin_left": "0",
+                "indent": null,
+                "end_para_size": "900",
+                "runs": []
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "shape_id": 505,
+      "name": "ImageSet",
+      "shape_type": "PICTURE",
+      "auto_shape_type": "RECTANGLE",
+      "z_order": 8,
+      "locator": {
+        "shape_id": 505,
+        "name": "ImageSet",
+        "z_order": 8,
+        "placeholder_idx": null,
+        "placeholder_type": null,
+        "xpath": "/p:sld/p:cSld/p:spTree/p:pic[3]"
+      },
+      "geometry_emu": {
+        "left": 384048,
+        "top": 2377440,
+        "width": 7287768,
+        "height": 1368552,
+        "rotation": 0.0
+      },
+      "geometry_in": {
+        "left": 0.42,
+        "top": 2.6,
+        "width": 7.97,
+        "height": 1.497
+      },
+      "fill": null,
+      "line": {
+        "color": null,
+        "width": 0
+      },
+      "kind": "picture",
+      "image": {
+        "sha1": "13cec78f6c34165167e6b5a2482b217aaf3188c6",
+        "ext": "jpg",
+        "crop": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "shape_id": 601,
+      "name": "Table 251",
+      "shape_type": "TABLE",
+      "auto_shape_type": null,
+      "z_order": 9,
+      "locator": {
+        "shape_id": 601,
+        "name": "Table 251",
+        "z_order": 9,
+        "placeholder_idx": null,
+        "placeholder_type": null,
+        "xpath": "/p:sld/p:cSld/p:spTree/p:graphicFrame[2]"
+      },
+      "geometry_emu": {
+        "left": 384048,
+        "top": 4140801,
+        "width": 4654296,
+        "height": 1498600,
+        "rotation": 0.0
+      },
+      "geometry_in": {
+        "left": 0.42,
+        "top": 4.528,
+        "width": 5.09,
+        "height": 1.639
+      },
+      "fill": null,
+      "line": null,
+      "kind": "table",
+      "table": {
+        "n_rows": 7,
+        "n_cols": 4,
+        "column_widths": [
+          3063240,
+          530352,
+          530352,
+          530352
+        ],
+        "row_heights": [
+          160937,
+          160937,
+          173736,
+          173736,
+          173736,
+          173736,
+          173736
+        ],
+        "flags": {},
+        "cells": [
+          {
+            "r": 0,
+            "c": 0,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": null,
+            "margins": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "6350",
+                "color": "scheme:tx2",
+                "none": false
+              },
+              "lnB": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "LEFT",
+                "space_before_pt": 0.0,
+                "space_after_pt": 0.0,
+                "line_spacing": "10.0pt",
+                "bullet": "none",
+                "margin_left": "0",
+                "indent": "0",
+                "end_para_size": "1000",
+                "runs": [
+                  {
+                    "text": "Calendar-year total returns as of December 31 (%)",
+                    "font": {
+                      "name": "AvenirNext LT Com Regular",
+                      "size_pt": 10.0,
+                      "bold": true,
+                      "italic": null,
+                      "underline": null,
+                      "color": "4F81BD",
+                      "color_theme": "ACCENT_1"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "r": 0,
+            "c": 1,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": null,
+            "margins": [
+              0,
+              25400,
+              0,
+              25400
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "6350",
+                "color": "scheme:tx2",
+                "none": false
+              },
+              "lnB": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "RIGHT",
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": "10.0pt",
+                "bullet": null,
+                "margin_left": "0",
+                "indent": "0",
+                "end_para_size": "900",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 0,
+            "c": 2,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": null,
+            "margins": [
+              0,
+              25400,
+              0,
+              25400
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "6350",
+                "color": "scheme:tx2",
+                "none": false
+              },
+              "lnB": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "RIGHT",
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": "10.0pt",
+                "bullet": null,
+                "margin_left": "0",
+                "indent": "0",
+                "end_para_size": "900",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 0,
+            "c": 3,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": null,
+            "margins": [
+              0,
+              25400,
+              0,
+              25400
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "6350",
+                "color": "scheme:tx2",
+                "none": false
+              },
+              "lnB": {
+                "w": "6350",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "RIGHT",
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": "10.0pt",
+                "bullet": null,
+                "margin_left": "0",
+                "indent": "0",
+                "end_para_size": "900",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 1,
+            "c": 0,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": null,
+            "margins": [
+              0,
+              25400,
+              0,
+              25400
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "3175",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "6350",
+                "color": "scheme:bg1",
+                "none": false
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "LEFT",
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": "10.0pt",
+                "bullet": null,
+                "margin_left": null,
+                "indent": null,
+                "end_para_size": "900",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 1,
+            "c": 1,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": null,
+            "margins": [
+              0,
+              25400,
+              0,
+              25400
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "3175",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "6350",
+                "color": "scheme:bg1",
+                "none": false
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "RIGHT",
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": "10.0pt",
+                "bullet": null,
+                "margin_left": "0",
+                "indent": "0",
+                "end_para_size": "900",
+                "runs": [
+                  {
+                    "text": "2023 ",
+                    "font": {
+                      "name": "AvenirNext LT Com Cn",
+                      "size_pt": 9.0,
+                      "bold": true,
+                      "italic": null,
+                      "underline": null,
+                      "color": "000000",
+                      "color_theme": "TEXT_1"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "r": 1,
+            "c": 2,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": null,
+            "margins": [
+              0,
+              25400,
+              0,
+              25400
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "3175",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "6350",
+                "color": "scheme:bg1",
+                "none": false
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "RIGHT",
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": "10.0pt",
+                "bullet": null,
+                "margin_left": "0",
+                "indent": "0",
+                "end_para_size": "900",
+                "runs": [
+                  {
+                    "text": "2024 ",
+                    "font": {
+                      "name": "AvenirNext LT Com Cn",
+                      "size_pt": 9.0,
+                      "bold": true,
+                      "italic": null,
+                      "underline": null,
+                      "color": "000000",
+                      "color_theme": "TEXT_1"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "r": 1,
+            "c": 3,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": null,
+            "margins": [
+              0,
+              25400,
+              0,
+              25400
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "3175",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "6350",
+                "color": "scheme:bg1",
+                "none": false
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "RIGHT",
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": "10.0pt",
+                "bullet": null,
+                "margin_left": "0",
+                "indent": "0",
+                "end_para_size": "900",
+                "runs": [
+                  {
+                    "text": "2025 ",
+                    "font": {
+                      "name": "AvenirNext LT Com Cn",
+                      "size_pt": 9.0,
+                      "bold": true,
+                      "italic": null,
+                      "underline": null,
+                      "color": "000000",
+                      "color_theme": "TEXT_1"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "r": 2,
+            "c": 0,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": null,
+            "margins": [
+              0,
+              25400,
+              0,
+              25400
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "6350",
+                "color": "scheme:bg1",
+                "none": false
+              },
+              "lnB": {
+                "w": "3175",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "LEFT",
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": "10.0pt",
+                "bullet": null,
+                "margin_left": null,
+                "indent": null,
+                "end_para_size": "900",
+                "runs": [
+                  {
+                    "text": "Capital Group Intermediate Municipal SMA Composite ",
+                    "font": {
+                      "name": "AvenirNext LT Com Regular",
+                      "size_pt": 9.0,
+                      "bold": true,
+                      "italic": null,
+                      "underline": null,
+                      "color": null,
+                      "color_theme": null
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "r": 2,
+            "c": 1,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": null,
+            "margins": [
+              9525,
+              25400,
+              45720,
+              25400
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "6350",
+                "color": "scheme:bg1",
+                "none": false
+              },
+              "lnB": {
+                "w": "3175",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "RIGHT",
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": "10.0pt",
+                "bullet": null,
+                "margin_left": "0",
+                "indent": "0",
+                "end_para_size": "900",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 2,
+            "c": 2,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": null,
+            "margins": [
+              9525,
+              25400,
+              45720,
+              25400
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "6350",
+                "color": "scheme:bg1",
+                "none": false
+              },
+              "lnB": {
+                "w": "3175",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "RIGHT",
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": "10.0pt",
+                "bullet": null,
+                "margin_left": "0",
+                "indent": "0",
+                "end_para_size": "900",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 2,
+            "c": 3,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": null,
+            "margins": [
+              9525,
+              25400,
+              45720,
+              25400
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "6350",
+                "color": "scheme:bg1",
+                "none": false
+              },
+              "lnB": {
+                "w": "3175",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "RIGHT",
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": "10.0pt",
+                "bullet": null,
+                "margin_left": "0",
+                "indent": "0",
+                "end_para_size": "900",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 3,
+            "c": 0,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": null,
+            "margins": [
+              0,
+              25400,
+              0,
+              25400
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "3175",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "3175",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": null,
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": "10.0pt",
+                "bullet": "none",
+                "margin_left": "6350",
+                "indent": "0",
+                "end_para_size": null,
+                "runs": [
+                  {
+                    "text": "\u2014 gross of fees ",
+                    "font": {
+                      "name": "AvenirNext LT Com Regular",
+                      "size_pt": 9.0,
+                      "bold": null,
+                      "italic": null,
+                      "underline": null,
+                      "color": null,
+                      "color_theme": null
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "r": 3,
+            "c": 1,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": null,
+            "margins": [
+              0,
+              25400,
+              0,
+              25400
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "3175",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "3175",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "RIGHT",
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": "10.0pt",
+                "bullet": null,
+                "margin_left": "0",
+                "indent": "0",
+                "end_para_size": "900",
+                "runs": [
+                  {
+                    "text": "4.00   ",
+                    "font": {
+                      "name": "AvenirNext LT Com Regular",
+                      "size_pt": 9.0,
+                      "bold": false,
+                      "italic": null,
+                      "underline": null,
+                      "color": "000000",
+                      "color_theme": "TEXT_1"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "r": 3,
+            "c": 2,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": null,
+            "margins": [
+              0,
+              25400,
+              0,
+              25400
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "3175",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "3175",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "RIGHT",
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": "10.0pt",
+                "bullet": null,
+                "margin_left": "0",
+                "indent": "0",
+                "end_para_size": "900",
+                "runs": [
+                  {
+                    "text": "0.93   ",
+                    "font": {
+                      "name": "AvenirNext LT Com Regular",
+                      "size_pt": 9.0,
+                      "bold": false,
+                      "italic": null,
+                      "underline": null,
+                      "color": "000000",
+                      "color_theme": "TEXT_1"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "r": 3,
+            "c": 3,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": null,
+            "margins": [
+              0,
+              25400,
+              0,
+              25400
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "3175",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "3175",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "RIGHT",
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": "10.0pt",
+                "bullet": null,
+                "margin_left": "0",
+                "indent": "0",
+                "end_para_size": "900",
+                "runs": [
+                  {
+                    "text": "5.16   ",
+                    "font": {
+                      "name": "AvenirNext LT Com Regular",
+                      "size_pt": 9.0,
+                      "bold": false,
+                      "italic": null,
+                      "underline": null,
+                      "color": "000000",
+                      "color_theme": "TEXT_1"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "r": 4,
+            "c": 0,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": null,
+            "margins": [
+              0,
+              25400,
+              0,
+              25400
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "3175",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "3175",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": null,
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": "10.0pt",
+                "bullet": "none",
+                "margin_left": "6350",
+                "indent": "0",
+                "end_para_size": "900",
+                "runs": [
+                  {
+                    "text": "\u2014 net of fees ",
+                    "font": {
+                      "name": "AvenirNext LT Com Regular",
+                      "size_pt": 9.0,
+                      "bold": null,
+                      "italic": null,
+                      "underline": null,
+                      "color": null,
+                      "color_theme": null
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "r": 4,
+            "c": 1,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": null,
+            "margins": [
+              0,
+              25400,
+              0,
+              25400
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "3175",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "3175",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "RIGHT",
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": "10.0pt",
+                "bullet": null,
+                "margin_left": "0",
+                "indent": "0",
+                "end_para_size": "900",
+                "runs": [
+                  {
+                    "text": "2.46    ",
+                    "font": {
+                      "name": "AvenirNext LT Com Regular",
+                      "size_pt": 9.0,
+                      "bold": false,
+                      "italic": null,
+                      "underline": null,
+                      "color": "000000",
+                      "color_theme": "TEXT_1"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "r": 4,
+            "c": 2,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": null,
+            "margins": [
+              0,
+              25400,
+              0,
+              25400
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "3175",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "3175",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "RIGHT",
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": "10.0pt",
+                "bullet": null,
+                "margin_left": "0",
+                "indent": "0",
+                "end_para_size": "900",
+                "runs": [
+                  {
+                    "text": "-0.57    ",
+                    "font": {
+                      "name": "AvenirNext LT Com Regular",
+                      "size_pt": 9.0,
+                      "bold": false,
+                      "italic": null,
+                      "underline": null,
+                      "color": "000000",
+                      "color_theme": "TEXT_1"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "r": 4,
+            "c": 3,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": null,
+            "margins": [
+              0,
+              25400,
+              0,
+              25400
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "3175",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": "3175",
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "RIGHT",
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": "10.0pt",
+                "bullet": null,
+                "margin_left": "0",
+                "indent": "0",
+                "end_para_size": "900",
+                "runs": [
+                  {
+                    "text": "3.59    ",
+                    "font": {
+                      "name": "AvenirNext LT Com Regular",
+                      "size_pt": 9.0,
+                      "bold": false,
+                      "italic": null,
+                      "underline": null,
+                      "color": "000000",
+                      "color_theme": "TEXT_1"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "r": 5,
+            "c": 0,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": null,
+            "margins": [
+              0,
+              25400,
+              0,
+              25400
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "3175",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": null,
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "LEFT",
+                "space_before_pt": 0.0,
+                "space_after_pt": 0.0,
+                "line_spacing": "10.0pt",
+                "bullet": "none",
+                "margin_left": "0",
+                "indent": "0",
+                "end_para_size": "900",
+                "runs": [
+                  {
+                    "text": "85%/15% Bloomberg 1-15 Year Blend (1-17 Year) Municipal Bond Index/Bloomberg 1-15 Year Blend (1-17 Year) High Yield Municipal Bond Index",
+                    "font": {
+                      "name": "AvenirNext LT Com Regular",
+                      "size_pt": 9.0,
+                      "bold": false,
+                      "italic": false,
+                      "underline": null,
+                      "color": "000000",
+                      "color_theme": "TEXT_1"
+                    }
+                  },
+                  {
+                    "text": " ",
+                    "font": {
+                      "name": "AvenirNext LT Com Regular",
+                      "size_pt": 9.0,
+                      "bold": false,
+                      "italic": null,
+                      "underline": null,
+                      "color": null,
+                      "color_theme": null
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "r": 5,
+            "c": 1,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": null,
+            "margins": [
+              0,
+              25400,
+              0,
+              25400
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "3175",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": null,
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "RIGHT",
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": "10.0pt",
+                "bullet": null,
+                "margin_left": "0",
+                "indent": "0",
+                "end_para_size": "900",
+                "runs": [
+                  {
+                    "text": "4.32 ",
+                    "font": {
+                      "name": "AvenirNext LT Com Regular",
+                      "size_pt": 9.0,
+                      "bold": false,
+                      "italic": null,
+                      "underline": null,
+                      "color": "000000",
+                      "color_theme": "TEXT_1"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "r": 5,
+            "c": 2,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": null,
+            "margins": [
+              0,
+              25400,
+              0,
+              25400
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "3175",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": null,
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "RIGHT",
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": "10.0pt",
+                "bullet": null,
+                "margin_left": "0",
+                "indent": "0",
+                "end_para_size": "900",
+                "runs": [
+                  {
+                    "text": "1.14 ",
+                    "font": {
+                      "name": "AvenirNext LT Com Regular",
+                      "size_pt": 9.0,
+                      "bold": false,
+                      "italic": null,
+                      "underline": null,
+                      "color": "000000",
+                      "color_theme": "TEXT_1"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "r": 5,
+            "c": 3,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": null,
+            "margins": [
+              0,
+              25400,
+              0,
+              25400
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "3175",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": null,
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "RIGHT",
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": "10.0pt",
+                "bullet": null,
+                "margin_left": "0",
+                "indent": "0",
+                "end_para_size": "900",
+                "runs": [
+                  {
+                    "text": "5.72 ",
+                    "font": {
+                      "name": "AvenirNext LT Com Regular",
+                      "size_pt": 9.0,
+                      "bold": false,
+                      "italic": null,
+                      "underline": null,
+                      "color": "000000",
+                      "color_theme": "TEXT_1"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "r": 6,
+            "c": 0,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": null,
+            "margins": [
+              0,
+              25400,
+              0,
+              25400
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "3175",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": null,
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "LEFT",
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": "10.0pt",
+                "bullet": null,
+                "margin_left": null,
+                "indent": null,
+                "end_para_size": "900",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 6,
+            "c": 1,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": null,
+            "margins": [
+              0,
+              25400,
+              0,
+              25400
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "3175",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": null,
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "RIGHT",
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": "10.0pt",
+                "bullet": null,
+                "margin_left": "0",
+                "indent": "0",
+                "end_para_size": "900",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 6,
+            "c": 2,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": null,
+            "margins": [
+              0,
+              25400,
+              0,
+              25400
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "3175",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": null,
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "RIGHT",
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": "10.0pt",
+                "bullet": null,
+                "margin_left": "0",
+                "indent": "0",
+                "end_para_size": "900",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "r": 6,
+            "c": 3,
+            "merge_origin": false,
+            "spanned": false,
+            "span": null,
+            "fill": null,
+            "margins": [
+              0,
+              25400,
+              0,
+              25400
+            ],
+            "vertical_anchor": "BOTTOM",
+            "borders": {
+              "lnL": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnR": {
+                "w": null,
+                "color": null,
+                "none": true
+              },
+              "lnT": {
+                "w": "3175",
+                "color": null,
+                "none": true
+              },
+              "lnB": {
+                "w": null,
+                "color": null,
+                "none": true
+              }
+            },
+            "paragraphs": [
+              {
+                "level": 0,
+                "alignment": "RIGHT",
+                "space_before_pt": null,
+                "space_after_pt": null,
+                "line_spacing": "10.0pt",
+                "bullet": null,
+                "margin_left": "0",
+                "indent": "0",
+                "end_para_size": "900",
+                "runs": []
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "shape_id": 500,
+      "name": "DataBackup",
+      "shape_type": "TEXT_BOX",
+      "auto_shape_type": null,
+      "z_order": 10,
+      "locator": {
+        "shape_id": 500,
+        "name": "DataBackup",
+        "z_order": 10,
+        "placeholder_idx": null,
+        "placeholder_type": null,
+        "xpath": "/p:sld/p:cSld/p:spTree/p:sp[6]"
+      },
+      "geometry_emu": {
+        "left": 7955280,
+        "top": 216535,
+        "width": 1404620,
+        "height": 1053465,
+        "rotation": 0.0
+      },
+      "geometry_in": {
+        "left": 8.7,
+        "top": 0.237,
+        "width": 1.536,
+        "height": 1.152
+      },
+      "fill": null,
+      "line": {
+        "color": null,
+        "width": 0
+      },
+      "kind": "text",
+      "text_frame": {
+        "word_wrap": null,
+        "auto_size": "NONE",
+        "vertical_anchor": "TOP",
+        "margins": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "paragraphs": [
+        {
+          "level": 0,
+          "alignment": null,
+          "space_before_pt": null,
+          "space_after_pt": null,
+          "line_spacing": null,
+          "bullet": null,
+          "margin_left": null,
+          "indent": null,
+          "end_para_size": "700",
+          "runs": [
+            {
+              "text": "2026-03-31 / IR_SMA / IR_SMA_IMNASMA / 5 ",
+              "font": {
+                "name": null,
+                "size_pt": 7.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "FF0000",
+                "color_theme": null
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
