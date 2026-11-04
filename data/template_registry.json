@@ -3,15 +3,15 @@
     "key": "BOND::AMERICAN_BOND_1",
     "key_hash": "1b89181c707d2706",
     "fields": {
-      "asset_type": "Bond",
-      "acronym": "American_bond_1"
+      "asset_type": "BOND",
+      "acronym": "American_Bond_1"
     },
     "template_id": "bond__american_bond_1",
     "datasource_id": "ds_american_bond",
-    "current_version": 2,
-    "current_location": "templates/bond__american_bond_1/v2",
+    "current_version": 3,
+    "current_location": "templates/bond__american_bond_1/v3",
     "created_at": "2026-11-01T17:21:39+00:00",
-    "updated_at": "2026-11-03T07:58:39+00:00",
+    "updated_at": "2026-11-03T16:58:55+00:00",
     "versions": [
       {
         "version": 1,
@@ -29,6 +29,15 @@
         "created_at": "2026-11-03T07:58:39+00:00",
         "fidelity": "pass",
         "placeholders": 67
+      },
+      {
+        "version": 3,
+        "location": "templates/bond__american_bond_1/v3",
+        "story_key": "LOCAL-american_bond_lux_slide_dummy",
+        "platinum_sha256": "d4b2108328fa2b85b89775a859f52f0467ca386acd3cceceecb00994dd09739b",
+        "created_at": "2026-11-03T16:58:55+00:00",
+        "fidelity": "pass",
+        "placeholders": 2
       }
     ]
   },

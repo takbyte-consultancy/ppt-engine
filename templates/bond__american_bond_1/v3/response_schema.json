@@ -1,0 +1,245 @@
+{
+  "type": "object",
+  "properties": {
+    "slide_number": {
+      "type": "number"
+    },
+    "slide_title": {
+      "type": "string"
+    },
+    "composite_name": {
+      "type": "string"
+    },
+    "investment_performance": {
+      "type": "object",
+      "properties": {
+        "reporting_period": {
+          "type": "string"
+        },
+        "unit": {
+          "type": "string"
+        },
+        "cumulative_total_returns": {
+          "type": "object",
+          "properties": {
+            "periods": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "returns": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "properties": {
+                  "name": {
+                    "type": "string"
+                  },
+                  "gross_of_fees": {
+                    "type": "object",
+                    "properties": {
+                      "3_months": {
+                        "type": "number"
+                      },
+                      "ytd": {
+                        "type": "number"
+                      },
+                      "1_year": {
+                        "type": "number"
+                      }
+                    }
+                  },
+                  "net_of_fees": {
+                    "type": "object",
+                    "properties": {
+                      "3_months": {
+                        "type": "number"
+                      },
+                      "ytd": {
+                        "type": "number"
+                      },
+                      "1_year": {
+                        "type": "number"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "average_annual_total_returns": {
+          "type": "object",
+          "properties": {
+            "periods": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "returns": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "properties": {
+                  "name": {
+                    "type": "string"
+                  },
+                  "gross_of_fees": {
+                    "type": "object",
+                    "properties": {
+                      "3_years": {
+                        "type": "number"
+                      },
+                      "5_years": {
+                        "type": "null"
+                      },
+                      "lifetime": {
+                        "type": "number"
+                      }
+                    }
+                  },
+                  "net_of_fees": {
+                    "type": "object",
+                    "properties": {
+                      "3_years": {
+                        "type": "number"
+                      },
+                      "5_years": {
+                        "type": "null"
+                      },
+                      "lifetime": {
+                        "type": "number"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "lifetime_definition": {
+          "type": "string"
+        }
+      }
+    },
+    "calendar_year_returns": {
+      "type": "object",
+      "properties": {
+        "reporting_period": {
+          "type": "string"
+        },
+        "unit": {
+          "type": "string"
+        },
+        "years": {
+          "type": "array",
+          "items": {
+            "type": "number"
+          }
+        },
+        "composite_name": {
+          "type": "string"
+        },
+        "returns": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "2023": {
+                "type": "number"
+              },
+              "2024": {
+                "type": "number"
+              },
+              "2025": {
+                "type": "number"
+              }
+            }
+          }
+        }
+      }
+    },
+    "composite_information": {
+      "type": "object",
+      "properties": {
+        "name": {
+          "type": "string"
+        },
+        "inception_date": {
+          "type": "string"
+        },
+        "creation_date": {
+          "type": "string"
+        },
+        "previous_composite": {
+          "type": "object",
+          "properties": {
+            "name": {
+              "type": "string"
+            },
+            "inception_date": {
+              "type": "string"
+            },
+            "description": {
+              "type": "string"
+            }
+          }
+        },
+        "portfolio_coverage": {
+          "type": "string"
+        }
+      }
+    },
+    "disclosures": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "fee_disclosure": {
+      "type": "object",
+      "properties": {
+        "gross_returns": {
+          "type": "string"
+        },
+        "net_returns": {
+          "type": "string"
+        },
+        "model_annual_fee_percentage": {
+          "type": "number"
+        },
+        "additional_information": {
+          "type": "string"
+        }
+      }
+    },
+    "sources": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "slide_metadata": {
+      "type": "object",
+      "properties": {
+        "date": {
+          "type": "string"
+        },
+        "business_unit": {
+          "type": "string"
+        },
+        "project_code": {
+          "type": "string"
+        },
+        "page_number": {
+          "type": "number"
+        }
+      }
+    }
+  }
+}

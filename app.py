@@ -447,29 +447,50 @@ with tab_pitchbook:
                     st.error(f"Could not read sample pitchbook: {e}")
             criteria = {"sample_file": sample.name if sample else "", "sample_profile": sample_profile}
         else:
-            request = st.text_area("Describe the pitchbook", placeholder="For IMNASMA, create a pitchbook for FY2026 using the latest currency exhibits.", height=95)
-            c1, c2 = st.columns(2)
-            acronym_filter = c1.text_input("Acronym", placeholder="IMNASMA")
-            year_filter = c2.text_input("Financial year", placeholder="FY2026")
-            asset_filter = st.text_input("Asset type (optional)", placeholder="Fixed Income")
-            filtered = [label for label, h in zip(labels, handles)
-                        if (not acronym_filter or acronym_filter.casefold() in h.key.casefold())
-                        and (not asset_filter or asset_filter.casefold() in str(fields_by_key.get(h.key, {})).casefold())]
-            if year_filter:
-                filtered = [label for label in filtered if year_filter.casefold() in json.dumps(
-                    next((h.record for h in handles if f"{h.key} · v{h.version} · {h.record['file_name']}" == label), {})).casefold()]
-            choices = st.multiselect("Exhibit slides to include (optional)", filtered,
-                help="Choose exact saved versions, or leave empty and LangGraph will resolve latest exhibits from your criteria.")
-            refs = [ref_by_label[x] for x in choices]
+            request = st.text_area("Describe the pitchbook and preferred slide order",
+                placeholder="For IMNASMA, create a FY2026 pitchbook. Start with the market overview, then show performance and risks.", height=95,
+                help="The saved exhibit/acronym pair below selects the source slide. This request can guide the narrative order; AI ordering is optional.")
+            families = {}
+            for handle in handles:
+                fields = fields_by_key.get(handle.key, {})
+                family_key = (str(fields.get("acronym", "")).strip(), str(fields.get("asset_type", "")).strip())
+                if all(family_key):
+                    families.setdefault(family_key, []).append(handle)
+            acronyms = sorted({family[0] for family in families}, key=str.casefold)
+            if acronyms:
+                acronym_filter = st.selectbox("Acronym · required", acronyms, key="pitchbook_query_acronym")
+                asset_types = sorted({asset for acronym, asset in families if acronym == acronym_filter}, key=str.casefold)
+                asset_filter = st.multiselect("Exhibits / asset types · select one or more",
+                    asset_types, default=asset_types,
+                    key=f"pitchbook_query_asset_types_{re.sub(r'[^A-Za-z0-9]+', '_', acronym_filter)}",
+                    help="Each selected exhibit + acronym pair resolves to its latest saved slide version.")
+                for asset_type_choice in asset_filter:
+                    matches = families.get((acronym_filter, asset_type_choice), [])
+                    latest = max(matches, key=lambda handle: int(handle.version)) if matches else None
+                    if latest:
+                        registry_entry = repos.exhibit_registry.get(latest.key) if repos.exhibit_registry else None
+                        uid = f"{registry_entry['key_hash']}:v{latest.version}" if registry_entry else f"{latest.key}:v{latest.version}"
+                        st.caption(f"{asset_type_choice} · resolved UID {uid} · {latest.record['file_name']}")
+                year_filter = st.text_input("Financial year (optional filter)", placeholder="FY2026")
+            else:
+                acronym_filter, asset_filter, year_filter = "", [], ""
+                st.info("Create and save an exhibit first. Query-based pitchbooks resolve from registered exhibit + acronym pairs.")
+            use_ai_order = st.checkbox("Use AI to interpret the requested slide order",
+                value=bool(config.OPENAI_API_KEY), disabled=not bool(config.OPENAI_API_KEY),
+                help=("AI can reorder only the saved slides resolved from this exact pair. You can review and change the order before approval." if config.OPENAI_API_KEY
+                      else "Configure OPENAI_API_KEY to enable AI ordering. The saved slide order and manual reordering remain available."),
+                key="pitchbook_use_ai_order")
+            if not config.OPENAI_API_KEY:
+                st.caption("AI ordering is currently unavailable; the saved exhibit order will be used and can be changed in review.")
             criteria = {"request": request, "acronym": acronym_filter, "financial_year": year_filter,
-                        "asset_type": asset_filter}
+                        "asset_type": asset_filter, "use_llm_order": use_ai_order}
 
-        can_build = bool(refs) if mode == "From a sample deck" else bool(refs or (criteria.get("acronym") and criteria.get("financial_year")))
+        can_build = bool(refs) if mode == "From a sample deck" else bool(criteria.get("acronym") and criteria.get("asset_type"))
         if mode == "From a sample deck" and sample and not labels:
             st.warning("No saved exhibits are available yet. Create exhibits first, then map at least one sample UID to an exhibit.")
         if st.button("Build pitchbook draft", type="primary", disabled=False, key="build_pitchbook"):
             if not can_build:
-                st.warning("Map at least one sample UID to a saved exhibit before building the draft. If none are listed, create exhibits in the Exhibit creation tab first.")
+                st.warning("Select a saved exhibit/acronym pair, or map at least one sample UID to a saved exhibit.")
                 st.stop()
             try:
                 wf = PitchbookCreationWorkflow(default_pitchbook_services())
@@ -490,6 +511,8 @@ with tab_pitchbook:
         elif result.status == "awaiting_review":
             st.subheader("Review the draft")
             st.caption("Reorder by changing the position number. Source exhibit versions stay immutable.")
+            if result.state.get("log"):
+                st.info(result.state["log"][-1])
             slides = result.review["slides"]
             order_rows = [{"position": i + 1, "slide": i + 1, "exhibit": x["exhibit_name"],
                            "source": f"{x['key']} · v{x['version']}", "source_file": x["file_name"]}

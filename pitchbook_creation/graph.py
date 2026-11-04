@@ -15,6 +15,8 @@ from core.pptx_assembler import assemble_exhibits, slide_components
 from pitchbook_creation.state import PitchbookState
 from pitchbook_creation.services import PitchbookServices
 from pitchbook_creation.feedback import interpret_feedback
+from pitchbook_creation.order_planner import plan_slide_order
+from core.template_key import normalise
 
 
 def _target_size(state: PitchbookState) -> tuple[int, int] | None:
@@ -31,15 +33,20 @@ def _resolve(state: PitchbookState, svc: PitchbookServices):
         raise ValueError("Exhibit storage is not configured")
     refs = list(state.get("references", []))
     criteria = state.get("criteria", {})
-    if not refs and criteria.get("acronym"):
-        acronym = str(criteria["acronym"]).casefold()
-        asset_type = str(criteria.get("asset_type", "")).casefold()
+    if not refs and state.get("mode") == "request":
+        acronym = normalise(criteria.get("acronym", ""))
+        asset_types = criteria.get("asset_type", [])
+        if isinstance(asset_types, str):
+            asset_types = [asset_types] if asset_types else []
+        asset_types = {normalise(value) for value in asset_types if normalise(value)}
+        if not acronym or not asset_types:
+            raise ValueError("Select an acronym and at least one exhibit to resolve saved exhibits.")
         year = str(criteria.get("financial_year", "")).casefold()
         for entry in registry.list():
             fields = entry.get("fields", {})
-            if acronym not in str(fields.get("acronym", "")).casefold():
+            if acronym != normalise(fields.get("acronym", "")):
                 continue
-            if asset_type and asset_type not in str(fields.get("asset_type", "")).casefold():
+            if normalise(fields.get("asset_type", "")) not in asset_types:
                 continue
             latest = entry.get("versions", [])[-1:] 
             for rec in latest:
@@ -61,8 +68,16 @@ def _resolve(state: PitchbookState, svc: PitchbookServices):
                          "file_name": rec["file_name"], "exhibit_name": entry["exhibit_name"],
                          "sample_uid": ref.get("sample_uid"), "sample_slide": ref.get("sample_slide")})
     if not selected:
-        raise ValueError("Select at least one exhibit slide")
-    return {"selected": selected, "log": [f"resolved {len(selected)} exhibit reference(s)"]}
+        raise ValueError("No saved exhibit matches the selected exhibit, acronym, and financial year. Create the exhibit first or adjust the criteria.")
+    messages = [f"resolved {len(selected)} saved exhibit reference(s)"]
+    if state.get("mode") == "request":
+        if criteria.get("use_llm_order", False):
+            selected, ordering_message = plan_slide_order(
+                str(criteria.get("request", "")), selected, on_event=svc.emit)
+        else:
+            ordering_message = "AI ordering is off; using the saved exhibit order. Review and reorder manually if needed."
+        messages.append(ordering_message)
+    return {"selected": selected, "log": messages}
 
 
 def _assemble(state: PitchbookState, svc: PitchbookServices):

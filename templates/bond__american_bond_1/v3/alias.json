@@ -1,0 +1,72 @@
+{
+  "template_id": "bond__american_bond_1",
+  "template_key": "BOND::AMERICAN_BOND_1",
+  "key_fields": {
+    "asset_type": "BOND",
+    "acronym": "American_Bond_1"
+  },
+  "datasource_id": "ds_american_bond",
+  "version": 3,
+  "required_params": [],
+  "aliases": {
+    "M": {
+      "path": "$.sources[0]",
+      "null": "",
+      "description": "sources[0]",
+      "sample": "Capital Group"
+    }
+  },
+  "occurrences": [
+    {
+      "id": "o1",
+      "alias": "M",
+      "shape_id": 4,
+      "shape_name": "Title 3",
+      "location": {
+        "paragraph": 0
+      },
+      "start": 0,
+      "end": 13,
+      "text": "Capital Group",
+      "how": "data value inside the text; the rest stays literal",
+      "confidence": "high",
+      "candidates": []
+    },
+    {
+      "id": "o2",
+      "alias": "M",
+      "shape_id": 1408,
+      "shape_name": "Text Box 811",
+      "location": {
+        "paragraph": 4
+      },
+      "start": 0,
+      "end": 13,
+      "text": "Capital Group",
+      "how": "data value inside the text; the rest stays literal",
+      "confidence": "high",
+      "candidates": []
+    }
+  ],
+  "charts": [],
+  "labels": [],
+  "kept_static": [],
+  "callouts": [
+    {
+      "shape_id": 76,
+      "decision": "instruction",
+      "instruction_text": "Remove the off-slide automation/language annotation; it is not part of the slide content.",
+      "target_shape_id": 4,
+      "how_applied": "Deleted the annotation; no content on the target was changed.",
+      "needs_human": false
+    },
+    {
+      "shape_id": 22,
+      "decision": "instruction",
+      "instruction_text": "Remove the off-slide annotation marker; it is not part of the slide content.",
+      "target_shape_id": 4,
+      "how_applied": "Deleted the annotation; no content on the target was changed.",
+      "needs_human": false
+    }
+  ]
+}

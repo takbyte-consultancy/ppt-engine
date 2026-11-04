@@ -8,3 +8,4 @@ tests/_out/
 .DS_Store
 .idea/
 Archive.zip
+*.zip

@@ -3,22 +3,44 @@
     "key": "BOND::AMERICAN_BOND_1",
     "key_hash": "1b89181c707d2706",
     "fields": {
-      "asset_type": "Bond",
-      "acronym": "American_bond_1"
+      "asset_type": "BOND",
+      "acronym": "American_Bond_1"
     },
     "exhibit_name": "BOND_AMERICAN_BOND_1",
     "folder": "1b89181c707d2706__bond__american_bond_1",
     "datasource_id": "ds_american_bond",
-    "current_version": 1,
-    "current_location": "exhibits/1b89181c707d2706__bond__american_bond_1/v1",
+    "current_version": 3,
+    "current_location": "exhibits/1b89181c707d2706__bond__american_bond_1/v3",
     "created_at": "2026-11-03T07:59:20+00:00",
-    "updated_at": "2026-11-03T07:59:20+00:00",
+    "updated_at": "2026-11-03T17:02:21+00:00",
     "versions": [
       {
         "version": 1,
         "location": "exhibits/1b89181c707d2706__bond__american_bond_1/v1",
         "file_name": "BOND_AMERICAN_BOND_1.pptx",
         "generated_at": "2026-11-03T07:59:20+00:00",
+        "template_version": 2,
+        "data_sha256": "f906fb66d110245df035348a10046ec12907ac3e79293125b03cfeb9917e77fa",
+        "params": {},
+        "fidelity": "pass",
+        "warnings": 0
+      },
+      {
+        "version": 2,
+        "location": "exhibits/1b89181c707d2706__bond__american_bond_1/v2",
+        "file_name": "BOND_AMERICAN_BOND_1.pptx",
+        "generated_at": "2026-11-03T17:02:20+00:00",
+        "template_version": 2,
+        "data_sha256": "f906fb66d110245df035348a10046ec12907ac3e79293125b03cfeb9917e77fa",
+        "params": {},
+        "fidelity": "pass",
+        "warnings": 0
+      },
+      {
+        "version": 3,
+        "location": "exhibits/1b89181c707d2706__bond__american_bond_1/v3",
+        "file_name": "BOND_AMERICAN_BOND_1.pptx",
+        "generated_at": "2026-11-03T17:02:21+00:00",
         "template_version": 2,
         "data_sha256": "f906fb66d110245df035348a10046ec12907ac3e79293125b03cfeb9917e77fa",
         "params": {},
